@@ -1,0 +1,1891 @@
+﻿ID,NAME,SMILES,NaClg/L,Temp,Concentration,IE
+10001,2-mercaptopyrimidine,S=c1nccc[nH]1,10,313K,20ppm,91.24%
+10002,2-mercaptopyrimidine,S=c1nccc[nH]1,50,313K,20ppm,85.56%
+10003,2-mercaptopyrimidine,S=c1nccc[nH]1,100,313K,20ppm,83.31%
+10004,2-mercaptopyrimidine,S=c1nccc[nH]1,150,313K,20ppm,81.73%
+10005,2-mercaptopyrimidine,S=c1nccc[nH]1,200,313K,20ppm,76.29%
+10006,2-Benzylsulfanyl-1H-benzimidazole,c3ccc(CSc2nc1ccccc1[nH]2)cc3,2.587,333K,100ppm,90.80%
+10007,"quaternary ammonium salts based on pyrrolidine
+(PyQAs)",CCCCCCCCC(O)C(CCCCCCCC(=O)OCC(COC(=O)CCCCCCCC(O)C(CC(O)C(CCCCC)[NH+]1CCCC1)[NH+]2CCCC2)OC(=O)CCCCCCCC(C(O)CCCCCCCC)[NH+]3CCCC3)[NH+]4CCCC4.[Cl-].[Cl-].[Cl-].[Cl-],24.53,298K,7×10-5 M,63.40%
+10008,"quaternary ammonium salts based on pyrrolidine
+(PyQAs)",CCCCCCCCC(O)C(CCCCCCCC(=O)OCC(COC(=O)CCCCCCCC(O)C(CC(O)C(CCCCC)[NH+]1CCCC1)[NH+]2CCCC2)OC(=O)CCCCCCCC(C(O)CCCCCCCC)[NH+]3CCCC3)[NH+]4CCCC4.[Cl-].[Cl-].[Cl-].[Cl-],24.53,298K,15×10-5 M,68.10%
+10009,"quaternary ammonium salts based on pyrrolidine
+(PyQAs)",CCCCCCCCC(O)C(CCCCCCCC(=O)OCC(COC(=O)CCCCCCCC(O)C(CC(O)C(CCCCC)[NH+]1CCCC1)[NH+]2CCCC2)OC(=O)CCCCCCCC(C(O)CCCCCCCC)[NH+]3CCCC3)[NH+]4CCCC4.[Cl-].[Cl-].[Cl-].[Cl-],24.53,298K,35×10-5 M,82.20%
+10010,"quaternary ammonium salts based on pyrrolidine
+(PyQAs)",CCCCCCCCC(O)C(CCCCCCCC(=O)OCC(COC(=O)CCCCCCCC(O)C(CC(O)C(CCCCC)[NH+]1CCCC1)[NH+]2CCCC2)OC(=O)CCCCCCCC(C(O)CCCCCCCC)[NH+]3CCCC3)[NH+]4CCCC4.[Cl-].[Cl-].[Cl-].[Cl-],24.53,298K,70×10-5 M,92.00%
+10011,"quaternary ammonium salts based on piperidine 
+(PiQAs)","
+CCCCCCCCC(O)C(CCCCCCCC(=O)OCC(COC(=O)CCCCCCCC(O)C(CC(O)C(CCCCC)[NH+]1CCCCC1)[NH+]2CCCCC2)OC(=O)CCCCCCCC(C(O)CCCCCCCC)[NH+]3CCCCC3)[NH+]4CCCCC4.[Cl-].[Cl-].[Cl-].[Cl-]",24.53,298K,7×10-5 M,67.00%
+10012,"quaternary ammonium salts based on piperidine 
+(PiQAs)","
+CCCCCCCCC(O)C(CCCCCCCC(=O)OCC(COC(=O)CCCCCCCC(O)C(CC(O)C(CCCCC)[NH+]1CCCCC1)[NH+]2CCCCC2)OC(=O)CCCCCCCC(C(O)CCCCCCCC)[NH+]3CCCCC3)[NH+]4CCCCC4.[Cl-].[Cl-].[Cl-].[Cl-]",24.53,298K,15×10-5 M,80.10%
+10013,"quaternary ammonium salts based on piperidine 
+(PiQAs)","
+CCCCCCCCC(O)C(CCCCCCCC(=O)OCC(COC(=O)CCCCCCCC(O)C(CC(O)C(CCCCC)[NH+]1CCCCC1)[NH+]2CCCCC2)OC(=O)CCCCCCCC(C(O)CCCCCCCC)[NH+]3CCCCC3)[NH+]4CCCCC4.[Cl-].[Cl-].[Cl-].[Cl-]",24.53,298K,35×10-5 M,86.00%
+10014,"quaternary ammonium salts based on piperidine 
+(PiQAs)","
+CCCCCCCCC(O)C(CCCCCCCC(=O)OCC(COC(=O)CCCCCCCC(O)C(CC(O)C(CCCCC)[NH+]1CCCCC1)[NH+]2CCCCC2)OC(=O)CCCCCCCC(C(O)CCCCCCCC)[NH+]3CCCCC3)[NH+]4CCCCC4.[Cl-].[Cl-].[Cl-].[Cl-]",24.53,298K,70×10-5 M,94.00%
+10015,"4-(2-quinolinylazo)-catechol 
+(AZN-1)",Oc3ccc(/N=N\c2ccc1ccccc1n2)cc3O,35,323K,1×10-5 M,39.80%
+10016,"4-(2-quinolinylazo)-catechol 
+(AZN-1)",Oc3ccc(/N=N\c2ccc1ccccc1n2)cc3O,35,323K,2.5×10-5 M,58.90%
+10017,"4-(2-quinolinylazo)-catechol 
+(AZN-1)",Oc3ccc(/N=N\c2ccc1ccccc1n2)cc3O,35,323K,5×10-5 M,82.60%
+10018,"4-(2-quinolinylazo)-catechol 
+(AZN-1)",Oc3ccc(/N=N\c2ccc1ccccc1n2)cc3O,35,323K,1×10-4 M,91.40%
+10019,"4-(2-quinolinylazo)-catechol
+(AZN-1)",Oc3ccc(/N=N\c2ccc1ccccc1n2)cc3O,35,323K,5×10-4 M,98.30%
+10020,"4-(4-phenoxyphenylazo)-1-naphthol
+(AZN-2)",Oc3ccc(/N=N\c2ccc(Oc1ccccc1)cn2)c4ccccc34,35,323K,1×10-5 M,35.50%
+10021,"4-(4-phenoxyphenylazo)-1-naphthol
+(AZN-2)",Oc3ccc(/N=N\c2ccc(Oc1ccccc1)cn2)c4ccccc34,35,323K,2.5×10-5 M,56.10%
+10022,"4-(4-phenoxyphenylazo)-1-naphthol
+(AZN-2)",Oc3ccc(/N=N\c2ccc(Oc1ccccc1)cn2)c4ccccc34,35,323K,5×10-5 M,79.80%
+10023,"4-(4-phenoxyphenylazo)-1-naphthol
+(AZN-2)",Oc3ccc(/N=N\c2ccc(Oc1ccccc1)cn2)c4ccccc34,35,323K,1×10-4 M,89.70%
+10024,"4-(4-phenoxyphenylazo)-1-naphthol
+(AZN-2)",Oc3ccc(/N=N\c2ccc(Oc1ccccc1)cn2)c4ccccc34,35,323K,5×10-4 M,97.20%
+10025,"4-(4-pyridylazo)-1-naphthol
+(AZN-3)",Oc3ccc(/N=N\c2ccc(Oc1ccccc1)cn2)c4ccccc34,35,323K,1×10-5 M,27.10%
+10026,"4-(4-pyridylazo)-1-naphthol
+(AZN-3)",Oc3ccc(/N=N\c2ccc(Oc1ccccc1)cn2)c4ccccc34,35,323K,2.5×10-5 M,47.50%
+10027,"4-(4-pyridylazo)-1-naphthol
+(AZN-3)",Oc3ccc(/N=N\c2ccc(Oc1ccccc1)cn2)c4ccccc34,35,323K,5×10-5 M,72.30%
+10028,"4-(4-pyridylazo)-1-naphthol
+(AZN-3)",Oc3ccc(/N=N\c2ccc(Oc1ccccc1)cn2)c4ccccc34,35,323K,1×10-4 M,85.20%
+10029,"4-(4-pyridylazo)-1-naphthol
+(AZN-3)",Oc3ccc(/N=N\c2ccc(Oc1ccccc1)cn2)c4ccccc34,35,323K,5×10-4 M,94.20%
+10030,"4-(2- pyridylazo)-1-naphthol
+(AZN-4)",Oc3ccc(/N=N\c2ccc(Oc1ccccc1)cn2)c4ccccc34,35,323K,1×10-5 M,23.50%
+10031,"4-(2- pyridylazo)-1-naphthol
+(AZN-4)",Oc3ccc(/N=N\c2ccc(Oc1ccccc1)cn2)c4ccccc34,35,323K,2.5×10-5 M,43.80%
+10032,"4-(2- pyridylazo)-1-naphthol
+(AZN-4)",Oc3ccc(/N=N\c2ccc(Oc1ccccc1)cn2)c4ccccc34,35,323K,5×10-5 M,66.50%
+10033,"4-(2- pyridylazo)-1-naphthol
+(AZN-4)",Oc3ccc(/N=N\c2ccc(Oc1ccccc1)cn2)c4ccccc34,35,323K,1×10-4 M,79.30%
+10034,"4-(2- pyridylazo)-1-naphthol
+(AZN-4)",Oc3ccc(/N=N\c2ccc(Oc1ccccc1)cn2)c4ccccc34,35,323K,5×10-4 M,91.00%
+10036,"N,N′-bis(2-hydroxypropyl) hexamethylenediammonium octanoate stearate
+(NNBOS)",CC(O)C[NH2+]CCCCCC[NH2+]CC(C)O.CCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-],10,323K,25ppm,92.50%
+10037,"N,N′-bis(2-hydroxypropyl) hexamethylenediammonium octanoate stearate
+(NNBOS)",CC(O)C[NH2+]CCCCCC[NH2+]CC(C)O.CCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-],10,323K,50ppm,95.80%
+10038,"N,N′-bis(2-hydroxypropyl) hexamethylenediammonium octanoate stearate
+(NNBOS)",CC(O)C[NH2+]CCCCCC[NH2+]CC(C)O.CCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-],10,323K,75ppm,99.30%
+10039,"N,N′-bis(2-hydroxypropyl) hexamethylenediammonium octanoate stearate
+(NNBOS)",CC(O)C[NH2+]CCCCCC[NH2+]CC(C)O.CCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-],10,323K,100ppm,99.30%
+10040,"N,N′-bis(2-hydroxypropyl) hexamethylenediammonium octanoate oleate
+(NNBOO)",CC(O)C[NH2+]CCCCCC[NH2+]CC(C)O.CCCCCCCC(=O)[O-].CCCCCCCC/C=C/CCCCCCCC(=O)[O-],10,323K,10ppm,81.40%
+10041,"N,N′-bis(2-hydroxypropyl) hexamethylenediammonium octanoate oleate
+(NNBOO)",CC(O)C[NH2+]CCCCCC[NH2+]CC(C)O.CCCCCCCC(=O)[O-].CCCCCCCC/C=C/CCCCCCCC(=O)[O-],10,323K,25ppm,83.57%
+10042,"N,N′-bis(2-hydroxypropyl) hexamethylenediammonium octanoate oleate
+(NNBOO)",CC(O)C[NH2+]CCCCCC[NH2+]CC(C)O.CCCCCCCC(=O)[O-].CCCCCCCC/C=C/CCCCCCCC(=O)[O-],10,323K,50ppm,96.86%
+10043,"N,N′-bis(2-hydroxypropyl) hexamethylenediammonium octanoate oleate
+(NNBOO)",CC(O)C[NH2+]CCCCCC[NH2+]CC(C)O.CCCCCCCC(=O)[O-].CCCCCCCC/C=C/CCCCCCCC(=O)[O-],10,323K,100ppm,99.28%
+10044,"N,N′-bis(2-hydroxypropyl) hexamethylenediammonium octanoate linolenate
+(NNBOL)",CC(O)C[NH2+]CCCCCC[NH2+]CC(C)O.CCCCCCCC(=O)[O-].CCCCC/C=C/C/C=C/CCCCCCCC(=O)[O-],10,323K,5ppm,52.20%
+10045,"N,N′-bis(2-hydroxypropyl) hexamethylenediammonium octanoate linolenate
+(NNBOL)",CC(O)C[NH2+]CCCCCC[NH2+]CC(C)O.CCCCCCCC(=O)[O-].CCCCC/C=C/C/C=C/CCCCCCCC(=O)[O-],10,323K,10ppm,77.05%
+10046,"N,N′-bis(2-hydroxypropyl) hexamethylenediammonium octanoate linolenate
+(NNBOL)",CC(O)C[NH2+]CCCCCC[NH2+]CC(C)O.CCCCCCCC(=O)[O-].CCCCC/C=C/C/C=C/CCCCCCCC(=O)[O-],10,323K,25ppm,93.00%
+10047,"N,N′-bis(2-hydroxypropyl) hexamethylenediammonium octanoate linolenate
+(NNBOL)",CC(O)C[NH2+]CCCCCC[NH2+]CC(C)O.CCCCCCCC(=O)[O-].CCCCC/C=C/C/C=C/CCCCCCCC(=O)[O-],10,323K,50ppm,99.03%
+10048,"N,N′-bis(2-hydroxypropyl) hexamethylenediammonium octanoate linolenate
+(NNBOL)",CC(O)C[NH2+]CCCCCC[NH2+]CC(C)O.CCCCCCCC(=O)[O-].CCCCC/C=C/C/C=C/CCCCCCCC(=O)[O-],10,323K,100ppm,99.50%
+10049,crystal violet,CN(C)c3ccc(C(c1ccc(N(C)C)cc1)=c2ccc(=[N+](C)C)cc2)cc3.[Cl-],50,298K,25ppm,58.01%
+10050,crystal violet,CN(C)c3ccc(C(c1ccc(N(C)C)cc1)=c2ccc(=[N+](C)C)cc2)cc3.[Cl-],50,298K,50ppm,86.96%
+10051,crystal violet,CN(C)c3ccc(C(c1ccc(N(C)C)cc1)=c2ccc(=[N+](C)C)cc2)cc3.[Cl-],50,298K,75ppm,92.78%
+10052,crystal violet,CN(C)c3ccc(C(c1ccc(N(C)C)cc1)=c2ccc(=[N+](C)C)cc2)cc3.[Cl-],50,298K,100ppm,94.84%
+10053,crystal violet,CN(C)c3ccc(C(c1ccc(N(C)C)cc1)=c2ccc(=[N+](C)C)cc2)cc3.[Cl-],50,298K,150ppm,94.89%
+10054,crystal violet,CN(C)c3ccc(C(c1ccc(N(C)C)cc1)=c2ccc(=[N+](C)C)cc2)cc3.[Cl-],50,313K,25ppm,56.13%
+10055,crystal violet,CN(C)c3ccc(C(c1ccc(N(C)C)cc1)=c2ccc(=[N+](C)C)cc2)cc3.[Cl-],50,313K,50ppm,71.31%
+10056,crystal violet,CN(C)c3ccc(C(c1ccc(N(C)C)cc1)=c2ccc(=[N+](C)C)cc2)cc3.[Cl-],50,313K,75ppm,73.54%
+10057,crystal violet,CN(C)c3ccc(C(c1ccc(N(C)C)cc1)=c2ccc(=[N+](C)C)cc2)cc3.[Cl-],50,313K,100ppm,88.87%
+10058,crystal violet,CN(C)c3ccc(C(c1ccc(N(C)C)cc1)=c2ccc(=[N+](C)C)cc2)cc3.[Cl-],50,313K,150ppm,94.61%
+10059,crystal violet,CN(C)c3ccc(C(c1ccc(N(C)C)cc1)=c2ccc(=[N+](C)C)cc2)cc3.[Cl-],50,333K,25ppm,38.29%
+10060,crystal violet,CN(C)c3ccc(C(c1ccc(N(C)C)cc1)=c2ccc(=[N+](C)C)cc2)cc3.[Cl-],50,333K,50ppm,70.72%
+10061,crystal violet,CN(C)c3ccc(C(c1ccc(N(C)C)cc1)=c2ccc(=[N+](C)C)cc2)cc3.[Cl-],50,333K,75ppm,70.93%
+10062,crystal violet,CN(C)c3ccc(C(c1ccc(N(C)C)cc1)=c2ccc(=[N+](C)C)cc2)cc3.[Cl-],50,333K,100ppm,75.51%
+10063,crystal violet,CN(C)c3ccc(C(c1ccc(N(C)C)cc1)=c2ccc(=[N+](C)C)cc2)cc3.[Cl-],50,333K,150ppm,92.94%
+10064,"2-mercaptopyrimidine 
+(MPY)",S=c1[nH]ccc[nH+]1,35,298K,100ppm,90.30%
+10065,"2-mercaptopyrimidine 
+(MPY)",S=c1[nH]ccc[nH+]1,35,343K,100ppm,85.20%
+10066,"4-hydroxy-2-mercapto-6-methylpyrimidine 
+(HMMP)",Cc1cc(=O)[nH]c(=S)[nH]1,35,298K,100ppm,85.00%
+10067,"4-hydroxy-2-mercapto-6-methylpyrimidine 
+(HMMP)",Cc1cc(=O)[nH]c(=S)[nH]1,35,343K,100ppm,50.50%
+10068,"4,5-Diamino-2,6-dimercaptopyrimidine 
+(DDMP)",Nc1[nH]c(=S)[nH]c(=S)c1N,35,298K,100ppm,95.30%
+10069,"4,5-Diamino-2,6-dimercaptopyrimidine 
+(DDMP)",Nc1[nH]c(=S)[nH]c(=S)c1N,35,343K,100ppm,93.00%
+10070,β-N-butyl amino propionic acid,CCCC[NH2+]CCC(=O)[O-],2.587,298K,10ppm,59.66%
+10071,β-N-butyl amino propionic acid,CCCC[NH2+]CCC(=O)[O-],2.587,298K,25ppm,72.56%
+10072,β-N-butyl amino propionic acid,CCCC[NH2+]CCC(=O)[O-],2.587,298K,50ppm,90.50%
+10073,β-N-butyl amino propionic acid,CCCC[NH2+]CCC(=O)[O-],2.587,298K,75ppm,94.23%
+10074,β-N-butyl amino propionic acid,CCCC[NH2+]CCC(=O)[O-],2.587,298K,100ppm,95.52%
+10075,"quaternary ammonium vanillyl aldehyde oligosaccharide 
+GCOS)",COc4cc(/C=N\C1C(O)C(O)C(CO)OC1OC3OC(CO)C(OC2C(O)C(NCC(O)C[N+](C)(C)C)C(O)OC2CO)C(O)C3N)ccc4O.[Cl-],30,333K,25ppm,76.90%
+10076,"quaternary ammonium vanillyl aldehyde oligosaccharide 
+GCOS)",COc4cc(/C=N\C1C(O)C(O)C(CO)OC1OC3OC(CO)C(OC2C(O)C(NCC(O)C[N+](C)(C)C)C(O)OC2CO)C(O)C3N)ccc4O.[Cl-],30,333K,50ppm,87.50%
+10077,"quaternary ammonium vanillyl aldehyde oligosaccharide 
+GCOS)",COc4cc(/C=N\C1C(O)C(O)C(CO)OC1OC3OC(CO)C(OC2C(O)C(NCC(O)C[N+](C)(C)C)C(O)OC2CO)C(O)C3N)ccc4O.[Cl-],30,333K,75ppm,89.00%
+10078,"quaternary ammonium vanillyl aldehyde oligosaccharide 
+GCOS)",COc4cc(/C=N\C1C(O)C(O)C(CO)OC1OC3OC(CO)C(OC2C(O)C(NCC(O)C[N+](C)(C)C)C(O)OC2CO)C(O)C3N)ccc4O.[Cl-],30,333K,100ppm,91.20%
+10079,"quaternary ammonium vanillyl aldehyde oligosaccharide 
+GCOS)",COc4cc(/C=N\C1C(O)C(O)C(CO)OC1OC3OC(CO)C(OC2C(O)C(NCC(O)C[N+](C)(C)C)C(O)OC2CO)C(O)C3N)ccc4O.[Cl-],30,333K,150ppm,97.60%
+10080,"quaternary ammonium vanillyl aldehyde oligosaccharide 
+GCOS)",COc4cc(/C=N\C1C(O)C(O)C(CO)OC1OC3OC(CO)C(OC2C(O)C(NCC(O)C[N+](C)(C)C)C(O)OC2CO)C(O)C3N)ccc4O.[Cl-],30,333K,200ppm,99.40%
+10081,"pyridine (1-chloromethyl naphthalene) quaternary ammonium salt
+(1-CPN)",c3cc[n+](Cc1cccc2ccccc12)cc3.[Cl-],30,333K,2×10-4 M,44.90%
+10082,"Thiourea
+(TU)",NC(N)=S,30,333K,2×10-4 M,55.40%
+10083,"quinoline (1-chloromethyl naphthalene) quaternary ammonium salt
+(1-CQN)",c4ccc3c(C[n+]2cccc1ccccc12)cccc3c4.[Cl-],30,333K,2×10-4 M,59.00%
+10084,"imidazoline
+(IM)",CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCN,2.587,333K,60ppm,89.67%
+10085,"dithiothreitol
+(DTT)",OC(CS)C(O)CS,2.587,333K,60ppm,85.97%
+10086,"valsartan
+(VST)",CCCCC(=O)N(Cc3ccc(c2ccc(c1nnn[nH]1)cc2)cc3)C(C(=O)O)C(C)C,28.2,333K,50ppm,59.95%
+10087,"valsartan
+(VST)",CCCCC(=O)N(Cc3ccc(c2ccc(c1nnn[nH]1)cc2)cc3)C(C(=O)O)C(C)C,28.2,333K,100ppm,75.30%
+10088,"valsartan
+(VST)",CCCCC(=O)N(Cc3ccc(c2ccc(c1nnn[nH]1)cc2)cc3)C(C(=O)O)C(C)C,28.2,333K,200ppm,85.45%
+10089,"valsartan
+(VST)",CCCCC(=O)N(Cc3ccc(c2ccc(c1nnn[nH]1)cc2)cc3)C(C(=O)O)C(C)C,28.2,333K,400ppm,90.35%
+10090,"candesartan
+(CST)",CCO/C2=C/C1/C=C\C=C(C(=O)O)/C1N2Cc5ccc(c4ccc(c3nnn[nH]3)cc4)cc5,28.2,333K,50ppm,79.45%
+10091,"candesartan
+(CST)",CCO/C2=C/C1/C=C\C=C(C(=O)O)/C1N2Cc5ccc(c4ccc(c3nnn[nH]3)cc4)cc5,28.2,333K,100ppm,84.00%
+10092,"candesartan
+(CST)",CCO/C2=C/C1/C=C\C=C(C(=O)O)/C1N2Cc5ccc(c4ccc(c3nnn[nH]3)cc4)cc5,28.2,333K,200ppm,89.35%
+10093,"candesartan
+(CST)",CCO/C2=C/C1/C=C\C=C(C(=O)O)/C1N2Cc5ccc(c4ccc(c3nnn[nH]3)cc4)cc5,28.2,333K,400ppm,93.30%
+10094,furfuryl mercaptan (FFT),SCc1ccco1,35,333K,1ppm,77.40%
+10095,furfuryl mercaptan (FFT),SCc1ccco1,35,333K,2.5ppm,90.00%
+10096,furfuryl mercaptan (FFT),SCc1ccco1,35,333K,5ppm,91.10%
+10097,furfuryl mercaptan (FFT),SCc1ccco1,35,333K,7.5ppm,96.00%
+10098,furfuryl mercaptan (FFT),SCc1ccco1,35,333K,10ppm,95.90%
+10099,"difurfuryl disulfide 
+DFDS)",c2coc(CSSCc1ccco1)c2,35,333K,1ppm,95.90%
+10100,"difurfuryl disulfide 
+DFDS)",c2coc(CSSCc1ccco1)c2,35,333K,2.5ppm,97.80%
+10101,"difurfuryl disulfide 
+DFDS)",c2coc(CSSCc1ccco1)c2,35,333K,5ppm,98.20%
+10102,"difurfuryl disulfide 
+DFDS)",c2coc(CSSCc1ccco1)c2,35,333K,7.5ppm,98.40%
+10103,"difurfuryl disulfide 
+DFDS)",c2coc(CSSCc1ccco1)c2,35,333K,10ppm,99.10%
+10104,2-phenylthiazolidine-4-carboxylic acid (PTCA),O=C(O)[C@@H]2CSC(c1ccccc1)N2,62.36,333K,0.1mM,96.79%
+10105,2-phenylthiazolidine-4-carboxylic acid (PTCA),O=C(O)[C@@H]2CSC(c1ccccc1)N2,62.36,333K,0.2mM,97.25%
+10106,2-phenylthiazolidine-4-carboxylic acid (PTCA),O=C(O)[C@@H]2CSC(c1ccccc1)N2,62.36,333K,0.4mM,98.30%
+10107,2-phenylthiazolidine-4-carboxylic acid (PTCA),O=C(O)[C@@H]2CSC(c1ccccc1)N2,62.36,333K,0.8mM,98.92%
+10108,2-(thiophen-2-yl)thiazolidine-4-carboxylic acid (TTCA),O=C(O)[C@@H]2CSC(c1cccs1)N2,62.36,333K,0.1mM,98.25%
+10109,2-(thiophen-2-yl)thiazolidine-4-carboxylic acid (TTCA),O=C(O)[C@@H]2CSC(c1cccs1)N2,62.36,333K,0.2mM,98.78%
+10110,2-(thiophen-2-yl)thiazolidine-4-carboxylic acid (TTCA),O=C(O)[C@@H]2CSC(c1cccs1)N2,62.36,333K,0.4mM,99.27%
+10111,2-(thiophen-2-yl)thiazolidine-4-carboxylic acid (TTCA),O=C(O)[C@@H]2CSC(c1cccs1)N2,62.36,333K,0.8mM,99.58%
+10112,"Co-MOF
+with 2-methylimidazole as an organic ligand",CC1N2CCN1[Co]N7CCN([Co]N6CCN([Co]N5CCN([Co]N4CCN([Co]N3CCN([Co]2)C3C)C4C)C5C)C6C)C7C,35,room temperature,0.0125wt%,76.00%
+10113,"Co-MOF
+with 2-methylimidazole as an organic ligand",CC1N2CCN1[Co]N7CCN([Co]N6CCN([Co]N5CCN([Co]N4CCN([Co]N3CCN([Co]2)C3C)C4C)C5C)C6C)C7C,35,room temperature,0.025wt%,83.00%
+10114,"Co-MOF
+with 2-methylimidazole as an organic ligand",CC1N2CCN1[Co]N7CCN([Co]N6CCN([Co]N5CCN([Co]N4CCN([Co]N3CCN([Co]2)C3C)C4C)C5C)C6C)C7C,35,room temperature,0.05wt%,90.00%
+10115,"Co-MOF
+with 2-methylimidazole as an organic ligand",CC1N2CCN1[Co]N7CCN([Co]N6CCN([Co]N5CCN([Co]N4CCN([Co]N3CCN([Co]2)C3C)C4C)C5C)C6C)C7C,35,room temperature,0.075wt%,92.00%
+10116,"Co-MOF
+with 2-methylimidazole as an organic ligand",CC1N2CCN1[Co]N7CCN([Co]N6CCN([Co]N5CCN([Co]N4CCN([Co]N3CCN([Co]2)C3C)C4C)C5C)C6C)C7C,35,room temperature,0.1wt%,97.00%
+10118,"5-(4-(dimethylamino)phenyl)−2,7-dithioxo-2,3,5,6,7,8-hexahydropyrimido[4,5-d]pyrimidin-4(1H)-one
+(DPP)",CN(C)c3ccc(C2NC(=S)Nc1[nH]c(=S)[nH]c(=O)c12)cc3,35,298K,5ppm,96.00%
+10119,"5-(4-(dimethylamino)phenyl)−2,7-dithioxo-2,3,5,6,7,8-hexahydropyrimido[4,5-d]pyrimidin-4(1H)-one
+(DPP)",CN(C)c3ccc(C2NC(=S)Nc1[nH]c(=S)[nH]c(=O)c12)cc3,35,298K,10ppm,97.00%
+10120,"5-(4-(dimethylamino)phenyl)−2,7-dithioxo-2,3,5,6,7,8-hexahydropyrimido[4,5-d]pyrimidin-4(1H)-one
+(DPP)",CN(C)c3ccc(C2NC(=S)Nc1[nH]c(=S)[nH]c(=O)c12)cc3,35,298K,50ppm,98.00%
+10121,"5-(4-(dimethylamino)phenyl)−2,7-dithioxo-2,3,5,6,7,8-hexahydropyrimido[4,5-d]pyrimidin-4(1H)-one
+(DPP)",CN(C)c3ccc(C2NC(=S)Nc1[nH]c(=S)[nH]c(=O)c12)cc3,35,298K,5ppm,55.00%
+10122,"5-(4-(dimethylamino)phenyl)−2,7-dithioxo-2,3,5,6,7,8-hexahydropyrimido[4,5-d]pyrimidin-4(1H)-one
+(DPP)",CN(C)c3ccc(C2NC(=S)Nc1[nH]c(=S)[nH]c(=O)c12)cc3,35,298K,10ppm,67.00%
+10123,"5-(4-(dimethylamino)phenyl)−2,7-dithioxo-2,3,5,6,7,8-hexahydropyrimido[4,5-d]pyrimidin-4(1H)-one
+(DPP)",CN(C)c3ccc(C2NC(=S)Nc1[nH]c(=S)[nH]c(=O)c12)cc3,35,298K,50ppm,81.00%
+10124,"2-mercaptobenzimidazole
+(2-MBI)",S=c2[nH]c1ccccc1[nH]2,9.945,343K,1mM,83.00%
+10125,"2-mercaptobenzimidazole
+(2-MBI)",S=c2[nH]c1ccccc1[nH]2,9.945,343K,3mM,87.00%
+10126,"2-amino-5-ethyl-1,3,4-thiodiazole (2-AETD)",CCc1nnc(N)s1,9.945,343K,1mM,44.00%
+10127,"2-amino-5-ethyl-1,3,4-thiodiazole (2-AETD)",CCc1nnc(N)s1,9.945,343K,3mM,80.00%
+10128,"Sodium (E)-4-Hydroxy-3-((pyridin-2-ylimino)methyl)benzenesulfonate
+(H1)",O=S(=O)([O-])c2ccc(O)c(/C=N/c1ccccn1)c2.[Na+],35,323K,1×10-6 M,24.90%
+10129,"Sodium (E)-4-Hydroxy-3-((pyridin-2-ylimino)methyl)benzenesulfonate
+(H1)",O=S(=O)([O-])c2ccc(O)c(/C=N/c1ccccn1)c2.[Na+],35,323K,5×10-6 M,32.60%
+10130,"Sodium (E)-4-Hydroxy-3-((pyridin-2-ylimino)methyl)benzenesulfonate
+(H1)",O=S(=O)([O-])c2ccc(O)c(/C=N/c1ccccn1)c2.[Na+],35,323K,1×10-5 M,50.40%
+10131,"Sodium (E)-4-Hydroxy-3-((pyridin-2-ylimino)methyl)benzenesulfonate
+(H1)",O=S(=O)([O-])c2ccc(O)c(/C=N/c1ccccn1)c2.[Na+],35,323K,5×10-5 M,66.30%
+10132,"Sodium (E)-4-Hydroxy-3-((pyridin-2-ylimino)methyl)benzenesulfonate
+(H1)",O=S(=O)([O-])c2ccc(O)c(/C=N/c1ccccn1)c2.[Na+],35,323K,1×10-4 M,83.80%
+10133,"Sodium (E)-4-Hydroxy-3-((pyridin-2-ylimino)methyl)benzenesulfonate
+(H1)",O=S(=O)([O-])c2ccc(O)c(/C=N/c1ccccn1)c2.[Na+],35,323K,5×10-4 M,92.50%
+10134,"Sodium 3,3′-(1E,1′E)-(1,2-Phenylenebis(azan-1-yl-1-ylidene))bis(methan-1-yl-1-ylidene)bis(4-hydroxybenzenesulfonate)
+(H2)",O=S(=O)([O-])c3ccc(O)c(/C=N/c1ccccc1/N=C/c2cc(S(=O)(=O)[O-])ccc2O)c3.[Na+].[Na+],35,323K,1×10-6 M,28.30%
+10135,"Sodium 3,3′-(1E,1′E)-(1,2-Phenylenebis(azan-1-yl-1-ylidene))bis(methan-1-yl-1-ylidene)bis(4-hydroxybenzenesulfonate)
+(H2)",O=S(=O)([O-])c3ccc(O)c(/C=N/c1ccccc1/N=C/c2cc(S(=O)(=O)[O-])ccc2O)c3.[Na+].[Na+],35,323K,5×10-6 M,39.60%
+10136,"Sodium 3,3′-(1E,1′E)-(1,2-Phenylenebis(azan-1-yl-1-ylidene))bis(methan-1-yl-1-ylidene)bis(4-hydroxybenzenesulfonate)
+(H2)",O=S(=O)([O-])c3ccc(O)c(/C=N/c1ccccc1/N=C/c2cc(S(=O)(=O)[O-])ccc2O)c3.[Na+].[Na+],35,323K,1×10-5 M,57.60%
+10137,"Sodium 3,3′-(1E,1′E)-(1,2-Phenylenebis(azan-1-yl-1-ylidene))bis(methan-1-yl-1-ylidene)bis(4-hydroxybenzenesulfonate)
+(H2)",O=S(=O)([O-])c3ccc(O)c(/C=N/c1ccccc1/N=C/c2cc(S(=O)(=O)[O-])ccc2O)c3.[Na+].[Na+],35,323K,5×10-5 M,73.40%
+10138,"Sodium 3,3′-(1E,1′E)-(1,2-Phenylenebis(azan-1-yl-1-ylidene))bis(methan-1-yl-1-ylidene)bis(4-hydroxybenzenesulfonate)
+(H2)",O=S(=O)([O-])c3ccc(O)c(/C=N/c1ccccc1/N=C/c2cc(S(=O)(=O)[O-])ccc2O)c3.[Na+].[Na+],35,323K,1×10-4 M,85.30%
+10139,"Sodium 3,3′-(1E,1′E)-(1,2-Phenylenebis(azan-1-yl-1-ylidene))bis(methan-1-yl-1-ylidene)bis(4-hydroxybenzenesulfonate)
+(H2)",O=S(=O)([O-])c3ccc(O)c(/C=N/c1ccccc1/N=C/c2cc(S(=O)(=O)[O-])ccc2O)c3.[Na+].[Na+],35,323K,5×10-4 M,95.70%
+10140,"Sodium 3,3′-(1E,1′E)-(4-Chloro-1,2-phenylene)bis(azan-1-yl-1-ylidene)bis(methan-1-yl-1-ylidene)bis(4-hydroxybenzenesulfonate)
+(H3)",O=S(=O)([O-])c3ccc(O)c(/C=N/c1ccc(Cl)cc1/N=C/c2cc(S(=O)(=O)[O-])ccc2O)c3.[Na+].[Na+],35,323K,1×10-6 M,31.90%
+10141,"Sodium 3,3′-(1E,1′E)-(4-Chloro-1,2-phenylene)bis(azan-1-yl-1-ylidene)bis(methan-1-yl-1-ylidene)bis(4-hydroxybenzenesulfonate)
+(H3)",O=S(=O)([O-])c3ccc(O)c(/C=N/c1ccc(Cl)cc1/N=C/c2cc(S(=O)(=O)[O-])ccc2O)c3.[Na+].[Na+],35,323K,5×10-6 M,43.70%
+10142,"Sodium 3,3′-(1E,1′E)-(4-Chloro-1,2-phenylene)bis(azan-1-yl-1-ylidene)bis(methan-1-yl-1-ylidene)bis(4-hydroxybenzenesulfonate)
+(H3)",O=S(=O)([O-])c3ccc(O)c(/C=N/c1ccc(Cl)cc1/N=C/c2cc(S(=O)(=O)[O-])ccc2O)c3.[Na+].[Na+],35,323K,1×10-5 M,65.30%
+10143,"Sodium 3,3′-(1E,1′E)-(4-Chloro-1,2-phenylene)bis(azan-1-yl-1-ylidene)bis(methan-1-yl-1-ylidene)bis(4-hydroxybenzenesulfonate)
+(H3)",O=S(=O)([O-])c3ccc(O)c(/C=N/c1ccc(Cl)cc1/N=C/c2cc(S(=O)(=O)[O-])ccc2O)c3.[Na+].[Na+],35,323K,5×10-5 M,77.50%
+10144,"Sodium 3,3′-(1E,1′E)-(4-Chloro-1,2-phenylene)bis(azan-1-yl-1-ylidene)bis(methan-1-yl-1-ylidene)bis(4-hydroxybenzenesulfonate)
+(H3)",O=S(=O)([O-])c3ccc(O)c(/C=N/c1ccc(Cl)cc1/N=C/c2cc(S(=O)(=O)[O-])ccc2O)c3.[Na+].[Na+],35,323K,1×10-4 M,89.50%
+10145,"Sodium 3,3′-(1E,1′E)-(4-Chloro-1,2-phenylene)bis(azan-1-yl-1-ylidene)bis(methan-1-yl-1-ylidene)bis(4-hydroxybenzenesulfonate)
+(H3)",O=S(=O)([O-])c3ccc(O)c(/C=N/c1ccc(Cl)cc1/N=C/c2cc(S(=O)(=O)[O-])ccc2O)c3.[Na+].[Na+],35,323K,5×10-4 M,98.60%
+10146,2-phenyl imidazoline,c2ccc(/C1=N/CCN1)cc2,30,293K,100mg/L,75.10%
+10147,2-phenyl imidazoline,c2ccc(/C1=N/CCN1)cc2,30,293K,200mg/L,91.70%
+10148,2-phenyl imidazoline,c2ccc(/C1=N/CCN1)cc2,30,293K,400mg/L,93.10%
+10149,2-phenyl imidazoline,c2ccc(/C1=N/CCN1)cc2,30,293K,700mg/L,94.20%
+10150,2-phenyl imidazoline,c2ccc(/C1=N/CCN1)cc2,30,293K,1000mg/L,96.80%
+10151,2-phenyl imidazoline,c2ccc(/C1=N/CCN1)cc2,30,293K,100mg/L,48.60%
+10152,2-phenyl imidazoline,c2ccc(/C1=N/CCN1)cc2,30,293K,200mg/L,80.50%
+10153,2-phenyl imidazoline,c2ccc(/C1=N/CCN1)cc2,30,293K,400mg/L,94.10%
+10154,2-phenyl imidazoline,c2ccc(/C1=N/CCN1)cc2,30,293K,700mg/L,96.60%
+10155,2-phenyl imidazoline,c2ccc(/C1=N/CCN1)cc2,30,293K,1000mg/L,98.50%
+10156,the bentonite/acrylamide capsule-loaded with HCTS,COC4COC(OC3C(O)C(N(CCC(=O)NCCN(CCC(=O)NCCN)CCC(=O)NCC/N=C(C(=O)c1ccccn1)\c2ccccn2)CCC(=O)NCCN(CCC(=O)NCCN)CCC(=O)NCCNCC(O)C[N+](C)(C)C)C(OC)OC3CO)C(NCC(O)C[N+](C)(C)C)C4O,50,333K,50mg/L,50.05%
+10157,the bentonite/acrylamide capsule-loaded with HCTS,COC4COC(OC3C(O)C(N(CCC(=O)NCCN(CCC(=O)NCCN)CCC(=O)NCC/N=C(C(=O)c1ccccn1)\c2ccccn2)CCC(=O)NCCN(CCC(=O)NCCN)CCC(=O)NCCNCC(O)C[N+](C)(C)C)C(OC)OC3CO)C(NCC(O)C[N+](C)(C)C)C4O,50,333K,100mg/L,80.46%
+10158,the bentonite/acrylamide capsule-loaded with HCTS,COC4COC(OC3C(O)C(N(CCC(=O)NCCN(CCC(=O)NCCN)CCC(=O)NCC/N=C(C(=O)c1ccccn1)\c2ccccn2)CCC(=O)NCCN(CCC(=O)NCCN)CCC(=O)NCCNCC(O)C[N+](C)(C)C)C(OC)OC3CO)C(NCC(O)C[N+](C)(C)C)C4O,50,333K,300mg/L,89.83%
+10159,the bentonite/acrylamide capsule-loaded with HCTS,COC4COC(OC3C(O)C(N(CCC(=O)NCCN(CCC(=O)NCCN)CCC(=O)NCC/N=C(C(=O)c1ccccn1)\c2ccccn2)CCC(=O)NCCN(CCC(=O)NCCN)CCC(=O)NCCNCC(O)C[N+](C)(C)C)C(OC)OC3CO)C(NCC(O)C[N+](C)(C)C)C4O,50,333K,500mg/L,94.42%
+10160,DPI1,Cc3ccc(NC(=O)OCC(CSCCN1CCCCCC1=O)OC(=O)Nc2cc(NC(=O)CCC(O)CO)ccc2C)cc3NC(=O)OCCOC(=O)Nc4ccc(C)c(NC(=O)OCC(C)(O)C(=O)[O-])c4.CC[NH+](CC)CC,24.53,298K,100ppm,58.20%
+10161,DPI1,Cc3ccc(NC(=O)OCC(CSCCN1CCCCCC1=O)OC(=O)Nc2cc(NC(=O)CCC(O)CO)ccc2C)cc3NC(=O)OCCOC(=O)Nc4ccc(C)c(NC(=O)OCC(C)(O)C(=O)[O-])c4.CC[NH+](CC)CC,24.53,298K,250ppm,78.80%
+10162,DPI1,Cc3ccc(NC(=O)OCC(CSCCN1CCCCCC1=O)OC(=O)Nc2cc(NC(=O)CCC(O)CO)ccc2C)cc3NC(=O)OCCOC(=O)Nc4ccc(C)c(NC(=O)OCC(C)(O)C(=O)[O-])c4.CC[NH+](CC)CC,24.53,298K,500ppm,90.50%
+10163,DPI1,Cc3ccc(NC(=O)OCC(CSCCN1CCCCCC1=O)OC(=O)Nc2cc(NC(=O)CCC(O)CO)ccc2C)cc3NC(=O)OCCOC(=O)Nc4ccc(C)c(NC(=O)OCC(C)(O)C(=O)[O-])c4.CC[NH+](CC)CC,24.53,298K,1000ppm,94.20%
+10164,DPI2,Cc3ccc(NC(=O)OCC(CSCCN1CCCCCC1=O)OC(=O)Nc2cc(NC(=O)CCCC(O)CO)ccc2C)cc3NC(=O)OCCOC(=O)Nc4ccc(C)c(NC(=O)OCC(C)(O)C(=O)[O-])c4.CC[NH+](CC)CC,24.53,298K,100ppm,62.20%
+10165,DPI2,Cc3ccc(NC(=O)OCC(CSCCN1CCCCCC1=O)OC(=O)Nc2cc(NC(=O)CCCC(O)CO)ccc2C)cc3NC(=O)OCCOC(=O)Nc4ccc(C)c(NC(=O)OCC(C)(O)C(=O)[O-])c4.CC[NH+](CC)CC,24.53,298K,250ppm,85.20%
+10166,DPI2,Cc3ccc(NC(=O)OCC(CSCCN1CCCCCC1=O)OC(=O)Nc2cc(NC(=O)CCCC(O)CO)ccc2C)cc3NC(=O)OCCOC(=O)Nc4ccc(C)c(NC(=O)OCC(C)(O)C(=O)[O-])c4.CC[NH+](CC)CC,24.53,298K,500ppm,94.20%
+10167,DPI2,Cc3ccc(NC(=O)OCC(CSCCN1CCCCCC1=O)OC(=O)Nc2cc(NC(=O)CCCC(O)CO)ccc2C)cc3NC(=O)OCCOC(=O)Nc4ccc(C)c(NC(=O)OCC(C)(O)C(=O)[O-])c4.CC[NH+](CC)CC,24.53,298K,1000ppm,96.30%
+10168,DPI3,CCC(CO)C(O)CCCC(=O)Nc4ccc(C)c(NC(=O)OC(COC(=O)Nc2ccc(C)c(NC(=O)OCCOC(=O)Nc1ccc(C)c(NC(=O)OCC(C)(O)C(=O)[O-])c1)c2)CSCCN3CCCCCC3=O)c4.CC[NH+](CC)CC,24.53,298K,100ppm,60.30%
+10169,DPI3,CCC(CO)C(O)CCCC(=O)Nc4ccc(C)c(NC(=O)OC(COC(=O)Nc2ccc(C)c(NC(=O)OCCOC(=O)Nc1ccc(C)c(NC(=O)OCC(C)(O)C(=O)[O-])c1)c2)CSCCN3CCCCCC3=O)c4.CC[NH+](CC)CC,24.53,298K,250ppm,73.20%
+10170,DPI3,CCC(CO)C(O)CCCC(=O)Nc4ccc(C)c(NC(=O)OC(COC(=O)Nc2ccc(C)c(NC(=O)OCCOC(=O)Nc1ccc(C)c(NC(=O)OCC(C)(O)C(=O)[O-])c1)c2)CSCCN3CCCCCC3=O)c4.CC[NH+](CC)CC,24.53,298K,500ppm,85.20%
+10171,DPI3,CCC(CO)C(O)CCCC(=O)Nc4ccc(C)c(NC(=O)OC(COC(=O)Nc2ccc(C)c(NC(=O)OCCOC(=O)Nc1ccc(C)c(NC(=O)OCC(C)(O)C(=O)[O-])c1)c2)CSCCN3CCCCCC3=O)c4.CC[NH+](CC)CC,24.53,298K,1000ppm,92.90%
+10172,"oleic imidazoline
+(OIM)",C=CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCN,35,333K,50mg/L,75.94%
+10173,"mercaptoethanol
+(ME)",OCCS,35,333K,50mg/L,66.22%
+10174,oleic imidazoline (OIM),CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCN,0.31,333K,1mg/L,32.59%
+10175,oleic imidazoline (OIM),CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCN,0.31,333K,2.5mg/L,61.78%
+10176,oleic imidazoline (OIM),CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCN,0.31,333K,5mg/L,77.26%
+10177,oleic imidazoline (OIM),CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCN,0.31,333K,7.5mg/L,81.93%
+10178,oleic imidazoline (OIM),CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCN,0.31,333K,10mg/L,87.50%
+10179,"2-mercaptobenzimidazole
+(2-MBI)",Sc2nc1ccccc1[nH]2,0.31,333K,1mg/L,85.11%
+10180,"2-mercaptobenzimidazole
+(2-MBI)",Sc2nc1ccccc1[nH]2,0.31,333K,2.5mg/L,86.89%
+10181,"2-mercaptobenzimidazole
+(2-MBI)",Sc2nc1ccccc1[nH]2,0.31,333K,5mg/L,90.00%
+10182,"2-mercaptobenzimidazole
+(2-MBI)",Sc2nc1ccccc1[nH]2,0.31,333K,7.5mg/L,90.22%
+10183,"2-mercaptobenzimidazole
+(2-MBI)",Sc2nc1ccccc1[nH]2,0.31,333K,10mg/L,92.22%
+10184,"1-phenyl-3-(5-thioxo-4,5-dihydro-1,3,4-thiadiazol-2-yl) thiourea
+(PTT)",S=C(Nc1ccccc1)Nc2n[nH]c(=S)s2,38.58,333K,0.01mM,97.03%
+10185,"1-phenyl-3-(5-thioxo-4,5-dihydro-1,3,4-thiadiazol-2-yl) thiourea
+(PTT)",S=C(Nc1ccccc1)Nc2n[nH]c(=S)s2,38.58,333K,0.05mM,99.07%
+10186,"1-phenyl-3-(5-thioxo-4,5-dihydro-1,3,4-thiadiazol-2-yl) thiourea
+(PTT)",S=C(Nc1ccccc1)Nc2n[nH]c(=S)s2,38.58,333K,0.1mM,99.44%
+10187,"1-phenyl-3-(5-thioxo-4,5-dihydro-1,3,4-thiadiazol-2-yl) thiourea
+(PTT)",S=C(Nc1ccccc1)Nc2n[nH]c(=S)s2,38.58,333K,0.2mM,99.53%
+10188,"1-phenyl-3-(5-thioxo-4,5-dihydro-1,3,4-thiadiazol-2-yl) thiourea
+(PTT)",S=C(Nc1ccccc1)Nc2n[nH]c(=S)s2,38.58,333K,0.4mM,99.77%
+10189,"linear alkylbenzene sulfonate
+(LAS)",CCCCCCCCCCC(C)c1ccc(S(=O)(=O)[O-])cc1.[Na+],2.587,333K,25ppm,32.44%
+10190,"linear alkylbenzene sulfonate
+(LAS)",CCCCCCCCCCC(C)c1ccc(S(=O)(=O)[O-])cc1.[Na+],2.587,333K,33ppm,43.18%
+10191,"linear alkylbenzene sulfonate
+(LAS)",CCCCCCCCCCC(C)c1ccc(S(=O)(=O)[O-])cc1.[Na+],2.587,333K,50ppm,56.53%
+10192,"linear alkylbenzene sulfonate
+(LAS)",CCCCCCCCCCC(C)c1ccc(S(=O)(=O)[O-])cc1.[Na+],2.587,333K,66ppm,70.08%
+10193,"linear alkylbenzene sulfonate
+(LAS)",CCCCCCCCCCC(C)c1ccc(S(=O)(=O)[O-])cc1.[Na+],2.587,333K,75ppm,71.71%
+10194,"linear alkylbenzene sulfonate
+(LAS)",CCCCCCCCCCC(C)c1ccc(S(=O)(=O)[O-])cc1.[Na+],2.587,333K,100ppm,75.57%
+10195,cetyltrimethylammonium bromide (CTAB),CCCCCCCCCCCCCCCC[N+](C)(C)C.[Br-],2.587,333K,25ppm,23.44%
+10196,cetyltrimethylammonium bromide (CTAB),CCCCCCCCCCCCCCCC[N+](C)(C)C.[Br-],2.587,333K,33ppm,40.37%
+10197,cetyltrimethylammonium bromide (CTAB),CCCCCCCCCCCCCCCC[N+](C)(C)C.[Br-],2.587,333K,50ppm,51.42%
+10198,cetyltrimethylammonium bromide (CTAB),CCCCCCCCCCCCCCCC[N+](C)(C)C.[Br-],2.587,333K,66ppm,57.36%
+10199,cetyltrimethylammonium bromide (CTAB),CCCCCCCCCCCCCCCC[N+](C)(C)C.[Br-],2.587,333K,75ppm,64.71%
+10200,cetyltrimethylammonium bromide (CTAB),CCCCCCCCCCCCCCCC[N+](C)(C)C.[Br-],2.587,333K,100ppm,73.12%
+10201,"chitosan derivatives
+—BH",COC7OC(CO)C(OC6OC(CO)C(OC5OC(CO)C(OC1OC(CO)C(C)C(O)C1/N=C(\C(=N\c2ccc(C(C)C)cc2)c3ccccn3)/c4ccccn4)C(O)C5N)C(O)C6NCC(O)C[N+](C)(C)C)C(O)C7N(CCC(=O)NCCN(CCC(=O)NCCN)CCC(=O)NCC/N=C(\C(=N\c8ccc(C(C)C)cc8)c9ccccn9)/c%10ccccn%10)CCC(=O)NCCN(CCC(=O)NCCN)CCC(=O)NCCNCC(O)C[N+](C)(C)C,80,333K,50mg/L,63.07%
+10202,"chitosan derivatives
+—BH",COC7OC(CO)C(OC6OC(CO)C(OC5OC(CO)C(OC1OC(CO)C(C)C(O)C1/N=C(\C(=N\c2ccc(C(C)C)cc2)c3ccccn3)/c4ccccn4)C(O)C5N)C(O)C6NCC(O)C[N+](C)(C)C)C(O)C7N(CCC(=O)NCCN(CCC(=O)NCCN)CCC(=O)NCC/N=C(\C(=N\c8ccc(C(C)C)cc8)c9ccccn9)/c%10ccccn%10)CCC(=O)NCCN(CCC(=O)NCCN)CCC(=O)NCCNCC(O)C[N+](C)(C)C,80,333K,100mg/L,70.60%
+10203,"chitosan derivatives
+—BH",COC7OC(CO)C(OC6OC(CO)C(OC5OC(CO)C(OC1OC(CO)C(C)C(O)C1/N=C(\C(=N\c2ccc(C(C)C)cc2)c3ccccn3)/c4ccccn4)C(O)C5N)C(O)C6NCC(O)C[N+](C)(C)C)C(O)C7N(CCC(=O)NCCN(CCC(=O)NCCN)CCC(=O)NCC/N=C(\C(=N\c8ccc(C(C)C)cc8)c9ccccn9)/c%10ccccn%10)CCC(=O)NCCN(CCC(=O)NCCN)CCC(=O)NCCNCC(O)C[N+](C)(C)C,80,333K,300mg/L,75.87%
+10204,"chitosan derivatives
+—BH",COC7OC(CO)C(OC6OC(CO)C(OC5OC(CO)C(OC1OC(CO)C(C)C(O)C1/N=C(\C(=N\c2ccc(C(C)C)cc2)c3ccccn3)/c4ccccn4)C(O)C5N)C(O)C6NCC(O)C[N+](C)(C)C)C(O)C7N(CCC(=O)NCCN(CCC(=O)NCCN)CCC(=O)NCC/N=C(\C(=N\c8ccc(C(C)C)cc8)c9ccccn9)/c%10ccccn%10)CCC(=O)NCCN(CCC(=O)NCCN)CCC(=O)NCCNCC(O)C[N+](C)(C)C,80,333K,500mg/L,87.22%
+10205,"chitosan derivatives
+—CH",COC4OC(CO)C(OC3OC(CO)C(OC2OC(CO)C(OC1OC(CO)C(C)C(O)C1/N=C/C=C(C)/CC/C=C(C)/C)C(O)C2N)C(O)C3NCC(O)C[N+](C)(C)C)C(O)C4N(CCC(=O)NCCN(CCC(=O)NCCN)CCC(=O)NCC/N=C/C=C(C)/CC/C=C(C)/C)CCC(=O)NCCN(CCC(=O)NCCN)CCC(=O)NCCNCC(O)C[N+](C)(C)C,80,333K,50mg/L,54.69%
+10206,"chitosan derivatives
+—CH",COC4OC(CO)C(OC3OC(CO)C(OC2OC(CO)C(OC1OC(CO)C(C)C(O)C1/N=C/C=C(C)/CC/C=C(C)/C)C(O)C2N)C(O)C3NCC(O)C[N+](C)(C)C)C(O)C4N(CCC(=O)NCCN(CCC(=O)NCCN)CCC(=O)NCC/N=C/C=C(C)/CC/C=C(C)/C)CCC(=O)NCCN(CCC(=O)NCCN)CCC(=O)NCCNCC(O)C[N+](C)(C)C,80,333K,100mg/L,62.66%
+10207,"chitosan derivatives
+—CH",COC4OC(CO)C(OC3OC(CO)C(OC2OC(CO)C(OC1OC(CO)C(C)C(O)C1/N=C/C=C(C)/CC/C=C(C)/C)C(O)C2N)C(O)C3NCC(O)C[N+](C)(C)C)C(O)C4N(CCC(=O)NCCN(CCC(=O)NCCN)CCC(=O)NCC/N=C/C=C(C)/CC/C=C(C)/C)CCC(=O)NCCN(CCC(=O)NCCN)CCC(=O)NCCNCC(O)C[N+](C)(C)C,80,333K,300mg/L,69.24%
+10208,"chitosan derivatives
+—CH",COC4OC(CO)C(OC3OC(CO)C(OC2OC(CO)C(OC1OC(CO)C(C)C(O)C1/N=C/C=C(C)/CC/C=C(C)/C)C(O)C2N)C(O)C3NCC(O)C[N+](C)(C)C)C(O)C4N(CCC(=O)NCCN(CCC(=O)NCCN)CCC(=O)NCC/N=C/C=C(C)/CC/C=C(C)/C)CCC(=O)NCCN(CCC(=O)NCCN)CCC(=O)NCCNCC(O)C[N+](C)(C)C,80,333K,500mg/L,82.84%
+10209,Imidazolate of 1-butyl-3-ethyl imidazole,CCCCn1cc[n+](CCC)c1.c1c[n-]cn1,30,298K,10ppm,86.56%
+10210,Imidazolate of 1-butyl-3-ethyl imidazole,CCCCn1cc[n+](CCC)c1.c1c[n-]cn1,30,298K,20ppm,90.60%
+10211,Imidazolate of 1-butyl-3-ethyl imidazole,CCCCn1cc[n+](CCC)c1.c1c[n-]cn1,30,298K,50ppm,96.80%
+10212,Imidazolate of 1-butyl-3-ethyl imidazole,CCCCn1cc[n+](CCC)c1.c1c[n-]cn1,30,298K,100ppm,93.70%
+10213,Poly(cysteaminoaspartamide),NC(=O)CCC(=O)NCCS,35,328K,25ppm,92.70%
+10214,Poly(cysteaminoaspartamide),NC(=O)CCC(=O)NCCS,35,328K,50ppm,94.50%
+10215,Poly(cysteaminoaspartamide),NC(=O)CCC(=O)NCCS,35,328K,100ppm,95.00%
+10216,Poly(methionenoaspartamide),CSCCC(NC(=O)CCC(N)=O)C(=O)[O-].[Na+],35,328K,25ppm,53.60%
+10217,Poly(methionenoaspartamide),CSCCC(NC(=O)CCC(N)=O)C(=O)[O-].[Na+],35,328K,50ppm,89.70%
+10218,Poly(methionenoaspartamide),CSCCC(NC(=O)CCC(N)=O)C(=O)[O-].[Na+],35,328K,100ppm,93.80%
+10219,"oleic-based imidazoline 
+",CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCN,35,338K,0.2mM/L,78.53%
+10220,"
+mercaptoethanol ",OCCS,35,338K,0.2mM/L,61.72%
+10221,2-(p-alkoxy phenyl)-2-imidazoline,CCCCCCCCCCCCCCCCCCOc2ccc(/C1=N/CCN1CCN)cc2,0.3276,333K,200ppm,80.03%
+10222,"1,2,4,7,9,10-hexaazacyclopentadeca-1(15),10-diene-3,5,6,8-tetrone",O=C1N/N=C/CCC/C=N/NC(=O)NC(=O)C(=O)N1,0.3276,333K,200ppm,82.91%
+10223,Imidazoline oleate ,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCN,0.3276,333K,200ppm,77.67%
+10224,Imidazoline derivative,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCO,0.3276,333K,200ppm,89.40%
+10225,Thiourea imidazoline,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCNC(N)=S,0.3276,333K,200ppm,90.54%
+10226,Isoquinoline quaternary ammonium salt,c3ccc(C[n+]2ccc1ccccc1c2)cc3,0.3276,333K,200ppm,92.07%
+10227,oleic imidazoline,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCN,2.587,333K,25ppm,61.78%
+10228,oleic imidazoline,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCN,2.587,333K,50ppm,77.26%
+10229,oleic imidazoline,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCN,2.587,333K,75ppm,81.93%
+10230,oleic imidazoline,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCN,2.587,333K,100ppm,87.50%
+10231,oleic imidazoline,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCN,2.587,333K,150ppm,88.37%
+10232,alkyl phosphate ester,CCOc1ccc(CCCCCCC(C)C)c(OP(=O)(O)O)c1,2.587,333K,25ppm,80.44%
+10233,alkyl phosphate ester,CCOc1ccc(CCCCCCC(C)C)c(OP(=O)(O)O)c1,2.587,333K,50ppm,80.78%
+10234,alkyl phosphate ester,CCOc1ccc(CCCCCCC(C)C)c(OP(=O)(O)O)c1,2.587,333K,75ppm,88.33%
+10235,alkyl phosphate ester,CCOc1ccc(CCCCCCC(C)C)c(OP(=O)(O)O)c1,2.587,333K,100ppm,92.16%
+10236,alkyl phosphate ester,CCOc1ccc(CCCCCCC(C)C)c(OP(=O)(O)O)c1,2.587,333K,150ppm,92.73%
+10237,L-histidine,NC(Cc1c[nH]cn1)C(=O)O,62.36,333K,0.05mM/L,2.29%
+10238,L-histidine,NC(Cc1c[nH]cn1)C(=O)O,62.36,333K,0.1mM/L,3.05%
+10239,L-histidine,NC(Cc1c[nH]cn1)C(=O)O,62.36,333K,0.2mM/L,26.49%
+10240,L-histidine,NC(Cc1c[nH]cn1)C(=O)O,62.36,333K,0.4mM/L,55.19%
+10241,1-phenylthiourea,NC(=S)Nc1ccccc1,62.36,333K,0.05mM/L,90.00%
+10242,1-phenylthiourea,NC(=S)Nc1ccccc1,62.36,333K,0.1mM/L,91.68%
+10243,1-phenylthiourea,NC(=S)Nc1ccccc1,62.36,333K,0.2mM/L,95.10%
+10244,1-phenylthiourea,NC(=S)Nc1ccccc1,62.36,333K,0.4mM/L,95.22%
+10245,(phenylcarbamothioyl)histidine,O=C(O)C(Cc1c[nH]cn1)NC(=S)Nc2ccccc2,62.36,333K,0.05mM/L,96.45%
+10246,(phenylcarbamothioyl)histidine,O=C(O)C(Cc1c[nH]cn1)NC(=S)Nc2ccccc2,62.36,333K,0.1mM/L,98.11%
+10247,(phenylcarbamothioyl)histidine,O=C(O)C(Cc1c[nH]cn1)NC(=S)Nc2ccccc2,62.36,333K,0.2mM/L,98.58%
+10248,(phenylcarbamothioyl)histidine,O=C(O)C(Cc1c[nH]cn1)NC(=S)Nc2ccccc2,62.36,333K,0.4mM/L,98.66%
+10249,4-phenylcoumarin,COc4cc(OC1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)c3c(c2ccc(O)c(O)c2)cc(=O)oc3c4,"30
+",298K,50ppm,75.40%
+10250," L-histidine
+ ",NC(Cc1c[nH]cn1)C(=O)O,62.36,333K,0.05mM/L,2.00%
+10251," L-histidine
+ ",NC(Cc1c[nH]cn1)C(=O)O,62.36,333K,0.1mM/L,5.70%
+10252," L-histidine
+ ",NC(Cc1c[nH]cn1)C(=O)O,62.36,333K,0.2mM/L,21.10%
+10253," L-histidine
+ ",NC(Cc1c[nH]cn1)C(=O)O,62.36,333K,0.4mM/L,67.90%
+10254," L-cysteine
+",NC(CS)C(=O)O,62.36,333K,0.05mM/L,76.30%
+10255," L-cysteine
+",NC(CS)C(=O)O,62.36,333K,0.1mM/L,76.80%
+10256," L-cysteine
+",NC(CS)C(=O)O,62.36,333K,0.2mM/L,80.50%
+10257," L-cysteine
+",NC(CS)C(=O)O,62.36,333K,0.4mM/L,84.50%
+10258,"
+ thiourea",NC(N)=S,62.36,333K,0.05mM/L,73.80%
+10259,"
+ thiourea",NC(N)=S,62.36,333K,0.1mM/L,82.70%
+10260,"
+ thiourea",NC(N)=S,62.36,333K,0.2mM/L,90.80%
+10261,"
+ thiourea",NC(N)=S,62.36,333K,0.4mM/L,94.10%
+10262,"(3ar,6ar)-3a,6a-bis(4-((3,5-bis(2-(3-(tert-butyl)phenyl)propan-2-yl)phenyl)diazenyl)phenyl)tetrahydroimidazo[4,5-d]imidazole-2,5(1H,3H)-dione",CC(C)(C)c%10cccc(C(C)(C)c9cc(N=Nc7ccc([C@@]16NC(=O)N[C@]1(c5ccc(N=Nc4cc(C(C)(C)c2cccc(C(C)(C)C)c2)cc(C(C)(C)c3cccc(C(C)(C)C)c3)c4)cc5)NC(=O)N6)cc7)cc(C(C)(C)c8cccc(C(C)(C)C)c8)c9)c%10,58.5,303K,25ppm,85.66%
+10263,"(3ar,6ar)-3a,6a-bis(4-((3,5-bis(2-(3-(tert-butyl)phenyl)propan-2-yl)phenyl)diazenyl)phenyl)tetrahydroimidazo[4,5-d]imidazole-2,5(1H,3H)-dione",CC(C)(C)c%10cccc(C(C)(C)c9cc(N=Nc7ccc([C@@]16NC(=O)N[C@]1(c5ccc(N=Nc4cc(C(C)(C)c2cccc(C(C)(C)C)c2)cc(C(C)(C)c3cccc(C(C)(C)C)c3)c4)cc5)NC(=O)N6)cc7)cc(C(C)(C)c8cccc(C(C)(C)C)c8)c9)c%10,58.5,303K,50ppm,90.44%
+10264,"(3ar,6ar)-3a,6a-bis(4-((3,5-bis(2-(3-(tert-butyl)phenyl)propan-2-yl)phenyl)diazenyl)phenyl)tetrahydroimidazo[4,5-d]imidazole-2,5(1H,3H)-dione",CC(C)(C)c%10cccc(C(C)(C)c9cc(N=Nc7ccc([C@@]16NC(=O)N[C@]1(c5ccc(N=Nc4cc(C(C)(C)c2cccc(C(C)(C)C)c2)cc(C(C)(C)c3cccc(C(C)(C)C)c3)c4)cc5)NC(=O)N6)cc7)cc(C(C)(C)c8cccc(C(C)(C)C)c8)c9)c%10,58.5,303K,75ppm,93.33%
+10265,"(3ar,6ar)-3a,6a-bis(4-((3,5-bis(2-(3-(tert-butyl)phenyl)propan-2-yl)phenyl)diazenyl)phenyl)tetrahydroimidazo[4,5-d]imidazole-2,5(1H,3H)-dione",CC(C)(C)c%10cccc(C(C)(C)c9cc(N=Nc7ccc([C@@]16NC(=O)N[C@]1(c5ccc(N=Nc4cc(C(C)(C)c2cccc(C(C)(C)C)c2)cc(C(C)(C)c3cccc(C(C)(C)C)c3)c4)cc5)NC(=O)N6)cc7)cc(C(C)(C)c8cccc(C(C)(C)C)c8)c9)c%10,58.5,303K,100ppm,96.38%
+10266,oleic imidazoline,CCCCCCCCC/C=C/CCCCC/C1=N/CCN1CCNCCNCCN,20.573,333K,10ppm,72.40%
+10267,oleic imidazoline,CCCCCCCCC/C=C/CCCCC/C1=N/CCN1CCNCCNCCN,20.573,333K,20ppm,75.60%
+10268,oleic imidazoline,CCCCCCCCC/C=C/CCCCC/C1=N/CCN1CCNCCNCCN,20.573,333K,50ppm,80.40%
+10269,oleic imidazoline,CCCCCCCCC/C=C/CCCCC/C1=N/CCN1CCNCCNCCN,20.573,333K,100ppm,82.80%
+10270,Mercapto-oleic imidazoline,CCCCCCCCC/C=C/CCCCC/C1=N/CCN1CCNCCNCCNC(=O)CCS,20.573,333K,10ppm,86.80%
+10271,Mercapto-oleic imidazoline,CCCCCCCCC/C=C/CCCCC/C1=N/CCN1CCNCCNCCNC(=O)CCS,20.573,333K,20ppm,95.60%
+10272,Mercapto-oleic imidazoline,CCCCCCCCC/C=C/CCCCC/C1=N/CCN1CCNCCNCCNC(=O)CCS,20.573,333K,50ppm,98.00%
+10273,Mercapto-oleic imidazoline,CCCCCCCCC/C=C/CCCCC/C1=N/CCN1CCNCCNCCNC(=O)CCS,20.573,333K,100ppm,98.40%
+10274,2-mercaptopyrimidine,Sc1ncccn1,30,293K,5ppm,86.37%
+10275,2-mercaptopyrimidine,Sc1ncccn1,30,293K,10ppm,94.67%
+10276,2-mercaptopyrimidine,Sc1ncccn1,30,293K,40ppm,95.30%
+10277,2-mercaptopyrimidine,Sc1ncccn1,30,293K,70ppm,95.35%
+10278,2-mercaptopyrimidine,Sc1ncccn1,30,293K,100ppm,95.38%
+10279,4-methyl-2-mercaptopyrimidine,Cc1ccnc(S)n1,30,293K,5ppm,73.53%
+10280,4-methyl-2-mercaptopyrimidine,Cc1ccnc(S)n1,30,293K,10ppm,76.13%
+10281,4-methyl-2-mercaptopyrimidine,Cc1ccnc(S)n1,30,293K,40ppm,93.18%
+10282,4-methyl-2-mercaptopyrimidine,Cc1ccnc(S)n1,30,293K,70ppm,94.86%
+10283,4-methyl-2-mercaptopyrimidine,Cc1ccnc(S)n1,30,293K,100ppm,94.37%
+10284,rosin imidazoline,CC(C)/C4=C/C3=C/CC2C(C)(/C1=N/CCN1CCNCCNCCN)CCCC2(C)C3CC4,20.573,353K,50ppm,81.10%
+10285,rosin imidazoline,CC(C)/C4=C/C3=C/CC2C(C)(/C1=N/CCN1CCNCCNCCN)CCCC2(C)C3CC4,20.573,353K,100ppm,91.80%
+10286,rosin imidazoline,CC(C)/C4=C/C3=C/CC2C(C)(/C1=N/CCN1CCNCCNCCN)CCCC2(C)C3CC4,20.573,353K,200ppm,97.40%
+10287,rosin imidazoline,CC(C)/C4=C/C3=C/CC2C(C)(/C1=N/CCN1CCNCCNCCN)CCCC2(C)C3CC4,20.573,353K,400ppm,98.90%
+10288,maltodextrin,OCC1OC(CO)C(O)C(O)C1O,35,323K,100ppm,36.10%
+10289,maltodextrin,OCC1OC(CO)C(O)C(O)C1O,35,323K,200ppm,64.60%
+10290,maltodextrin,OCC1OC(CO)C(O)C(O)C1O,35,323K,300ppm,82.10%
+10291,maltodextrin,OCC1OC(CO)C(O)C(O)C1O,35,323K,400ppm,90.10%
+10292,(E)-2-amino-7-hydroxy-4-styrylquinoline-3-carbonitrile,C1=C(O)C=C2N=C(N)C(C#N)=C(/C=C/C3=CC=CC=C3)C2=C1,35,298K,10ppm,70.98%
+10293,(E)-2-amino-7-hydroxy-4-styrylquinoline-3-carbonitrile,C1=C(O)C=C2N=C(N)C(C#N)=C(/C=C/C3=CC=CC=C3)C2=C1,35,298K,20ppm,76.24%
+10294,(E)-2-amino-7-hydroxy-4-styrylquinoline-3-carbonitrile,C1=C(O)C=C2N=C(N)C(C#N)=C(/C=C/C3=CC=CC=C3)C2=C1,35,298K,50ppm,83.37%
+10295,(E)-2-amino-7-hydroxy-4-styrylquinoline-3-carbonitrile,C1=C(O)C=C2N=C(N)C(C#N)=C(/C=C/C3=CC=CC=C3)C2=C1,35,298K,100ppm,89.87%
+10296,2-hydroxybenzimidazole,Oc2nc1ccccc1[nH]2,35,313K,100ppm,52.00%
+10297,2-aminobenzimidazole,Nc2nc1ccccc1[nH]2,35,313K,100ppm,59.96%
+10298,2-mercaptobenzimidazole,Sc2nc1ccccc1[nH]2,35,313K,100ppm,87.69%
+10299,S-benzyl-L-cysteine,NC(CSCc1ccccc1)C(=O)O,62.36,333K,"0.05mM/L
+",62.00%
+10300,S-benzyl-L-cysteine,NC(CSCc1ccccc1)C(=O)O,62.36,333K,"0.1mM/L
+",81.50%
+10301,S-benzyl-L-cysteine,NC(CSCc1ccccc1)C(=O)O,62.36,333K,"0.2mM/L
+",86.60%
+10302,S-benzyl-L-cysteine,NC(CSCc1ccccc1)C(=O)O,62.36,333K,"0.4mM/L
+",89.20%
+10303,thiourea,NC(N)=S,62.36,333K,"0.05mM/L
+",65.80%
+10304,thiourea,NC(N)=S,62.36,333K,"0.1mM/L
+",82.30%
+10305,thiourea,NC(N)=S,62.36,333K,"0.2mM/L
+",84.00%
+10306,thiourea,NC(N)=S,62.36,333K,"0.4mM/L
+",86.00%
+10307,2-[2-(dimethylamino) ethoxy] ethanol,CN(C)CCOCCO,35,298K,"20μM/L
+",57.25%
+10308,2-[2-(dimethylamino) ethoxy] ethanol,CN(C)CCOCCO,35,298K,"50μM/L
+",68.62%
+10309,2-[2-(dimethylamino) ethoxy] ethanol,CN(C)CCOCCO,35,298K,"80μM/L
+",77.62%
+10310,2-[2-(dimethylamino) ethoxy] ethanol,CN(C)CCOCCO,35,298K,"100μM/L
+",87.75%
+10311,2-[2-(dimethylamino) ethoxy] ethanol,CN(C)CCOCCO,35,308K,"20μM/L
+",50.58%
+10312,2-[2-(dimethylamino) ethoxy] ethanol,CN(C)CCOCCO,35,308K,"50μM/L
+",57.38%
+10313,2-[2-(dimethylamino) ethoxy] ethanol,CN(C)CCOCCO,35,308K,"80μM/L
+",67.90%
+10314,2-[2-(dimethylamino) ethoxy] ethanol,CN(C)CCOCCO,35,308K,"100μM/L
+",81.72%
+10315,2-[2-(dimethylamino) ethoxy] ethanol,CN(C)CCOCCO,35,323K,"20μM/L
+",32.48%
+10316,2-[2-(dimethylamino) ethoxy] ethanol,CN(C)CCOCCO,35,323K,"50μM/L
+",40.52%
+10317,2-[2-(dimethylamino) ethoxy] ethanol,CN(C)CCOCCO,35,323K,"80μM/L
+",60.32%
+10318,2-[2-(dimethylamino) ethoxy] ethanol,CN(C)CCOCCO,35,323K,"100μM/L
+",71.31%
+10319,2-[2-(dimethylamino) ethoxy] ethanol,CN(C)CCOCCO,35,353K,"20μM/L
+",19.72%
+10320,2-[2-(dimethylamino) ethoxy] ethanol,CN(C)CCOCCO,35,353K,"50μM/L
+",34.53%
+10321,2-[2-(dimethylamino) ethoxy] ethanol,CN(C)CCOCCO,35,353K,"80μM/L
+",51.65%
+10322,2-[2-(dimethylamino) ethoxy] ethanol,CN(C)CCOCCO,35,353K,"100μM/L
+",64.03%
+10327,hioureido-imidazoline quaternaryammonium salt,CCCCCCC/C=C/CCCCCCCC/C1=N/CC[N+]1(CCNC(N)=S)Cc2ccccc2.[Cl-],70,323K,5ppm,88.45%
+10328,hioureido-imidazoline quaternaryammonium salt,CCCCCCC/C=C/CCCCCCCC/C1=N/CC[N+]1(CCNC(N)=S)Cc2ccccc2.[Cl-],70,323K,10ppm,94.51%
+10329,hioureido-imidazoline quaternaryammonium salt,CCCCCCC/C=C/CCCCCCCC/C1=N/CC[N+]1(CCNC(N)=S)Cc2ccccc2.[Cl-],70,323K,20ppm,98.45%
+10330,hioureido-imidazoline quaternaryammonium salt,CCCCCCC/C=C/CCCCCCCC/C1=N/CC[N+]1(CCNC(N)=S)Cc2ccccc2.[Cl-],70,323K,40ppm,95.35%
+10331,hioureido-imidazoline quaternaryammonium salt,CCCCCCC/C=C/CCCCCCCC/C1=N/CC[N+]1(CCNC(N)=S)Cc2ccccc2.[Cl-],70,323K,100ppm,95.08%
+10332,(5-(mercapto-methyl)-3-phenyl-2-thioxoimidazolidin-4-one,O=C1C(CS)NC(=S)N1c2ccccc2,62.36,333K,0.01mMol/L,97.91%
+10333,(5-(mercapto-methyl)-3-phenyl-2-thioxoimidazolidin-4-one,O=C1C(CS)NC(=S)N1c2ccccc2,62.36,333K,0.025mMol/L,99.16%
+10334,(5-(mercapto-methyl)-3-phenyl-2-thioxoimidazolidin-4-one,O=C1C(CS)NC(=S)N1c2ccccc2,62.36,333K,0.05mMol/L,99.31%
+10335,(5-(mercapto-methyl)-3-phenyl-2-thioxoimidazolidin-4-one,O=C1C(CS)NC(=S)N1c2ccccc2,62.36,333K,0.1mMol/L,99.60%
+10336,(5-(mercapto-methyl)-3-phenyl-2-thioxoimidazolidin-4-one,O=C1C(CS)NC(=S)N1c2ccccc2,62.36,333K,0.2mMol/L,99.44%
+10337,5-((benzylthio)methyl).3-phenyl-2-thioxoimidazolidin-4-one,O=C2C(CSCc1ccccc1)NC(=S)N2c3ccccc3,62.36,333K,0.01mMol/L,97.93%
+10338,5-((benzylthio)methyl).3-phenyl-2-thioxoimidazolidin-4-one,O=C2C(CSCc1ccccc1)NC(=S)N2c3ccccc3,62.36,333K,0.025mMol/L,99.19%
+10339,5-((benzylthio)methyl).3-phenyl-2-thioxoimidazolidin-4-one,O=C2C(CSCc1ccccc1)NC(=S)N2c3ccccc3,62.36,333K,0.05mMol/L,99.39%
+10340,5-((benzylthio)methyl).3-phenyl-2-thioxoimidazolidin-4-one,O=C2C(CSCc1ccccc1)NC(=S)N2c3ccccc3,62.36,333K,0.1mMol/L,99.64%
+10341,5-((benzylthio)methyl).3-phenyl-2-thioxoimidazolidin-4-one,O=C2C(CSCc1ccccc1)NC(=S)N2c3ccccc3,62.36,333K,0.2mMol/L,99.51%
+10342,L-cysteine modified dextran,COC1OC(COC(=O)C(N)CS)C(C)C(OC(=O)C(N)CS)C1OC(=O)C(N)CS,62.36,333K,50ppm,83.78%
+10343,L-cysteine modified dextran,COC1OC(COC(=O)C(N)CS)C(C)C(OC(=O)C(N)CS)C1OC(=O)C(N)CS,62.36,333K,100ppm,84.22%
+10344,L-cysteine modified dextran,COC1OC(COC(=O)C(N)CS)C(C)C(OC(=O)C(N)CS)C1OC(=O)C(N)CS,62.36,333K,150ppm,85.70%
+10345,L-cysteine modified dextran,COC1OC(COC(=O)C(N)CS)C(C)C(OC(=O)C(N)CS)C1OC(=O)C(N)CS,62.36,333K,200ppm,87.63%
+10346,L-cysteine modified dextran,COC1OC(COC(=O)C(N)CS)C(C)C(OC(=O)C(N)CS)C1OC(=O)C(N)CS,62.36,333K,250ppm,89.84%
+10347,S-benzyl-L-cysteine modified dextran,COC3OC(COC(=O)C(N)CSCc1ccccc1)C(C)C(OC(=O)C(N)CSCc2ccccc2)C3OC(=O)C(N)CSCc4ccccc4,62.36,333K,50ppm,97.35%
+10348,S-benzyl-L-cysteine modified dextran,COC3OC(COC(=O)C(N)CSCc1ccccc1)C(C)C(OC(=O)C(N)CSCc2ccccc2)C3OC(=O)C(N)CSCc4ccccc4,62.36,333K,100ppm,98.67%
+10349,S-benzyl-L-cysteine modified dextran,COC3OC(COC(=O)C(N)CSCc1ccccc1)C(C)C(OC(=O)C(N)CSCc2ccccc2)C3OC(=O)C(N)CSCc4ccccc4,62.36,333K,150ppm,99.36%
+10350,S-benzyl-L-cysteine modified dextran,COC3OC(COC(=O)C(N)CSCc1ccccc1)C(C)C(OC(=O)C(N)CSCc2ccccc2)C3OC(=O)C(N)CSCc4ccccc4,62.36,333K,200ppm,99.62%
+10351,S-benzyl-L-cysteine modified dextran,COC3OC(COC(=O)C(N)CSCc1ccccc1)C(C)C(OC(=O)C(N)CSCc2ccccc2)C3OC(=O)C(N)CSCc4ccccc4,62.36,333K,250ppm,99.72%
+10352,2-mercaptopyrimidine,S=c1nccc[nH]1,62.36,333K,0.01mMol/L,92.93%
+10353,2-mercaptopyrimidine,S=c1nccc[nH]1,62.36,333K,0.025mMol/L,96.20%
+10354,2-mercaptopyrimidine,S=c1nccc[nH]1,62.36,333K,0.05mMol/L,97.71%
+10355,2-mercaptopyrimidine,S=c1nccc[nH]1,62.36,333K,0.1mMol/L,98.49%
+10356,2-mercaptopyrimidine,S=c1nccc[nH]1,62.36,333K,0.2mMol/L,98.56%
+10357,2-benzylthiopyrimidine,c2ccc(CSc1ncccn1)cc2,62.36,333K,0.01mMol/L,98.49%
+10358,2-benzylthiopyrimidine,c2ccc(CSc1ncccn1)cc2,62.36,333K,0.025mMol/L,99.28%
+10359,2-benzylthiopyrimidine,c2ccc(CSc1ncccn1)cc2,62.36,333K,0.05mMol/L,99.65%
+10360,2-benzylthiopyrimidine,c2ccc(CSc1ncccn1)cc2,62.36,333K,0.1mMol/L,99.71%
+10361,2-benzylthiopyrimidine,c2ccc(CSc1ncccn1)cc2,62.36,333K,0.2mMol/L,99.82%
+10362, oleic acid imidazoline ,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCN,35,333K,50ppm,75.48%
+10363, L-cysteine,N[C@@H](CS)C(=O)O,35,333K,50ppm,49.34%
+10364,"2,2,2-nitrilotris compound with alpha-tridecyl-omega-hydroxypoly (oxy-1,2-ethanediyl) phosphate",CCCCCCCCCCCCCCOCCN(CCOC)CCOP(=O)(O)OCO,35,298K,10ppm,28.00%
+10365,"2,2,2-nitrilotris compound with alpha-tridecyl-omega-hydroxypoly (oxy-1,2-ethanediyl) phosphate",CCCCCCCCCCCCCCOCCN(CCOC)CCOP(=O)(O)OCO,35,298K,25ppm,60.00%
+10366,"2,2,2-nitrilotris compound with alpha-tridecyl-omega-hydroxypoly (oxy-1,2-ethanediyl) phosphate",CCCCCCCCCCCCCCOCCN(CCOC)CCOP(=O)(O)OCO,35,298K,50ppm,78.00%
+10367,"2,2,2-nitrilotris compound with alpha-tridecyl-omega-hydroxypoly (oxy-1,2-ethanediyl) phosphate",CCCCCCCCCCCCCCOCCN(CCOC)CCOP(=O)(O)OCO,35,333K,10ppm,59.00%
+10368,"2,2,2-nitrilotris compound with alpha-tridecyl-omega-hydroxypoly (oxy-1,2-ethanediyl) phosphate",CCCCCCCCCCCCCCOCCN(CCOC)CCOP(=O)(O)OCO,35,333K,25ppm,79.00%
+10369,"2,2,2-nitrilotris compound with alpha-tridecyl-omega-hydroxypoly (oxy-1,2-ethanediyl) phosphate",CCCCCCCCCCCCCCOCCN(CCOC)CCOP(=O)(O)OCO,35,333K,50ppm,71.00%
+10370,2–(chloromethyl)benzimidazole,ClCc2nc1ccccc1[nH]2,35,298K,1ppm,91.71%
+10371,2–(chloromethyl)benzimidazole,ClCc2nc1ccccc1[nH]2,35,298K,5ppm,93.31%
+10372,2–(chloromethyl)benzimidazole,ClCc2nc1ccccc1[nH]2,35,298K,10ppm,94.79%
+10373,2–(chloromethyl)benzimidazole,ClCc2nc1ccccc1[nH]2,35,298K,50ppm,95.21%
+10374,bis(2-ehylhexyl) phosphate,CCCCC(CC)COP(=O)(O)OCC(CC)CCCC,10,323K,100ppm,38.37%
+10375,bis(2-ehylhexyl) phosphate,CCCCC(CC)COP(=O)(O)OCC(CC)CCCC,10,323K,200ppm,48.92%
+10376,bis(2-ehylhexyl) phosphate,CCCCC(CC)COP(=O)(O)OCC(CC)CCCC,10,323K,300ppm,59.52%
+10377,bis(2-ehylhexyl) phosphate,CCCCC(CC)COP(=O)(O)OCC(CC)CCCC,10,323K,400ppm,72.73%
+10378,bis(2-ehylhexyl) phosphate,CCCCC(CC)COP(=O)(O)OCC(CC)CCCC,10,323K,500ppm,93.07%
+10379,Metformin hydrochloride,CN(C)C(=N)NC(=N)N,35,323K,50ppm,67.82%
+10380,Metformin hydrochloride,CN(C)C(=N)NC(=N)N,35,323K,100ppm,77.32%
+10381,Metformin hydrochloride,CN(C)C(=N)NC(=N)N,35,323K,150ppm,82.94%
+10382,Metformin hydrochloride,CN(C)C(=N)NC(=N)N,35,323K,200ppm,86.31%
+10383,pantoprazole,COc3ccnc(CS(=O)c2nc1ccc(OC(F)F)cc1[nH]2)c3OC,35,298K,25ppm,84.40%
+10384,pantoprazole,COc3ccnc(CS(=O)c2nc1ccc(OC(F)F)cc1[nH]2)c3OC,35,298K,50ppm,88.80%
+10385,pantoprazole,COc3ccnc(CS(=O)c2nc1ccc(OC(F)F)cc1[nH]2)c3OC,35,298K,75ppm,91.50%
+10386,pantoprazole,COc3ccnc(CS(=O)c2nc1ccc(OC(F)F)cc1[nH]2)c3OC,35,298K,100ppm,92.90%
+10387,Bupropion,CC(NC(C)(C)C)C(=O)c1cccc(Cl)c1,35,298K,150ppm,72.40%
+10388,Bupropion,CC(NC(C)(C)C)C(=O)c1cccc(Cl)c1,35,298K,300ppm,84.40%
+10389,Bupropion,CC(NC(C)(C)C)C(=O)c1cccc(Cl)c1,35,298K,450ppm,89.30%
+10390,Bupropion,CC(NC(C)(C)C)C(=O)c1cccc(Cl)c1,35,298K,600ppm,90.90%
+10391,Bupropion,CC(NC(C)(C)C)C(=O)c1cccc(Cl)c1,35,298K,900ppm,87.70%
+10392,guar gum-grafted methyl methacrylate,COC(=O)C(=O)OC3C(O)C(COC1OC(CO)C(O)C(O)C1O)OC(OC2C(CO)OC(O)C(O)C2O)C3O,35,323K,100ppm,36.40%
+10393,guar gum-grafted methyl methacrylate,COC(=O)C(=O)OC3C(O)C(COC1OC(CO)C(O)C(O)C1O)OC(OC2C(CO)OC(O)C(O)C2O)C3O,35,323K,200ppm,70.90%
+10394,guar gum-grafted methyl methacrylate,COC(=O)C(=O)OC3C(O)C(COC1OC(CO)C(O)C(O)C1O)OC(OC2C(CO)OC(O)C(O)C2O)C3O,35,323K,300ppm,80.70%
+10395,guar gum-grafted methyl methacrylate,COC(=O)C(=O)OC3C(O)C(COC1OC(CO)C(O)C(O)C1O)OC(OC2C(CO)OC(O)C(O)C2O)C3O,35,323K,400ppm,87.90%
+10396,"2-(benzylthio)-5-methyl-1,3,4-thiadiazole",Cc2nnc(SCc1ccccc1)s2,62.36,333K,0.005mMol/L,96.12%
+10397,"2-(benzylthio)-5-methyl-1,3,4-thiadiazole",Cc2nnc(SCc1ccccc1)s2,62.36,333K,0.01mMol/L,97.99%
+10398,"2-(benzylthio)-5-methyl-1,3,4-thiadiazole",Cc2nnc(SCc1ccccc1)s2,62.36,333K,0.02mMol/L,98.22%
+10399,"2-(benzylthio)-5-methyl-1,3,4-thiadiazole",Cc2nnc(SCc1ccccc1)s2,62.36,333K,0.05mMol/L,99.13%
+10400,"2-(benzylthio)-5-methyl-1,3,4-thiadiazole",Cc2nnc(SCc1ccccc1)s2,62.36,333K,0.1mMol/L,99.15%
+10401,"5-(benzylthio)-1,3,4-thiadiazole-2-thiol",Sc2nnc(SCc1ccccc1)s2,62.36,333K,0.005mMol/L,97.73%
+10402,"5-(benzylthio)-1,3,4-thiadiazole-2-thiol",Sc2nnc(SCc1ccccc1)s2,62.36,333K,0.01mMol/L,98.43%
+10403,"5-(benzylthio)-1,3,4-thiadiazole-2-thiol",Sc2nnc(SCc1ccccc1)s2,62.36,333K,0.02mMol/L,99.03%
+10404,"5-(benzylthio)-1,3,4-thiadiazole-2-thiol",Sc2nnc(SCc1ccccc1)s2,62.36,333K,0.05mMol/L,99.32%
+10405,"5-(benzylthio)-1,3,4-thiadiazole-2-thiol",Sc2nnc(SCc1ccccc1)s2,62.36,333K,0.1mMol/L,99.35%
+10406," 2-(benzylthio)-5-(butylthio)-1,3,4-thiadiazole",CCCCSc2nnc(SCc1ccccc1)s2,62.36,333K,0.005mMol/L,97.72%
+10407," 2-(benzylthio)-5-(butylthio)-1,3,4-thiadiazole",CCCCSc2nnc(SCc1ccccc1)s2,62.36,333K,0.01mMol/L,99.18%
+10408," 2-(benzylthio)-5-(butylthio)-1,3,4-thiadiazole",CCCCSc2nnc(SCc1ccccc1)s2,62.36,333K,0.02mMol/L,99.32%
+10409," 2-(benzylthio)-5-(butylthio)-1,3,4-thiadiazole",CCCCSc2nnc(SCc1ccccc1)s2,62.36,333K,0.05mMol/L,99.34%
+10410," 2-(benzylthio)-5-(butylthio)-1,3,4-thiadiazole",CCCCSc2nnc(SCc1ccccc1)s2,62.36,333K,0.1mMol/L,99.40%
+10413, 2-(2-pyridyl)benzimidazole,c3ccc(c2nc1ccccc1[nH]2)nc3,17.31,298K,1.28mMol/L,67.20%
+10414, 2-(2-pyridyl)benzimidazole,c3ccc(c2nc1ccccc1[nH]2)nc3,17.31,298K,2.56mMol/L,84.40%
+10415,thiobarbituric acid,O=C1CC(=O)NC(=S)N1,17.31,298K,0.035mMol/L,83.70%
+10416,thiobarbituric acid,O=C1CC(=O)NC(=S)N1,17.31,298K,0.07mMol/L,92.20%
+10417,thiobarbituric acid,O=C1CC(=O)NC(=S)N1,17.31,298K,0.14mMol/L,92.00%
+10418,"4,6-diamino-2-(benzylthio)pyrimidine",Nc2cc(N)nc(SCc1ccccc1)n2,62.36,333K,0.1mMol/L,99.95%
+10419,4-dodecyl-4-(3-hydroxypropyl)morpholin-4-ium,CCCCCCCCCCCC[N+]1(CCCO)CCOCC1,50,313K,100mg/L,71.90%
+10420,4-dodecyl-4-(3-hydroxypropyl)morpholin-4-ium,CCCCCCCCCCCC[N+]1(CCCO)CCOCC1,50,313K,200mg/L,78.10%
+10421,4-dodecyl-4-(3-hydroxypropyl)morpholin-4-ium,CCCCCCCCCCCC[N+]1(CCCO)CCOCC1,50,313K,300mg/L,80.46%
+10422,4-dodecyl-4-(3-hydroxypropyl)morpholin-4-ium,CCCCCCCCCCCC[N+]1(CCCO)CCOCC1,50,313K,400mg/L,91.28%
+10423,"4,4′-(2,2-bis(hydroxymethyl)propane-1,3-diyl)bis(4-dodecylmorpholin-4-ium)",CCCCCCCCCCCC[N+]2(CC(CO)(CO)C[N+]1(CCCCCCCCCCCC)CCOCC1)CCOCC2,50,313K,100mg/L,78.36%
+10424,"4,4′-(2,2-bis(hydroxymethyl)propane-1,3-diyl)bis(4-dodecylmorpholin-4-ium)",CCCCCCCCCCCC[N+]2(CC(CO)(CO)C[N+]1(CCCCCCCCCCCC)CCOCC1)CCOCC2,50,313K,200mg/L,86.31%
+10425,"4,4′-(2,2-bis(hydroxymethyl)propane-1,3-diyl)bis(4-dodecylmorpholin-4-ium)",CCCCCCCCCCCC[N+]2(CC(CO)(CO)C[N+]1(CCCCCCCCCCCC)CCOCC1)CCOCC2,50,313K,300mg/L,94.11%
+10426,"4,4′-(2,2-bis(hydroxymethyl)propane-1,3-diyl)bis(4-dodecylmorpholin-4-ium)",CCCCCCCCCCCC[N+]2(CC(CO)(CO)C[N+]1(CCCCCCCCCCCC)CCOCC1)CCOCC2,50,313K,400mg/L,92.78%
+10427,2-mercaptopyrimidine,S=c1nccc[nH]1,10,313K,20PPM,91.24%
+10427.1,2-mercaptopyrimidine,S=c1nccc[nH]1,50,313K,20PPM,85.56%
+10427.2,2-mercaptopyrimidine,S=c1nccc[nH]1,100,313K,20PPM,83.31%
+10427.3,2-mercaptopyrimidine,S=c1nccc[nH]1,150,313K,20PPM,81.73%
+10427.4,2-mercaptopyrimidine,S=c1nccc[nH]1,200,313K,20PPM,76.29%
+10428,"2.4.5.1. N-(3-((2E,4E)-5-(benzo[d][1,3]dioxol-5-yl)penta-2,4-dienamido)propyl)-N,N-dimethyloctan-1-aminium iodide (5a, PGS-8)",CCCCCCCC[N+](C)(C)CCCNC(=O)/C=C/C=C/c2ccc1OCOc1c2.[I-],35,323K,5?×?10?6M,64.10%
+10429,"2.4.5.1. N-(3-((2E,4E)-5-(benzo[d][1,3]dioxol-5-yl)penta-2,4-dienamido)propyl)-N,N-dimethyloctan-1-aminium iodide (5a, PGS-8)",CCCCCCCC[N+](C)(C)CCCNC(=O)/C=C/C=C/c2ccc1OCOc1c2.[I-],35,323K,1?×?10?5M,70.40%
+10430,"2.4.5.1. N-(3-((2E,4E)-5-(benzo[d][1,3]dioxol-5-yl)penta-2,4-dienamido)propyl)-N,N-dimethyloctan-1-aminium iodide (5a, PGS-8)",CCCCCCCC[N+](C)(C)CCCNC(=O)/C=C/C=C/c2ccc1OCOc1c2.[I-],35,323K,5?×?10?5M,77.60%
+10431,"2.4.5.1. N-(3-((2E,4E)-5-(benzo[d][1,3]dioxol-5-yl)penta-2,4-dienamido)propyl)-N,N-dimethyloctan-1-aminium iodide (5a, PGS-8)",CCCCCCCC[N+](C)(C)CCCNC(=O)/C=C/C=C/c2ccc1OCOc1c2.[I-],35,323K,1?×?10?4M,86.70%
+10432,"2.4.5.1. N-(3-((2E,4E)-5-(benzo[d][1,3]dioxol-5-yl)penta-2,4-dienamido)propyl)-N,N-dimethyloctan-1-aminium iodide (5a, PGS-8)",CCCCCCCC[N+](C)(C)CCCNC(=O)/C=C/C=C/c2ccc1OCOc1c2.[I-],35,323K,5?×?10?4M,91.90%
+10433,"2.4.5.1. N-(3-((2E,4E)-5-(benzo[d][1,3]dioxol-5-yl)penta-2,4-dienamido)propyl)-N,N-dimethyloctan-1-aminium iodide (5a, PGS-8)",CCCCCCCC[N+](C)(C)CCCNC(=O)/C=C/C=C/c2ccc1OCOc1c2.[I-],35,323K,1?×?10?3M,96.70%
+10434,"2.4.5.2. N-(3-((2E,4E)-5-(benzo[d][1,3]dioxol-5-yl)penta-2,4-dienamido)propyl)-N,N-dimethyldecan-1-aminium iodide (5b, PGS-10)",CCCCCCCCCC[N+](C)(C)CCCNC(=O)/C=C/C=C/c2ccc1OCOc1c2.[I-],35,323K,5?×?10?6M,67.40%
+10435,"2.4.5.2. N-(3-((2E,4E)-5-(benzo[d][1,3]dioxol-5-yl)penta-2,4-dienamido)propyl)-N,N-dimethyldecan-1-aminium iodide (5b, PGS-10)",CCCCCCCCCC[N+](C)(C)CCCNC(=O)/C=C/C=C/c2ccc1OCOc1c2.[I-],35,323K,1?×?10?5M,75.90%
+10436,"2.4.5.2. N-(3-((2E,4E)-5-(benzo[d][1,3]dioxol-5-yl)penta-2,4-dienamido)propyl)-N,N-dimethyldecan-1-aminium iodide (5b, PGS-10)",CCCCCCCCCC[N+](C)(C)CCCNC(=O)/C=C/C=C/c2ccc1OCOc1c2.[I-],35,323K,5?×?10?5M,82.30%
+10437,"2.4.5.2. N-(3-((2E,4E)-5-(benzo[d][1,3]dioxol-5-yl)penta-2,4-dienamido)propyl)-N,N-dimethyldecan-1-aminium iodide (5b, PGS-10)",CCCCCCCCCC[N+](C)(C)CCCNC(=O)/C=C/C=C/c2ccc1OCOc1c2.[I-],35,323K,1?×?10?4M,90.40%
+10438,"2.4.5.2. N-(3-((2E,4E)-5-(benzo[d][1,3]dioxol-5-yl)penta-2,4-dienamido)propyl)-N,N-dimethyldecan-1-aminium iodide (5b, PGS-10)",CCCCCCCCCC[N+](C)(C)CCCNC(=O)/C=C/C=C/c2ccc1OCOc1c2.[I-],35,323K,5?×?10?4M,94.80%
+10439,"2.4.5.2. N-(3-((2E,4E)-5-(benzo[d][1,3]dioxol-5-yl)penta-2,4-dienamido)propyl)-N,N-dimethyldecan-1-aminium iodide (5b, PGS-10)",CCCCCCCCCC[N+](C)(C)CCCNC(=O)/C=C/C=C/c2ccc1OCOc1c2.[I-],35,323K,1?×?10?3M,97.50%
+10440,"2.4.5.3. N-(3-((2E,4E)-5-(benzo[d][1,3]dioxol-5-yl)penta-2,4-dienamido)propyl)-N,N-dimethyldodecan-1-aminium iodide (5c, PGS-12)",CCCCCCCCCC[N+](C)(C)CCCNC(=O)/C=C/C=C/c2ccc1OCOc1c2.[I-],35,323K,5?×?10?6M,70.70%
+10441,"2.4.5.3. N-(3-((2E,4E)-5-(benzo[d][1,3]dioxol-5-yl)penta-2,4-dienamido)propyl)-N,N-dimethyldodecan-1-aminium iodide (5c, PGS-12)",CCCCCCCCCC[N+](C)(C)CCCNC(=O)/C=C/C=C/c2ccc1OCOc1c2.[I-],35,323K,1?×?10?5M,79.50%
+10442,"2.4.5.3. N-(3-((2E,4E)-5-(benzo[d][1,3]dioxol-5-yl)penta-2,4-dienamido)propyl)-N,N-dimethyldodecan-1-aminium iodide (5c, PGS-12)",CCCCCCCCCC[N+](C)(C)CCCNC(=O)/C=C/C=C/c2ccc1OCOc1c2.[I-],35,323K,5?×?10?5M,86.00%
+10443,"2.4.5.3. N-(3-((2E,4E)-5-(benzo[d][1,3]dioxol-5-yl)penta-2,4-dienamido)propyl)-N,N-dimethyldodecan-1-aminium iodide (5c, PGS-12)",CCCCCCCCCC[N+](C)(C)CCCNC(=O)/C=C/C=C/c2ccc1OCOc1c2.[I-],35,323K,1?×?10?4M,93.30%
+10444,"2.4.5.3. N-(3-((2E,4E)-5-(benzo[d][1,3]dioxol-5-yl)penta-2,4-dienamido)propyl)-N,N-dimethyldodecan-1-aminium iodide (5c, PGS-12)",CCCCCCCCCC[N+](C)(C)CCCNC(=O)/C=C/C=C/c2ccc1OCOc1c2.[I-],35,323K,5?×?10?4M,96.60%
+10445,"2.4.5.3. N-(3-((2E,4E)-5-(benzo[d][1,3]dioxol-5-yl)penta-2,4-dienamido)propyl)-N,N-dimethyldodecan-1-aminium iodide (5c, PGS-12)",CCCCCCCCCC[N+](C)(C)CCCNC(=O)/C=C/C=C/c2ccc1OCOc1c2.[I-],35,323K,1?×?10?3M,98.90%
+10446,polyethyleneimine,NCCNCCN(CCNCCN(CCN)CCN)CCN(CCNCCN)CCN(CCN)CCN,35,298K,25×?10?6M,55.18%
+10447,,NCCNCCN(CCNCCN(CCN)CCN)CCN(CCNCCN)CCN(CCN)CCN,35,298K,50×?10?6M,64.44%
+10448,,NCCNCCN(CCNCCN(CCN)CCN)CCN(CCNCCN)CCN(CCN)CCN,35,298K,75×?10?6M,76.17%
+10449,,NCCNCCN(CCNCCN(CCN)CCN)CCN(CCNCCN)CCN(CCN)CCN,35,298K,100×?10?6M,86.54%
+10450,polyethyleneimine,NCCNCCN(CCNCCN(CCN)CCN)CCN(CCNCCN)CCN(CCN)CCN,35,308K,25×?10?6M,51.49%
+10451,,NCCNCCN(CCNCCN(CCN)CCN)CCN(CCNCCN)CCN(CCN)CCN,35,308K,50×?10?6M,59.23%
+10452,,NCCNCCN(CCNCCN(CCN)CCN)CCN(CCNCCN)CCN(CCN)CCN,35,308K,75×?10?6M,70.07%
+10453,,NCCNCCN(CCNCCN(CCN)CCN)CCN(CCNCCN)CCN(CCN)CCN,35,308K,100×?10?6M,81.32%
+10454,polyethyleneimine,NCCNCCN(CCNCCN(CCN)CCN)CCN(CCNCCN)CCN(CCN)CCN,35,328K,25×?10?6M,31.71%
+10455,,NCCNCCN(CCNCCN(CCN)CCN)CCN(CCNCCN)CCN(CCN)CCN,35,328K,50×?10?6M,43.55%
+10456,,NCCNCCN(CCNCCN(CCN)CCN)CCN(CCNCCN)CCN(CCN)CCN,35,328K,75×?10?6M,61.15%
+10457,,NCCNCCN(CCNCCN(CCN)CCN)CCN(CCNCCN)CCN(CCN)CCN,35,328K,100×?10?6M,70.82%
+10458,polyethyleneimine,NCCNCCN(CCNCCN(CCN)CCN)CCN(CCNCCN)CCN(CCN)CCN,35,348K,25×?10?6M,20.96%
+10459,,NCCNCCN(CCNCCN(CCN)CCN)CCN(CCNCCN)CCN(CCN)CCN,35,348K,50×?10?6M,35.21%
+10460,,NCCNCCN(CCNCCN(CCN)CCN)CCN(CCNCCN)CCN(CCN)CCN,35,348K,75×?10?6M,52.68%
+10461,,NCCNCCN(CCNCCN(CCN)CCN)CCN(CCNCCN)CCN(CCN)CCN,35,348K,100×?10?6M,65.59%
+10462,,Nc2cc(N)nc(SCc1ccccc1)n2,62.36,338k,0.005 mM,96.40%
+10463,,Nc2cc(N)nc(SCc1ccccc1)n2,62.36,338k,0.01 mM,97.09%
+10464,,Nc2cc(N)nc(SCc1ccccc1)n2,62.36,338k,0.02 mM,97.96%
+10465,,Nc2cc(N)nc(SCc1ccccc1)n2,62.36,338k,0.05mM,99.50%
+10466,,Nc2cc(N)nc(SCc1ccccc1)n2,62.36,338k,0.1mM,99.91%
+10467,,Nc2cc(N)nc(SCc1ccccc1)n2,62.36,338k,0.2mM,99.93%
+10468,,Nc2cc(N)nc(SCc1ccccc1)n2,62.36,338k,0.4 mM,99.95%
+10469,SR16,CNNc2nnc(NNC(=O)NC1CCC(NC(C)=O)CC1)s2,0,298K,10 PPM,62.20%
+10470,,CNNc2nnc(NNC(=O)NC1CCC(NC(C)=O)CC1)s2,0,298K,25PPM,68.26%
+10471,,CNNc2nnc(NNC(=O)NC1CCC(NC(C)=O)CC1)s2,0,298K,50PPM,81.29%
+10472,,CNNc2nnc(NNC(=O)NC1CCC(NC(C)=O)CC1)s2,0,298K,100PPM,88.07%
+10473,,CNNc2nnc(NNC(=O)NC1CCC(NC(C)=O)CC1)s2,0,298K,150PPM,92.12%
+10474,SR17,NNc2nnc(NNC(=O)Nc1ccc(NC(=O)O)cc1)s2,0,298K,10 PPM,65.17%
+10475,,NNc2nnc(NNC(=O)Nc1ccc(NC(=O)O)cc1)s2,0,298K,25PPM,71.53%
+10476,,NNc2nnc(NNC(=O)Nc1ccc(NC(=O)O)cc1)s2,0,298K,50PPM,85.16%
+10477,,NNc2nnc(NNC(=O)Nc1ccc(NC(=O)O)cc1)s2,0,298K,100PPM,92.27%
+10478,,NNc2nnc(NNC(=O)Nc1ccc(NC(=O)O)cc1)s2,0,298K,150PPM,96.52%
+10479,10.1016/j.ijbiomac.2019.12.106,COC3OC(CO)C(COCC1OC(CO)C(OC)C(O)C1/N=C/c2ccccc2O)C(O)C3N,35,345K,30 PPM,72.30%
+10480,10.1016/j.ijbiomac.2019.12.106,COC3OC(CO)C(COCC1OC(CO)C(OC)C(O)C1/N=C/c2ccccc2O)C(O)C3N,35,345K,60 PPM,87.60%
+10481,10.1016/j.ijbiomac.2019.12.106,COC3OC(CO)C(COCC1OC(CO)C(OC)C(O)C1/N=C/c2ccccc2O)C(O)C3N,35,345K,90 PPM,93.10%
+10482,10.1016/j.ijbiomac.2019.12.106,COC3OC(CO)C(COCC1OC(CO)C(OC)C(O)C1/N=C/c2ccccc2O)C(O)C3N,35,345K,120 PPM ,93.80%
+10483,10.1016/j.ijbiomac.2019.12.106,COC3OC(CO)C(COCC1OC(CO)C(OC)C(O)C1/N=C/c2ccccc2O)C(O)C3N,35,345K,150 PPM,95.20%
+10484,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,303K,0.5 PPM ,57.30%
+10485,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,303K,1 PPM ,64.20%
+10486,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,303K,5 PPM ,73.60%
+10487,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,303K,10 PPM ,80.70%
+10488,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,303K,20 PPM ,84.10%
+10489,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,303K,50 PPM ,88.50%
+10490,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,303K,100 PPM ,93.20%
+10491,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,313K,0.5 PPM ,52.30%
+10492,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,313K,1 PPM ,59.50%
+10493,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,313K,5 PPM ,68.00%
+10494,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,313K,10 PPM ,74.40%
+10495,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,313K,20 PPM ,78.10%
+10496,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,313K,50 PPM ,86.90%
+10497,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,313K,100 PPM ,93.40%
+10498,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,323K,0.5 PPM ,52.10%
+10499,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,323K,1 PPM ,58.50%
+10500,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,323K,5 PPM ,68.20%
+10501,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,323K,10 PPM ,74.40%
+10502,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,323K,20 PPM ,80.10%
+10503,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,323K,50 PPM ,88.10%
+10504,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,323K,100 PPM ,94.20%
+10505,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,303K,0.5 PPM ,62.00%
+10506,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,303K,1 PPM ,68.90%
+10507,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,303K,5 PPM ,82.20%
+10508,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,303K,10 PPM ,89.60%
+10509,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,303K,20 PPM ,95.30%
+10510,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,303K,50 PPM ,95.80%
+10511,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,303K,100 PPM ,97.70%
+10512,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,313K,0.5 PPM ,58.70%
+10513,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,313K,1 PPM ,66.90%
+10514,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,313K,5 PPM ,80.00%
+10515,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,313K,10 PPM ,88.10%
+10516,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,313K,20 PPM ,95.10%
+10517,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,313K,50 PPM ,95.70%
+10518,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,313K,100 PPM ,97.70%
+10519,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,323K,0.5 PPM ,58.20%
+10520,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,323K,1 PPM ,65.30%
+10521,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,323K,5 PPM ,79.50%
+10522,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,323K,10 PPM ,89.60%
+10523,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,323K,20 PPM ,95.10%
+10524,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,323K,50 PPM ,95.20%
+10525,2-[2-methyl-4(or 5)-alkylisoxazolidin-5(or 4)-yl)methyl]succinic acids,CCCCCCCCCC1CN(C)OC1CC(CCC(=O)O)CC(=O)O,29.25,323K,100 PPM ,97.80%
+10532,imidazoline phosphate quaternary ammonium salt ,CCCCCCCCCCCC(=O)NCCN(CCN)CC(O)COP(=O)(O)[O-],20,293 K,50  PPM ,35.10%
+10533,imidazoline phosphate quaternary ammonium salt ,CCCCCCCCCCCC(=O)NCCN(CCN)CC(O)COP(=O)(O)[O-],20,293 K,100 PPM ,50.80%
+10534,imidazoline phosphate quaternary ammonium salt ,CCCCCCCCCCCC(=O)NCCN(CCN)CC(O)COP(=O)(O)[O-],20,293 K,200 PPM ,64.50%
+10535,imidazoline phosphate quaternary ammonium salt ,CCCCCCCCCCCC(=O)NCCN(CCN)CC(O)COP(=O)(O)[O-],20,293 K,400 PPM,75.70%
+10536,imidazoline phosphate quaternary ammonium salt ,CCCCCCCCCCCC(=O)NCCN(CCN)CC(O)COP(=O)(O)[O-],20,293 K,700 PPM,89.40%
+10537,imidazoline phosphate quaternary ammonium salt ,CCCCCCCCCCCC(=O)NCCN(CCN)CC(O)COP(=O)(O)[O-],20,293 K,1000 PPM,93.30%
+10538,imidazoline phosphate quaternary ammonium salt ,CCCCCCCCCCCC(=O)NCCN(CCN)CC(O)COP(=O)(O)[O-],20,333K,50  PPM ,30.90%
+10539,imidazoline phosphate quaternary ammonium salt ,CCCCCCCCCCCC(=O)NCCN(CCN)CC(O)COP(=O)(O)[O-],20,333K,100 PPM ,46.20%
+10540,imidazoline phosphate quaternary ammonium salt ,CCCCCCCCCCCC(=O)NCCN(CCN)CC(O)COP(=O)(O)[O-],20,333K,200 PPM ,55.60%
+10541,imidazoline phosphate quaternary ammonium salt ,CCCCCCCCCCCC(=O)NCCN(CCN)CC(O)COP(=O)(O)[O-],20,333K,400 PPM,61.40%
+10542,imidazoline phosphate quaternary ammonium salt ,CCCCCCCCCCCC(=O)NCCN(CCN)CC(O)COP(=O)(O)[O-],20,333K,700 PPM,79.70%
+10543,imidazoline phosphate quaternary ammonium salt ,CCCCCCCCCCCC(=O)NCCN(CCN)CC(O)COP(=O)(O)[O-],20,333K,1000 PPM,90.90%
+10544,Thioureido-oleic acid imidazoline,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCNC(N)=S,0,333K,50  PPM ,86.24%
+10545,modified imidazoline,C#CCOCNC(=S)NCCN1CC/N=C1/CCCCCCC/C=C/CCCCCCCC,0,333K,50  PPM ,95.37%
+10546,,CCCCCCC/C=C/CCCC/C1=N/CCN1CCO,30,323K,5 PPM,54.20%
+10547,,CCCCCCC/C=C/CCCC/C1=N/CCN1CCO,30,323K,10 PPM,99.60%
+10548,,CCCCCCC/C=C/CCCC/C1=N/CCN1CCO,30,323K,25 PPM,90.70%
+10549,,CCCCCCC/C=C/CCCC/C1=N/CCN1CCO,30,323K,50  PPM ,90.10%
+10550,,CCCCCCC/C=C/CCCC/C1=N/CCN1CCO,30,323K,100 PPM ,90.40%
+10551,"5-((3-phenylallylidene)amino)-1,3,4-thiadiazole-2-thiol (PATT) ",Sc2nnc(/N=C/C=C/c1ccccc1)s2,62.36,333 K,0.001 mM,59.50%
+10552,"5-((3-phenylallylidene)amino)-1,3,4-thiadiazole-2-thiol (PATT) ",Sc2nnc(/N=C/C=C/c1ccccc1)s2,62.36,333 K,0.0025 mM,90.80%
+10553,"5-((3-phenylallylidene)amino)-1,3,4-thiadiazole-2-thiol (PATT) ",Sc2nnc(/N=C/C=C/c1ccccc1)s2,62.36,333 K,0.005 mM,98.76%
+10554,"5-((3-phenylallylidene)amino)-1,3,4-thiadiazole-2-thiol (PATT) ",Sc2nnc(/N=C/C=C/c1ccccc1)s2,62.36,333 K,0.01 mM,98.98%
+10555,"5-((3-phenylallylidene)amino)-1,3,4-thiadiazole-2-thiol (PATT) ",Sc2nnc(/N=C/C=C/c1ccccc1)s2,62.36,333 K,0.025 mM,99.24%
+10556,"5-((3-phenylallylidene)amino)-1,3,4-thiadiazole-2-thiol (PATT) ",Sc2nnc(/N=C/C=C/c1ccccc1)s2,62.36,333 K,0.05 mM,98.92%
+10557,"5-((Thiophen-2-ylmethylene)amino)-1,3,4-thiadiazole-2-thiol",Sc2nnc(/N=C/C=C/c1cccs1)s2,62.36,333 K,0.001 mM,49.52%
+10558,"5-((Thiophen-2-ylmethylene)amino)-1,3,4-thiadiazole-2-thiol",Sc2nnc(/N=C/C=C/c1cccs1)s2,62.36,333 K,0.0025 mM,79.40%
+10559,"5-((Thiophen-2-ylmethylene)amino)-1,3,4-thiadiazole-2-thiol",Sc2nnc(/N=C/C=C/c1cccs1)s2,62.36,333 K,0.005 mM,98.69%
+10560,"5-((Thiophen-2-ylmethylene)amino)-1,3,4-thiadiazole-2-thiol",Sc2nnc(/N=C/C=C/c1cccs1)s2,62.36,333 K,0.01 mM,98.94%
+10561,"5-((Thiophen-2-ylmethylene)amino)-1,3,4-thiadiazole-2-thiol",Sc2nnc(/N=C/C=C/c1cccs1)s2,62.36,333 K,0.025 mM,99.04
+10562,"5-((Thiophen-2-ylmethylene)amino)-1,3,4-thiadiazole-2-thiol",Sc2nnc(/N=C/C=C/c1cccs1)s2,62.36,333 K,0.05 mM,98.99%
+10567,,OCC3OC(NCCCCCCNC2OC1COOC1C(O)C2O)C(O)C(O)C3O,35,298k,0.45 mM,80.62%
+10568,,OCC3OC(NCCCCCCNC2OC1COOC1C(O)C2O)C(O)C(O)C3O,35,298k,0.91mM,83.21%
+10569,,OCC3OC(NCCCCCCNC2OC1COOC1C(O)C2O)C(O)C(O)C3O,35,298k,1.36mM,87.76%
+10570,,OCC3OC(NCCCCCCNC2OC1COOC1C(O)C2O)C(O)C(O)C3O,35,298k,2.27 mM,90.69%
+10574," 5-(4-hydroxy-3-methoxyphenyl)-2,7-dithioxo-2,3,5,6,7,8-hexahydropyrimido[4,5-d]pyrimidin-4(1H)-one (PP) ",COc3cc(C2NC(=S)Nc1[nH]c(=S)[nH]c(=O)c12)ccc3O,35,298K,20 PPM,95.00%
+10575," 5-(4-hydroxy-3-methoxyphenyl)-2,7-dithioxo-2,3,5,6,7,8-hexahydropyrimido[4,5-d]pyrimidin-4(1H)-one (PP) ",COc3cc(C2NC(=S)Nc1[nH]c(=S)[nH]c(=O)c12)ccc3O,35,298K,40 PPM,97.00%
+10576," 5-(4-hydroxy-3-methoxyphenyl)-2,7-dithioxo-2,3,5,6,7,8-hexahydropyrimido[4,5-d]pyrimidin-4(1H)-one (PP) ",COc3cc(C2NC(=S)Nc1[nH]c(=S)[nH]c(=O)c12)ccc3O,35,298K,80 PPM,98.00%
+10577,"5,5′-disulfanediylbis(1,3,4-thiadiazol-2-amine",Nc2nnc(SSc1nnc(N)s1)s2,62.36,333 K,0.2mM,99.40%
+10578,"5-(benzylthio)−1, 3, 4-thiadiazol-2-amine (BTTA)",Nc2nnc(SCc1ccccc1)s2,62.36,333 K,0.025mM,99.20%
+10579,Thiourea,NC(N)=S,35,333 K,500 PPM,15.70%
+10580,4-methylpyridine quaternary ammonium salt ,Cc2cc[n+](Cc1ccccc1)cc2.[Cl-],35,333 K,500 PPM,-19.70%
+10581," quinoline quaternary
+ammonium salt",c3ccc(C[n+]2cccc1ccccc12)cc3.[Cl-],35,333 K,500 PPM,51.20%
+10582," 1,3-bis(4-methoxybenzyl)-2-(4-methoxyphenyl) imidazolidine",COc4ccc(CN3CCN(Cc1ccc(OC)cc1)c2cc(OC)ccc23)cc4,0,333 K,100 PPM ,62.60%
+10583," 1,3-bis(4-methoxybenzyl)-2-(4-methoxyphenyl) imidazolidine",COc4ccc(CN3CCN(Cc1ccc(OC)cc1)c2cc(OC)ccc23)cc4,0,333 K,200 PPM ,74.80%
+10584," 1,3-bis(4-methoxybenzyl)-2-(4-methoxyphenyl) imidazolidine",COc4ccc(CN3CCN(Cc1ccc(OC)cc1)c2cc(OC)ccc23)cc4,0,333 K,300 PPM,81.50%
+10585," 1,3-bis(4-methoxybenzyl)-2-(4-methoxyphenyl) imidazolidine",COc4ccc(CN3CCN(Cc1ccc(OC)cc1)c2cc(OC)ccc23)cc4,0,333 K,400 PPM,92.00%
+10586,"1,3-bis (4-methoxybenzyl)-2-phenylimidazolidine ",COc4ccc(CN2CCN(Cc1ccc(OC)cc1)C2c3ccccc3)cc4,0,333 K,100 PPM,61.40%
+10587,"1,3-bis (4-methoxybenzyl)-2-phenylimidazolidine ",COc4ccc(CN2CCN(Cc1ccc(OC)cc1)C2c3ccccc3)cc4,0,333 K,200 PPM,69.80%
+10588,"1,3-bis (4-methoxybenzyl)-2-phenylimidazolidine ",COc4ccc(CN2CCN(Cc1ccc(OC)cc1)C2c3ccccc3)cc4,0,333 K,300 PPM,78.30%
+10589,"1,3-bis (4-methoxybenzyl)-2-phenylimidazolidine ",COc4ccc(CN2CCN(Cc1ccc(OC)cc1)C2c3ccccc3)cc4,0,333 K,400 PPM,86.80%
+10590,"1,3-bis(4-methoxybenzyl)-2-(4-nitrophenyl) imidazolidine",COc4ccc(CN2CCN(Cc1ccc(OC)cc1)C2c3ccc(N(=O)=O)cc3)cc4,0,333 K,100 PPM,43.10%
+10591,"1,3-bis(4-methoxybenzyl)-2-(4-nitrophenyl) imidazolidine",COc4ccc(CN2CCN(Cc1ccc(OC)cc1)C2c3ccc(N(=O)=O)cc3)cc4,0,333 K,200 PPM,66.90%
+10592,"1,3-bis(4-methoxybenzyl)-2-(4-nitrophenyl) imidazolidine",COc4ccc(CN2CCN(Cc1ccc(OC)cc1)C2c3ccc(N(=O)=O)cc3)cc4,0,333 K,300 PPM,76.10%
+10593,"1,3-bis(4-methoxybenzyl)-2-(4-nitrophenyl) imidazolidine",COc4ccc(CN2CCN(Cc1ccc(OC)cc1)C2c3ccc(N(=O)=O)cc3)cc4,0,333 K,400 PPM,83.40%
+10594, mannich base,O=C(CCN(CC/N=C/c1ccccc1O)CC/N=C/c2ccccc2O)CCN(CC/N=C/c3ccccc3O)CC/N=C/c4ccccc4O,30,298K,50 PPM,57.20%
+10595, mannich base,O=C(CCN(CC/N=C/c1ccccc1O)CC/N=C/c2ccccc2O)CCN(CC/N=C/c3ccccc3O)CC/N=C/c4ccccc4O,30,298K,100 PPM ,79.30%
+10596, mannich base,O=C(CCN(CC/N=C/c1ccccc1O)CC/N=C/c2ccccc2O)CCN(CC/N=C/c3ccccc3O)CC/N=C/c4ccccc4O,30,298K,200 PPM,83.50%
+10597, mannich base,O=C(CCN(CC/N=C/c1ccccc1O)CC/N=C/c2ccccc2O)CCN(CC/N=C/c3ccccc3O)CC/N=C/c4ccccc4O,30,298K,300 PPM,86.90%
+10598,2-Thiobarbituric acid ,O=C1CC(=O)NC(=S)N1,35,298K,25 PPM,91.20%
+10599,2-Thiobarbituric acid ,O=C1CC(=O)NC(=S)N1,35,298K,50PPM,96.30%
+10600,2-Thiobarbituric acid ,O=C1CC(=O)NC(=S)N1,35,298K,75 PPM,97.10%
+10601,2-Thiobarbituric acid ,O=C1CC(=O)NC(=S)N1,35,298K,100 PPM,91.80%
+10602,2-Thiobarbituric acid ,O=C1CC(=O)NC(=S)N1,35,298K,25 PPM,91.80%
+10603,2-Thiobarbituric acid ,O=C1CC(=O)NC(=S)N1,35,298K,50PPM,96.00%
+10604,2-Thiobarbituric acid ,O=C1CC(=O)NC(=S)N1,35,298K,75 PPM,97.80%
+10605,2-Thiobarbituric acid ,O=C1CC(=O)NC(=S)N1,35,298K,100 PPM,93.70%
+10606,fatty acid amide ,CCCCC/C=C\C\C=C/CCCCCCCC(=O)NCCNCCO,35,298K,5 PPM,26.48%
+10607,fatty acid amide ,CCCCC/C=C\C\C=C/CCCCCCCC(=O)NCCNCCO,35,298K,10 PPM,64.73%
+10608,fatty acid amide ,CCCCC/C=C\C\C=C/CCCCCCCC(=O)NCCNCCO,35,298K,25 PPM,96.10%
+10609,fatty acid amide ,CCCCC/C=C\C\C=C/CCCCCCCC(=O)NCCNCCO,35,298K,50 PPM,96.06%
+10610,fatty acid amide ,CCCCC/C=C\C\C=C/CCCCCCCC(=O)NCCNCCO,35,298K,100 PPM,95.98%
+10611,oligosaccharide derivatives (PHC) ,COC3OC(CO)C(OC2C(O)C(N)C(OC1OC(CO)C(C)C(O)C1NCC(O)[N+](C)(C)C)OC2CO)C(O)C3/N=C\c4ccccc4.[Cl-],35,353K,30 PPM,36.63%
+10612,oligosaccharide derivatives (PHC) ,COC3OC(CO)C(OC2C(O)C(N)C(OC1OC(CO)C(C)C(O)C1NCC(O)[N+](C)(C)C)OC2CO)C(O)C3/N=C\c4ccccc4.[Cl-],35,353K,50  PPM ,55.86%
+10613,oligosaccharide derivatives (PHC) ,COC3OC(CO)C(OC2C(O)C(N)C(OC1OC(CO)C(C)C(O)C1NCC(O)[N+](C)(C)C)OC2CO)C(O)C3/N=C\c4ccccc4.[Cl-],35,353K,80 PPM,88.78%
+10614,oligosaccharide derivatives (PHC) ,COC3OC(CO)C(OC2C(O)C(N)C(OC1OC(CO)C(C)C(O)C1NCC(O)[N+](C)(C)C)OC2CO)C(O)C3/N=C\c4ccccc4.[Cl-],35,353K,100 PPM,88.06%
+10615,oligosaccharide derivatives (PHC) ,CC/C=N\C3C(O)C(OC2C(O)C(N)C(OC1OC(CO)C(C)C(O)C1NCC(O)[N+](C)(C)C)OC2CO)C(CO)OC3OC.[Cl-],35,353K,30 PPM,71.52%
+10616,oligosaccharide derivatives (PHC) ,CC/C=N\C3C(O)C(OC2C(O)C(N)C(OC1OC(CO)C(C)C(O)C1NCC(O)[N+](C)(C)C)OC2CO)C(CO)OC3OC.[Cl-],35,353K,50  PPM ,87.73%
+10617,oligosaccharide derivatives (PHC) ,CC/C=N\C3C(O)C(OC2C(O)C(N)C(OC1OC(CO)C(C)C(O)C1NCC(O)[N+](C)(C)C)OC2CO)C(CO)OC3OC.[Cl-],35,353K,80 PPM,83.43%
+10618,oligosaccharide derivatives (PHC) ,CC/C=N\C3C(O)C(OC2C(O)C(N)C(OC1OC(CO)C(C)C(O)C1NCC(O)[N+](C)(C)C)OC2CO)C(CO)OC3OC.[Cl-],35,353K,100 PPM,91.90%
+10619,4-methylpyridine quaternary ammonium salts ,Cc2cc[n+](Cc1ccccc1)cc2.[Cl-],35,333 K,20 PPM,16.20%
+10620, thiourea,NC(N)=S,35,333 K,20 PPM,49.40%
+10621,mercaptoethanol  ,OCCS,35,333 K,20 PPM,56.60%
+10622,Zwitterionic Compounds,CCCCCCCCCCCC[NH+](CCC(=O)[O-])CC(O)COCCOCCOCCOCCOCCOCCOCCOCC(O)C[NH+](CCCCCCCCCCCC)CCC(=O)[O-],58.5,343 K,10 PPM,79.72%
+10623,Zwitterionic Compounds,CCCCCCCCCCCC[NH+](CCC(=O)[O-])CC(O)COCCOCCOCCOCCOCCOCCOCCOCC(O)C[NH+](CCCCCCCCCCCC)CCC(=O)[O-],58.5,343 K,25 PPM,87.62%
+10624,Zwitterionic Compounds,CCCCCCCCCCCC[NH+](CCC(=O)[O-])CC(O)COCCOCCOCCOCCOCCOCCOCCOCC(O)C[NH+](CCCCCCCCCCCC)CCC(=O)[O-],58.5,343 K,50 PPM,87.78%
+10625,Zwitterionic Compounds,CCCCCCCCCCCC[NH+](CCC(=O)[O-])CC(O)COCCOCCOCCOCCOCCOCCOCCOCC(O)C[NH+](CCCCCCCCCCCC)CCC(=O)[O-],58.5,343 K,75 PPM,91.67%
+10626,Zwitterionic Compounds,CCCCCCCCCCCC[NH+](CCC(=O)[O-])CC(O)COCCOCCOCCOCCOCCOCCOCCOCC(O)C[NH+](CCCCCCCCCCCC)CCC(=O)[O-],58.5,343 K,100 PPM,87.77%
+10627,Zwitterionic Compounds,CCCCCCCCCCCCCCCC[NH+](CCC(=O)[O-])CC(O)COCCOCCOCCOCCOCCOCCOCCOCC(O)C[NH+](CCCCCCCCCCCCCCCC)CCC(=O)[O-],58.5,343 K,10 PPM,98.80%
+10628,Zwitterionic Compounds,CCCCCCCCCCCCCCCC[NH+](CCC(=O)[O-])CC(O)COCCOCCOCCOCCOCCOCCOCCOCC(O)C[NH+](CCCCCCCCCCCCCCCC)CCC(=O)[O-],58.5,343 K,25 PPM,99.42%
+10629,Zwitterionic Compounds,CCCCCCCCCCCCCCCC[NH+](CCC(=O)[O-])CC(O)COCCOCCOCCOCCOCCOCCOCCOCC(O)C[NH+](CCCCCCCCCCCCCCCC)CCC(=O)[O-],58.5,343 K,50 PPM,99.67%
+10630,Zwitterionic Compounds,CCCCCCCCCCCCCCCC[NH+](CCC(=O)[O-])CC(O)COCCOCCOCCOCCOCCOCCOCCOCC(O)C[NH+](CCCCCCCCCCCCCCCC)CCC(=O)[O-],58.5,343 K,75 PPM,99.58%
+10631,Zwitterionic Compounds,CCCCCCCCCCCCCCCC[NH+](CCC(=O)[O-])CC(O)COCCOCCOCCOCCOCCOCCOCCOCC(O)C[NH+](CCCCCCCCCCCCCCCC)CCC(=O)[O-],58.5,343 K,100 PPM,98.62%
+10632,Zwitterionic Compounds,CCCCCCCCCCCCCCCCCC[NH+](CCC(=O)[O-])CC(O)COCCOCCOCCOCCOCCOCCOCCOCC(O)C[NH+](CCCCCCCCCCCCCCCCCC)CCC(=O)[O-],58.5,343 K,10 PPM,99.68%
+10633,Zwitterionic Compounds,CCCCCCCCCCCCCCCCCC[NH+](CCC(=O)[O-])CC(O)COCCOCCOCCOCCOCCOCCOCCOCC(O)C[NH+](CCCCCCCCCCCCCCCCCC)CCC(=O)[O-],58.5,343 K,25 PPM,99.00%
+10634,Zwitterionic Compounds,CCCCCCCCCCCCCCCCCC[NH+](CCC(=O)[O-])CC(O)COCCOCCOCCOCCOCCOCCOCCOCC(O)C[NH+](CCCCCCCCCCCCCCCCCC)CCC(=O)[O-],58.5,343 K,50 PPM,96.28%
+10635,Zwitterionic Compounds,CCCCCCCCCCCCCCCCCC[NH+](CCC(=O)[O-])CC(O)COCCOCCOCCOCCOCCOCCOCCOCC(O)C[NH+](CCCCCCCCCCCCCCCCCC)CCC(=O)[O-],58.5,343 K,75 PPM,89.17%
+10636,Zwitterionic Compounds,CCCCCCCCCCCCCCCCCC[NH+](CCC(=O)[O-])CC(O)COCCOCCOCCOCCOCCOCCOCCOCC(O)C[NH+](CCCCCCCCCCCCCCCCCC)CCC(=O)[O-],58.5,343 K,100 PPM,68.50%
+10637,chitosan,COC1C(O)C(N)C(C)OC1CO,35,298K,25 PPM,22.00%
+10638,chitosan,COC1C(O)C(N)C(C)OC1CO,35,298K,50 PPM,34.00%
+10639,chitosan,COC1C(O)C(N)C(C)OC1CO,35,298K,75 PPM,41.00%
+10640,chitosan,COC1C(O)C(N)C(C)OC1CO,35,298K,100 PPM,45.00%
+10641,carboxyl methylcellulose,COC2OC(CO)C(OC1OC(CO)C(OC)C(O)C1OCC(=O)O)C(O)C2OCC(=O)O,35,298K,25 PPM,28.00%
+10642,carboxyl methylcellulose,COC2OC(CO)C(OC1OC(CO)C(OC)C(O)C1OCC(=O)O)C(O)C2OCC(=O)O,35,298K,50PPM,32.00%
+10643,carboxyl methylcellulose,COC2OC(CO)C(OC1OC(CO)C(OC)C(O)C1OCC(=O)O)C(O)C2OCC(=O)O,35,298K,75 PPM,33.00%
+10644,carboxyl methylcellulose,COC2OC(CO)C(OC1OC(CO)C(OC)C(O)C1OCC(=O)O)C(O)C2OCC(=O)O,35,298K,100 PPM,39.00%
+10645,Thiourea formaldehyde,CNC(=S)NCN(CO)C(=S)NC,35,298K,25 PPM,74.00%
+10646,Thiourea formaldehyde,CNC(=S)NCN(CO)C(=S)NC,35,298K,50 PPM,75.00%
+10647,Thiourea formaldehyde,CNC(=S)NCN(CO)C(=S)NC,35,298K,100 PPM,90.00%
+10648,gemini inhibitor,CCCCCCCCCCCC[N+](C)(C)CC(O)C[n+]1cc(N(=O)=O)n(CCO)c1C.[Cl-].[Cl-],2.896,343 K,5 PPM,66.50%
+10649,gemini inhibitor,CCCCCCCCCCCC[N+](C)(C)CC(O)C[n+]1cc(N(=O)=O)n(CCO)c1C.[Cl-].[Cl-],2.896,343 K,10 PPM,89.90%
+10650,gemini inhibitor,CCCCCCCCCCCC[N+](C)(C)CC(O)C[n+]1cc(N(=O)=O)n(CCO)c1C.[Cl-].[Cl-],2.896,343 K,20 PPM,90.30%
+10651,gemini inhibitor,CCCCCCCCCCCC[N+](C)(C)CC(O)C[n+]1cc(N(=O)=O)n(CCO)c1C.[Cl-].[Cl-],2.896,343 K,40 PPM,95.30%
+10652,gemini inhibitor,CCCCCCCCCCCC[N+](C)(C)CC(O)C[n+]1cc(N(=O)=O)n(CCO)c1C.[Cl-].[Cl-],2.896,343 K,80 PPM,91.20%
+10653,Poly 2-acrylamide-2-methylpropanesulfonic acid,CC(CCC(=O)NC(C)(C)S(=O)(=O)O)C(=O)OCC[N+](C)(C)C.[Cl-],35,298K,100 PPM,64.00%
+10654,Poly 2-acrylamide-2-methylpropanesulfonic acid,CC(CCC(=O)NC(C)(C)S(=O)(=O)O)C(=O)OCC[N+](C)(C)C.[Cl-],35,298K,200 PPM,86.00%
+10655,Poly 2-acrylamide-2-methylpropanesulfonic acid,CC(CCC(=O)NC(C)(C)S(=O)(=O)O)C(=O)OCC[N+](C)(C)C.[Cl-],35,298K,300 PPM,89.00%
+10656,Poly 2-acrylamide-2-methylpropanesulfonic acid,CC(CCC(=O)NC(C)(C)S(=O)(=O)O)C(=O)OCC[N+](C)(C)C.[Cl-],35,298K,400 PPM,91.00%
+10657,Poly 2-acrylamide-2-methylpropanesulfonic acid,CC(CCC(=O)NC(C)(C)S(=O)(=O)O)C(=O)OCC[N+](C)(C)C.[Cl-],35,298K,500 PPM,95.00%
+10658,Poly 2-acrylamide-2-methylpropanesulfonic acid-co-NVP,CC(CCCN1CCCC1=O)C(=O)OCC[N+](C)(C)C.[Cl-],35,298K,100 PPM,64.00%
+10659,Poly 2-acrylamide-2-methylpropanesulfonic acid-co-NVP,CC(CCCN1CCCC1=O)C(=O)OCC[N+](C)(C)C.[Cl-],35,298K,200 PPM,86.00%
+10660,Poly 2-acrylamide-2-methylpropanesulfonic acid-co-NVP,CC(CCCN1CCCC1=O)C(=O)OCC[N+](C)(C)C.[Cl-],35,298K,300 PPM,89.00%
+10661,Poly 2-acrylamide-2-methylpropanesulfonic acid-co-NVP,CC(CCCN1CCCC1=O)C(=O)OCC[N+](C)(C)C.[Cl-],35,298K,400 PPM,91.00%
+10662,Poly 2-acrylamide-2-methylpropanesulfonic acid-co-NVP,CC(CCCN1CCCC1=O)C(=O)OCC[N+](C)(C)C.[Cl-],35,298K,500 PPM,95.00%
+10663,Poly 2-acrylamide-2-methylpropanesulfonic acid,CC(C)C(=O)OCC[N+](C)(C)C.[Cl-],35,298K,100 PPM,64.00%
+10664,Poly 2-acrylamide-2-methylpropanesulfonic acid,CC(C)C(=O)OCC[N+](C)(C)C.[Cl-],35,298K,200 PPM,86.00%
+10665,Poly 2-acrylamide-2-methylpropanesulfonic acid,CC(C)C(=O)OCC[N+](C)(C)C.[Cl-],35,298K,300 PPM,89.00%
+10666,Poly 2-acrylamide-2-methylpropanesulfonic acid,CC(C)C(=O)OCC[N+](C)(C)C.[Cl-],35,298K,400 PPM,91.00%
+10667,Poly 2-acrylamide-2-methylpropanesulfonic acid,CC(C)C(=O)OCC[N+](C)(C)C.[Cl-],35,298K,500 PPM,95.00%
+10668,,C/C1=N/CC[N+]1(CCN)CC(O)C[N+]2(CCN)CCNC2=S.[Cl-].[Cl-],2.896,343 K,5 PPM,80.80%
+10669,,C/C1=N/CC[N+]1(CCN)CC(O)C[N+]2(CCN)CCNC2=S.[Cl-].[Cl-],2.896,343 K,10 PPM,79.20%
+10670,,C/C1=N/CC[N+]1(CCN)CC(O)C[N+]2(CCN)CCNC2=S.[Cl-].[Cl-],2.896,343 K,20 PPM,68.00%
+10671,,C/C1=N/CC[N+]1(CCN)CC(O)C[N+]2(CCN)CCNC2=S.[Cl-].[Cl-],2.896,343 K,40 PPM,70.10%
+10672,,C/C1=N/CC[N+]1(CCN)CC(O)C[N+]2(CCN)CCNC2=S.[Cl-].[Cl-],2.896,343 K,80 PPM,88.20%
+10673,"5,10,15,20-tetrakis(pentafluorophenyl)-21H,23H-porphyrin palladium(II)",Fc%12c(F)c(F)c(c4c6ccc7c(c1c(F)c(F)c(F)c(F)c1F)c%10ccc%11c(c2c(F)c(F)c(F)c(F)c2F)c9ccc8c(c3c(F)c(F)c(F)c(F)c3F)c5ccc4[n+]5[Pd](n67)(n89)[n+]%10%11)c(F)c%12F,35,298K,400 PPM,86.00%
+10674,"4,4′,4″,4‴-(porphyrin-5,10,15,20-tetrayl)tetrakis(benzoic acid)",O=C(O)c9ccc(c7c1ccc(n1)c(c2ccc(C(=O)O)cc2)c3ccc([nH]3)c(c4ccc(C(=O)O)cc4)c5ccc(n5)c(c6ccc(C(=O)O)cc6)c8ccc7[nH]8)cc9,35,298K,400 PPM,93.00%
+10675,zwitterionic compounds,CCCCCCCC[NH2+]CCC(=O)[O-],0,343 K,25 PPM,61.47%
+10676,zwitterionic compounds,CCCCCCCCCCCC[NH2+]CCC(=O)[O-],0,343 K,25 PPM,87.28%
+10677,zwitterionic compounds,CCCCCCCCCCCCCCCCCC[NH2+]CCC(=O)[O-],58.5,343 K,25 PPM,90.14%
+10678,zwitterionic compounds,CCCCCCCCCCCC[NH2+]CCC(=O)[O-],58.5,343 K,50 PPM,98.56%
+10679,zwitterionic compounds,CCCCCCCCCCCC[NH2+]CCC(=O)[O-],58.5,343 K,75 PPM,98.93%
+10680,Pomelo peel extract ,C[C@@H]5O[C@@H](O[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]1Oc4cc(O)c3C(=O)CC(c2ccc(O)cc2)Oc3c4)[C@H](O)[C@H](O)[C@H]5O,35,298K,100 PPM,77.30%
+10681,Pomelo peel extract ,C[C@@H]5O[C@@H](O[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]1Oc4cc(O)c3C(=O)CC(c2ccc(O)cc2)Oc3c4)[C@H](O)[C@H](O)[C@H]5O,35,298K,200 PPM,86.70%
+10682,Pomelo peel extract ,C[C@@H]5O[C@@H](O[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]1Oc4cc(O)c3C(=O)CC(c2ccc(O)cc2)Oc3c4)[C@H](O)[C@H](O)[C@H]5O,35,298K,300 PPM,92.90%
+10683,Pomelo peel extract ,C[C@@H]5O[C@@H](O[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]1Oc4cc(O)c3C(=O)CC(c2ccc(O)cc2)Oc3c4)[C@H](O)[C@H](O)[C@H]5O,35,298K,400 PPM,93.30%
+10684,1-(2-aminoethyl)-2-heptadecyl imidazoline,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCN,16.5,323K,100 PPM,99.30%
+10685,1-(2-aminoethyl)-2-heptadecyl imidazoline,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCN,16.5,323K,100 PPM,99.40%
+10686,         tetradecyl trimethyl ammonium bromide (TTAB) ,CCCCCCCCCCCCCC[N+](C)(C)C.[Br-],35,333±1K, 30mg/L,97.64%
+10687,octadecylamine (OCT)            ,CCCCCCCCCCCCCCCCCCN,35,333±1K,30mg/L,66.08%
+10688,"2-(4-methoxyphenyl)-4,5-diphenyl-imidazole (M-1)     ",COc4ccc(c3nc(c1ccccc1)c(c2ccccc2)[nH]3)cc4,35,308K,400 mg/L,90.00%
+10689,"             4,5-diphenyl-2-(p-tolyl)-imidazole (M-2)                  ",Cc4ccc(c3nc(c1ccccc1)c(c2ccccc2)[nH]3)cc4,35,308K,400 mg/L,84.00%
+10690,"               2-(4-nitrophenyl)-4,5-diphenyl-imidazole (M-3)",O=N(=O)c4ccc(c3nc(c1ccccc1)c(c2ccccc2)[nH]3)cc4,35,308K,400 mg/L,77.00%
+10691,单宁酸(TA),C=C(OC7C(COC(=O)c2cc(O)c(OC(=O)c1cc(O)c(O)c(O)c1)c(O)c2)OC(OC(=O)c4cc(O)c(OC(=O)c3cc(O)c(O)c(O)c3)c(O)c4)C(OC(=O)c6cc(O)c(OC(=O)c5cc(O)c(O)c(O)c5)c(O)c6)C7OC(=O)c9cc(O)c(OC(=O)c8cc(O)c(O)c(O)c8)c(O)c9)c%11cc(O)c(OC(=O)c%10cc(O)c(O)c(O)c%10)c(O)c%11,35,298K,500ppm,50.00%
+10692,Perezone,C/C(C)=C\CC[C@@H](C)c1c(O)c(=O)c(C)cc1=O,30,298K,10ppm,87.00%
+10693,Perezone,C/C(C)=C\CC[C@@H](C)c1c(O)c(=O)c(C)cc1=O,30,298K,5ppm,96.00%
+10694,Perezone,C/C(C)=C\CC[C@@H](C)c1c(O)c(=O)c(C)cc1=O,30,298K,5ppm,95.00%
+10695,imidazoline-based inhibitor,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,313 K,0.4878×?10?5?MOL/L,91.90%
+10696,imidazoline-based inhibitor,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,313 K,1.2195?×?10?5?MOL/L,94.00%
+10697,imidazoline-based inhibitor,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,313 K,2.4390×?10?5?MOL/L,97.50%
+10698,imidazoline-based inhibitor,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,313 K,4.8780?×?10?5?MOL/L,98.30%
+10699,imidazoline-based inhibitor,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,333 K,0.4878×?10?5?MOL/L,94.20%
+10700,imidazoline-based inhibitor,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,333 K,1.2195?×?10?5?MOL/L,96.20%
+10701,imidazoline-based inhibitor,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,333 K,2.4390×?10?5?MOL/L,97.70%
+10702,imidazoline-based inhibitor,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,333 K,4.8780?×?10?5?MOL/L,98.60%
+10703,imidazoline-based inhibitor,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,313K,0.4878×?10?5?MOL/L,57.80%
+10704,imidazoline-based inhibitor,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,313K,1.2195?×?10?5?MOL/L,92.20%
+10705,imidazoline-based inhibitor,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,313K,2.4390×?10?5?MOL/L,94.70%
+10706,imidazoline-based inhibitor,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,313K,4.8780?×?10?5?MOL/L,97.40%
+10707,imidazoline-based inhibitor,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,333 K,0.4878×?10?5?MOL/L,60.90%
+10708,imidazoline-based inhibitor,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,333 K,1.2195?×?10?5?MOL/L,92.50%
+10709,imidazoline-based inhibitor,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,333 K,2.4390×?10?5?MOL/L,96.30%
+10710,imidazoline-based inhibitor,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,333 K,4.8780?×?10?5?MOL/L,97.80%
+10711,"oleic acid-based imidazoline derivates with different hydrophilic groupsIM,IM-2,IM-3和IM-4",CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1,30,323K,100mg/L,82.00%
+10712,"oleic acid-based imidazoline derivates with different hydrophilic groupsIM,IM-2,IM-3和IM-4",CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCN,30,323K,100mg/L,83.00%
+10713,"oleic acid-based imidazoline derivates with different hydrophilic groupsIM,IM-2,IM-3和IM-4",CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCNCCN,30,323K,100mg/L,87.00%
+10714,"oleic acid-based imidazoline derivates with different hydrophilic groupsIM,IM-2,IM-3和IM-4",CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCNCCNCCN,30,323K,100mg/L,75.00%
+10715,苯扎氯铵 (BKC),CCCCCCCCCCC[N+](C)(C)Cc1ccccc1.[Cl-],7.3,298K,40mg/L,99.70%
+10716,苯扎氯铵 (BKC),CCCCCCCCCCC[N+](C)(C)Cc1ccccc1.[Cl-],7.3,298K,80mg/L,99.60%
+10717,"N,N'-(pyridine-2,6-diyl)bis(1-(4-methoxyphenyl) methanimine) (PM)",COc3ccc(/C=N/c2cccc(/N=C/c1ccc(OC)cc1)n2)cc3,35,313K,50mg/L,40.00%
+10718,"N,N'-(pyridine-2,6-diyl)bis(1-(4-methoxyphenyl) methanimine) (PM)",COc3ccc(/C=N/c2cccc(/N=C/c1ccc(OC)cc1)n2)cc3,35,313K,100mg/L,62.00%
+10719,"N,N'-(pyridine-2,6-diyl)bis(1-(4-methoxyphenyl) methanimine) (PM)",COc3ccc(/C=N/c2cccc(/N=C/c1ccc(OC)cc1)n2)cc3,35,313K,200mg/L,84.00%
+10720,"N,N'-(pyridine-2,6-diyl)bis(1-(4-methoxyphenyl) methanimine) (PM)",COc3ccc(/C=N/c2cccc(/N=C/c1ccc(OC)cc1)n2)cc3,35,313K,400mg/L,91.00%
+10721,"N,N'-(pyridine-2,6-diyl)bis(1-(4-methoxyphenyl) methanimine) (PM)",COc3ccc(/C=N/c2cccc(/N=C/c1ccc(OC)cc1)n2)cc3,35,313K,50mg/L,53.00%
+10722,"N,N'-(pyridine-2,6-diyl)bis(1-(4-methoxyphenyl) methanimine) (PM)",COc3ccc(/C=N/c2cccc(/N=C/c1ccc(OC)cc1)n2)cc3,35,313K,100mg/L,68.00%
+10723,"N,N'-(pyridine-2,6-diyl)bis(1-(4-methoxyphenyl) methanimine) (PM)",COc3ccc(/C=N/c2cccc(/N=C/c1ccc(OC)cc1)n2)cc3,35,313K,200mg/L,80.00%
+10724,"N,N'-(pyridine-2,6-diyl)bis(1-(4-methoxyphenyl) methanimine) (PM)",COc3ccc(/C=N/c2cccc(/N=C/c1ccc(OC)cc1)n2)cc3,35,313K,400mg/L,90.00%
+10725,                                   gemini surfactants (GS2) ,CCCCCCCCCCCCn2cc[n+](CC[n+]1ccn(CCCCCCCCCCCC)c1)c2.[Br-].[Br-],0,298K,50PPM,21.49%
+10726,                                   gemini surfactants (GS2) ,CCCCCCCCCCCCn2cc[n+](CC[n+]1ccn(CCCCCCCCCCCC)c1)c2.[Br-].[Br-],0,298K,100PPM,62.69%
+10727,                                   gemini surfactants (GS2) ,CCCCCCCCCCCCn2cc[n+](CC[n+]1ccn(CCCCCCCCCCCC)c1)c2.[Br-].[Br-],0,298K,150PPM,65.47%
+10728,                                   gemini surfactants (GS2) ,CCCCCCCCCCCCn2cc[n+](CC[n+]1ccn(CCCCCCCCCCCC)c1)c2.[Br-].[Br-],0,298K,200PPM,67.64%
+10729,                                   gemini surfactants (GS2) ,CCCCCCCCCCCCn2cc[n+](CC[n+]1ccn(CCCCCCCCCCCC)c1)c2.[Br-].[Br-],0,298K,300PPM,67.04%
+10730,                                   gemini surfactants (GS2) ,CCCCCCCCCCCCn2cc[n+](CC[n+]1ccn(CCCCCCCCCCCC)c1)c2.[Br-].[Br-],0,298K,400PPM,67.05%
+10731,                                   gemini surfactants (GS6) ,CCCCCCCCCCCCn2cc[n+](CCCCCC[n+]1ccn(CCCCCCCCCCCC)c1)c2.[Br-].[Br-],0,298K,50PPM,17.89%
+10732,                                   gemini surfactants (GS6) ,CCCCCCCCCCCCn2cc[n+](CCCCCC[n+]1ccn(CCCCCCCCCCCC)c1)c2.[Br-].[Br-],0,298K,100PPM,34.76%
+10733,                                   gemini surfactants (GS6) ,CCCCCCCCCCCCn2cc[n+](CCCCCC[n+]1ccn(CCCCCCCCCCCC)c1)c2.[Br-].[Br-],0,298K,150PPM,37.93%
+10734,                                   gemini surfactants (GS6) ,CCCCCCCCCCCCn2cc[n+](CCCCCC[n+]1ccn(CCCCCCCCCCCC)c1)c2.[Br-].[Br-],0,298K,200PPM,41.13%
+10735,                                   gemini surfactants (GS6) ,CCCCCCCCCCCCn2cc[n+](CCCCCC[n+]1ccn(CCCCCCCCCCCC)c1)c2.[Br-].[Br-],0,298K,300PPM,62.30%
+10736,                                   gemini surfactants (GS6) ,CCCCCCCCCCCCn2cc[n+](CCCCCC[n+]1ccn(CCCCCCCCCCCC)c1)c2.[Br-].[Br-],0,298K,400PPM,43.05%
+10737,                                   gemini surfactants (GS10) ,CCCCCCCCCCCCn2cc[n+](CCCCCCCCCC[n+]1ccn(CCCCCCCCCCCC)c1)c2.[Br-].[Br-],0,298K,50PPM,61.53%
+10738,                                   gemini surfactants (GS10) ,CCCCCCCCCCCCn2cc[n+](CCCCCCCCCC[n+]1ccn(CCCCCCCCCCCC)c1)c2.[Br-].[Br-],0,298K,100PPM,83.98%
+10739,                                   gemini surfactants (GS10) ,CCCCCCCCCCCCn2cc[n+](CCCCCCCCCC[n+]1ccn(CCCCCCCCCCCC)c1)c2.[Br-].[Br-],0,298K,150PPM,85.21%
+10740,                                   gemini surfactants (GS10) ,CCCCCCCCCCCCn2cc[n+](CCCCCCCCCC[n+]1ccn(CCCCCCCCCCCC)c1)c2.[Br-].[Br-],0,298K,200PPM,83.96%
+10741,                                   gemini surfactants (GS10) ,CCCCCCCCCCCCn2cc[n+](CCCCCCCCCC[n+]1ccn(CCCCCCCCCCCC)c1)c2.[Br-].[Br-],0,298K,300PPM,81.52%
+10742,                                   gemini surfactants (GS10) ,CCCCCCCCCCCCn2cc[n+](CCCCCCCCCC[n+]1ccn(CCCCCCCCCCCC)c1)c2.[Br-].[Br-],0,298K,400PPM,76.00%
+10743,N-(2-o-Tolyl azophenyl)-acetamide (NTAA),CC(=O)Nc1ccccc1/N=N/c2ccccc2C,0,353K,10ppm ,69.00%
+10744,N-(2-o-Tolyl azophenyl)-acetamide (NTAA),CC(=O)Nc1ccccc1/N=N/c2ccccc2C,0,353K, 20ppm  ,84.00%
+10745,N-(2-o-Tolyl azophenyl)-acetamide (NTAA),CC(=O)Nc1ccccc1/N=N/c2ccccc2C,0,353K, 30ppm  ,90.00%
+10746,N-(2-o-Tolyl azophenyl)-acetamide (NTAA),CC(=O)Nc1ccccc1/N=N/c2ccccc2C,0,353K,60ppm  ,97.00%
+10747,N-(2-o-Tolyl azophenyl)-acetamide (NTAA),CC(=O)Nc1ccccc1/N=N/c2ccccc2C,0,353K,80ppm,99.00%
+10748,Tween 80,CCCCCCCC/C=C/CCCCCCCC(=O)COCCOCC(OCCO)C1OC(OCCO)CC1OCCO,30,313K,0.01M,73.13%
+10749,Tween 80,CCCCCCCC/C=C/CCCCCCCC(=O)COCCOCC(OCCO)C1OC(OCCO)CC1OCCO,30,343K,0.01M,89.67%
+10750,Tween 80,CCCCCCCC/C=C/CCCCCCCC(=O)COCCOCC(OCCO)C1OC(OCCO)CC1OCCO,30,313K,0.01M,96.63%
+10751,Tween 80,CCCCCCCC/C=C/CCCCCCCC(=O)COCCOCC(OCCO)C1OC(OCCO)CC1OCCO,30,343k,0.01M,92.55%
+10752,十二胺缓蚀剂,CCCCCCCCCCCCN,30,298K,20 mg/L,80.00%
+10753,十二胺缓蚀剂,CCCCCCCCCCCCN,30,298K,40 mg/L,87.00%
+10754,十二胺缓蚀剂,CCCCCCCCCCCCN,30,298K,60 mg/L,93.44%
+10755,十二胺缓蚀剂,CCCCCCCCCCCCN,30,298K,80 mg/L,92.00%
+10756,十二胺缓蚀剂,CCCCCCCCCCCCN,30,298K,20 mg/L,60.00%
+10757,十二胺缓蚀剂,CCCCCCCCCCCCN,30,298K,40 mg/L,66.00%
+10758,十二胺缓蚀剂,CCCCCCCCCCCCN,30,298K,60 mg/L,78.00%
+10759,十二胺缓蚀剂,CCCCCCCCCCCCN,30,298K,80 mg/L,88.00%
+10760,imidazoline derivative (IM)    ,CCCCCCCC/C=C/CCCCCCCC1/N=C\CN1CCN(CCOCCOCCOCCOCCOCCOCCO)CCOCCOCCOCCOCCOCCOCCOCCO,30,333±1K,20mg/L  ,41.70%
+10761,imidazoline derivative (IM)    ,CCCCCCCC/C=C/CCCCCCCC1/N=C\CN1CCN(CCOCCOCCOCCOCCOCCOCCO)CCOCCOCCOCCOCCOCCOCCOCCO,30,333±1K,50mg/L  ,51.20%
+10762,imidazoline derivative (IM)    ,CCCCCCCC/C=C/CCCCCCCC1/N=C\CN1CCN(CCOCCOCCOCCOCCOCCOCCO)CCOCCOCCOCCOCCOCCOCCOCCO,30,333±1K,100mg/L  ,37.90%
+10763,              l -cysteine (CYS) ,NC(CS)C(=O)O,30,333±1K,5mg/L,80.70%
+10764,              l -cysteine (CYS) ,NC(CS)C(=O)O,30,333±1K,10mg/L,86.80%
+10765,              l -cysteine (CYS) ,NC(CS)C(=O)O,30,333±1K,20mg/L,88.10%
+10766,              l -cysteine (CYS) ,NC(CS)C(=O)O,30,333±1K,50mg/L,91.80%
+10767,              l -cysteine (CYS) ,NC(CS)C(=O)O,30,333±1K,100mg/L,84.60%
+10768,Gemini Imidazoline（油酸与三亚乙基四胺以 2:1 的摩尔比反应合成的）,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCN2CC/N=C2/CCCCCCC/C=C/CCCCCCCC,117.31,333K,5PPM,62.00%
+10769,Gemini Imidazoline（油酸与三亚乙基四胺以 2:1 的摩尔比反应合成的）,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCN2CC/N=C2/CCCCCCC/C=C/CCCCCCCC,117.31,333K,10PPM,78.00%
+10770,Gemini Imidazoline（油酸与三亚乙基四胺以 2:1 的摩尔比反应合成的）,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCN2CC/N=C2/CCCCCCC/C=C/CCCCCCCC,117.31,333K,20PPM,85.00%
+10771,Gemini Imidazoline（油酸与三亚乙基四胺以 2:1 的摩尔比反应合成的）,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCN2CC/N=C2/CCCCCCC/C=C/CCCCCCCC,117.31,333K,40PPM,90.00%
+10772,Gemini Imidazoline（油酸与三亚乙基四胺以 2:1 的摩尔比反应合成的）,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCN2CC/N=C2/CCCCCCC/C=C/CCCCCCCC,117.31,333K,60PPM,89.00%
+10773,"1,2,4,7,9,10-hexaazacyclo-pentadeca-10,15-dien-3,5,6,8-tetraone (HPT)",O=C1N/N=C/CCC/C=N/NC(=O)NC(=O)C(=O)N1,35,298K,25ppm,77.00%
+10774,"1,2,4,7,9,10-hexaazacyclo-pentadeca-10,15-dien-3,5,6,8-tetraone (HPT)",O=C1N/N=C/CCC/C=N/NC(=O)NC(=O)C(=O)N1,35,298K,50ppm,85.00%
+10775,"1,2,4,7,9,10-hexaazacyclo-pentadeca-10,15-dien-3,5,6,8-tetraone (HPT)",O=C1N/N=C/CCC/C=N/NC(=O)NC(=O)C(=O)N1,35,298K,100ppm,90.00%
+10776,"1,2,4,7,9,10-hexaazacyclo-pentadeca-10,15-dien-3,5,6,8-tetraone (HPT)",O=C1N/N=C/CCC/C=N/NC(=O)NC(=O)C(=O)N1,35,298K,200ppm,95.00%
+10777,"N-methylhydroxylamine hydrochloride, paraformaldehyde, pyrrolidine, allyl bromide, 6- bromo-1-hexene, 11-bromo-1-undecene, p-hydroxybenzaldehyde",CN2CCC(COc1ccc(C=O)cc1)O2,29.25,313K,20 PPM,67.20%
+10778,"N-methylhydroxylamine hydrochloride, paraformaldehyde, pyrrolidine, allyl bromide, 6- bromo-1-hexene, 11-bromo-1-undecene, p-hydroxybenzaldehyde",CN2CCC(COc1ccc(C=O)cc1)O2,29.25,313K,50  PPM,73.80%
+10779,"N-methylhydroxylamine hydrochloride, paraformaldehyde, pyrrolidine, allyl bromide, 6- bromo-1-hexene, 11-bromo-1-undecene, p-hydroxybenzaldehyde",CN2CCC(COc1ccc(C=O)cc1)O2,29.25,313K,100 PPM,80.90%
+10780,"N-methylhydroxylamine hydrochloride, paraformaldehyde, pyrrolidine, allyl bromide, 6- bromo-1-hexene, 11-bromo-1-undecene, p-hydroxybenzaldehyde",CN2CCC(CCCCOc1ccc(C=O)cc1)O2,29.25,313K,20 PPM,71.90%
+10781,"N-methylhydroxylamine hydrochloride, paraformaldehyde, pyrrolidine, allyl bromide, 6- bromo-1-hexene, 11-bromo-1-undecene, p-hydroxybenzaldehyde",CN2CCC(CCCCOc1ccc(C=O)cc1)O2,29.25,313K,50  PPM,78.30%
+10782,"N-methylhydroxylamine hydrochloride, paraformaldehyde, pyrrolidine, allyl bromide, 6- bromo-1-hexene, 11-bromo-1-undecene, p-hydroxybenzaldehyde",CN2CCC(CCCCOc1ccc(C=O)cc1)O2,29.25,313K,100 PPM,83.80%
+10783,"N-methylhydroxylamine hydrochloride, paraformaldehyde, pyrrolidine, allyl bromide, 6- bromo-1-hexene, 11-bromo-1-undecene, p-hydroxybenzaldehyde",CN2CCC(CCCCCCCCCOc1ccc(C=O)cc1)O2,29.25,313K,20 PPM,83.20%
+10784,"N-methylhydroxylamine hydrochloride, paraformaldehyde, pyrrolidine, allyl bromide, 6- bromo-1-hexene, 11-bromo-1-undecene, p-hydroxybenzaldehyde",CN2CCC(CCCCCCCCCOc1ccc(C=O)cc1)O2,29.25,313K,50  PPM,87.30%
+10785,"N-methylhydroxylamine hydrochloride, paraformaldehyde, pyrrolidine, allyl bromide, 6- bromo-1-hexene, 11-bromo-1-undecene, p-hydroxybenzaldehyde",CN2CCC(CCCCCCCCCOc1ccc(C=O)cc1)O2,29.25,313K,100 PPM,92.10%
+10786,"N-methylhydroxylamine hydrochloride, paraformaldehyde, pyrrolidine, allyl bromide, 6- bromo-1-hexene, 11-bromo-1-undecene, p-hydroxybenzaldehyde",O=Cc3ccc(OCCCCCCCCCC2CC1CCCN1O2)cc3,29.25,313K,20 PPM,97.40%
+10787,"N-methylhydroxylamine hydrochloride, paraformaldehyde, pyrrolidine, allyl bromide, 6- bromo-1-hexene, 11-bromo-1-undecene, p-hydroxybenzaldehyde",O=Cc3ccc(OCCCCCCCCCC2CC1CCCN1O2)cc3,29.25,313K,50  PPM,98.10%
+10788,"N-methylhydroxylamine hydrochloride, paraformaldehyde, pyrrolidine, allyl bromide, 6- bromo-1-hexene, 11-bromo-1-undecene, p-hydroxybenzaldehyde",O=Cc3ccc(OCCCCCCCCCC2CC1CCCN1O2)cc3,29.25,313K,100 PPM,99.40%
+10789,,Cc3ccc(c2nnc(SCC(=O)N/N=C/c1ccco1)n2N)cc3,90.383,333K,3.2*10-5M,92.50%
+10790,,Cc3ccc(c2nnc(SCC(=O)N/N=C/c1ccco1)n2N)cc3,90.383,333K,10-4M,95.70%
+10791,,Cc3ccc(c2nnc(SCC(=O)N/N=C/c1ccco1)n2N)cc3,90.383,333K,3.2*10-4M,97.50%
+10792,,Cc3ccc(c2nnc(SCC(=O)N/N=C/c1ccco1)n2N)cc3,90.383,333K,10-3M,98.80%
+10793,,Cc3ccc(c2nnc(SCC(=O)N/N=C/c1ccco1)n2N)cc3,90.383,333K,3.2*10-3M,99.20%
+10794,,Cc3ccc(c2nnc(SCC(=O)N/N=C/c1ccco1)s2)cc3,90.383,333K,3.2*10-5M,96.10%
+10795,,Cc3ccc(c2nnc(SCC(=O)N/N=C/c1ccco1)s2)cc3,90.383,333K,10-4M,97.00%
+10796,,Cc3ccc(c2nnc(SCC(=O)N/N=C/c1ccco1)s2)cc3,90.383,333K,3.2*10-4M,97.70%
+10797,,Cc3ccc(c2nnc(SCC(=O)N/N=C/c1ccco1)s2)cc3,90.383,333K,10-3M,98.50%
+10798,,Cc3ccc(c2nnc(SCC(=O)N/N=C/c1ccco1)s2)cc3,90.383,333K,3.2*10-3M,98.60%
+10799,HL-IM,CCCCCCCCCCC/C1=N/CCN1CCO,292.5,333.15K,50mg/L,70.05%
+10800,HL-IM,CCCCCCCCCCC/C1=N/CCN1CCO,292.5,333.15K,100mg/L,84.46%
+10801,HL-IM,CCCCCCCCCCC/C1=N/CCN1CCO,292.5,333.15K,150 mg/L ,90.17%
+10802,HL-IM,CCCCCCCCCCC/C1=N/CCN1CCO,292.5,333.15K,200 mg/L,90.40%
+10803,HL-IM,CCCCCCCCCCC/C1=N/CCN1CCO,292.5,333.15K,250 mg/L,90.50%
+10804,1-[(2-羟乙基)氨基]-2-(水杨基氨基)乙烷(HAS),OCCNCC/N=C/c1ccccc1O,30,298K,300ppm,75.30%
+10805,1-[(2-羟乙基)氨基]-2-(水杨基氨基)乙烷(HAS),OCCNCC/N=C/c1ccccc1O,30,298K,400ppm,85.40%
+10806,1-[(2-羟乙基)氨基]-2-(水杨基氨基)乙烷(HAS),OCCNCC/N=C/c1ccccc1O,30,298K,500ppm,86.20%
+10807,水溶性氨基硫脲-咪唑衍生物(TH-IM),NNC(=S)NCNCC[N+]2(Cc1ccccc1)CC/N=C2/c3ccccc3,30,333K,50mg/L,83.59%
+10808,水溶性氨基硫脲-咪唑衍生物(TH-IM),NNC(=S)NCNCC[N+]2(Cc1ccccc1)CC/N=C2/c3ccccc3,30,333K,100mg/L,85.61%
+10809,水溶性氨基硫脲-咪唑衍生物(TH-IM),NNC(=S)NCNCC[N+]2(Cc1ccccc1)CC/N=C2/c3ccccc3,30,333K,200mg/L,90.37%
+10810,水溶性氨基硫脲-咪唑衍生物(TH-IM),NNC(=S)NCNCC[N+]2(Cc1ccccc1)CC/N=C2/c3ccccc3,30,333K,400mg/L,96.43%
+10811,咖啡因,CN1/C=N\C2C1C(=O)N(C)C(=O)N2C,30,298K,5ppm,42.20%
+10812,咖啡因,CN1/C=N\C2C1C(=O)N(C)C(=O)N2C,30,298K,10ppm,86.60%
+10813,咖啡因,CN1/C=N\C2C1C(=O)N(C)C(=O)N2C,30,298K,20ppm,92.80%
+10814,咖啡因,CN1/C=N\C2C1C(=O)N(C)C(=O)N2C,30,298K, 50ppm,94.70%
+10815,尼古丁,CN1CCCC1c2cccnc2,30,298K,5ppm,82.84%
+10816,尼古丁,CN1CCCC1c2cccnc2,30,298K,10ppm,85.65%
+10817,尼古丁,CN1CCCC1c2cccnc2,30,298K,20ppm,86.95%
+10818,尼古丁,CN1CCCC1c2cccnc2,30,298K, 50ppm,86.91%
+10819,咖啡因,CN1/C=N\C2C1C(=O)N(C)C(=O)N2C,30,298K,5ppm,69.60%
+10820,咖啡因,CN1/C=N\C2C1C(=O)N(C)C(=O)N2C,30,298K,10ppm,70.30%
+10821,咖啡因,CN1/C=N\C2C1C(=O)N(C)C(=O)N2C,30,298K,20ppm,68.90%
+10822,咖啡因,CN1/C=N\C2C1C(=O)N(C)C(=O)N2C,30,298K, 50ppm,69.90%
+10823,尼古丁,CN1CCCC1c2cccnc2,30,298K,5ppm,68.90%
+10824,尼古丁,CN1CCCC1c2cccnc2,30,298K,10ppm,71.70%
+10825,尼古丁,CN1CCCC1c2cccnc2,30,298K,20ppm,72.30%
+10826,尼古丁,CN1CCCC1c2cccnc2,30,298K, 50ppm,72.80%
+10827,2-(1-methyl-nonyl)-quinoline,CCCCCCCCC(C)c2ccc1ccccc1n2,50,298K,0.0141 mol/L,22.79%
+10828,2-(1-methyl-nonyl)-quinoline,CCCCCCCCC(C)c2ccc1ccccc1n2,50,298K,0.0212 mol/L,85.47%
+10829,2-(1-methyl-nonyl)-quinoline,CCCCCCCCC(C)c2ccc1ccccc1n2,50,298K,0.0282 mol/L,97.25%
+10830,Imidazolines containing  twin hydrophobes,CCCCCCCCOc2cccc(/C1=N/CCN1CCN)c2,29.25,313K,1ppm,58.90%
+10831,Imidazolines containing  twin hydrophobes,CCCCCCCCOc2cccc(/C1=N/CCN1CCN)c2,29.25,313K,5ppm,63.70%
+10832,Imidazolines containing  twin hydrophobes,CCCCCCCCOc2cccc(/C1=N/CCN1CCN)c2,29.25,313K,10ppm,67.50%
+10833,Imidazolines containing  twin hydrophobes,CCCCCCCCOc2cccc(/C1=N/CCN1CCN)c2,29.25,313K,20ppm,73.60%
+10834,Imidazolines containing  twin hydrophobes,CCCCCCCCOc2cccc(/C1=N/CCN1CCN)c2,29.25,313K,50ppm,84.20%
+10835,Imidazolines containing  twin hydrophobes,CCCCCCCCOc2cccc(/C1=N/CCN1CCN)c2,29.25,313K,100ppm,90.80%
+10836,Imidazolines containing  twin hydrophobes（7b）,CCCCCCCCOc2ccc(/C1=N/CCN1CCN)cc2OCCCCCCCC,29.25,313K,1ppm,61.00%
+10837,Imidazolines containing  twin hydrophobes（7b）,CCCCCCCCOc2ccc(/C1=N/CCN1CCN)cc2OCCCCCCCC,29.25,313K,5ppm,68.90%
+10838,Imidazolines containing  twin hydrophobes（7b）,CCCCCCCCOc2ccc(/C1=N/CCN1CCN)cc2OCCCCCCCC,29.25,313K,10ppm,74.10%
+10839,Imidazolines containing  twin hydrophobes（7b）,CCCCCCCCOc2ccc(/C1=N/CCN1CCN)cc2OCCCCCCCC,29.25,313K,20ppm,84.10%
+10840,Imidazolines containing  twin hydrophobes（7b）,CCCCCCCCOc2ccc(/C1=N/CCN1CCN)cc2OCCCCCCCC,29.25,313K,50ppm,92.10%
+10841,Imidazolines containing  twin hydrophobes（7b）,CCCCCCCCOc2ccc(/C1=N/CCN1CCN)cc2OCCCCCCCC,29.25,313K,100ppm,56.10%
+10842,Imidazolines containing  twin hydrophobes（7c）,CCCCCCCCOc2cc(/C1=N/CCN1CCN)cc(OCCCCCCCC)c2OCCCCCCCC,29.25,313K,1ppm,56.10%
+10843,Imidazolines containing  twin hydrophobes（7c）,CCCCCCCCOc2cc(/C1=N/CCN1CCN)cc(OCCCCCCCC)c2OCCCCCCCC,29.25,313K,5ppm,62.30%
+10844,Imidazolines containing  twin hydrophobes（7c）,CCCCCCCCOc2cc(/C1=N/CCN1CCN)cc(OCCCCCCCC)c2OCCCCCCCC,29.25,313K,10ppm,68.10%
+10845,Imidazolines containing  twin hydrophobes（7c）,CCCCCCCCOc2cc(/C1=N/CCN1CCN)cc(OCCCCCCCC)c2OCCCCCCCC,29.25,313K,20ppm,71.50%
+10846,Imidazolines containing  twin hydrophobes（7c）,CCCCCCCCOc2cc(/C1=N/CCN1CCN)cc(OCCCCCCCC)c2OCCCCCCCC,29.25,313K,50ppm,79.90%
+10847,Imidazolines containing  twin hydrophobes（7c）,CCCCCCCCOc2cc(/C1=N/CCN1CCN)cc(OCCCCCCCC)c2OCCCCCCCC,29.25,313K,100ppm,85.40%
+10848,Imidazolines containing  twin hydrophobes（8a）,CCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,313K,1ppm,44.60%
+10849,Imidazolines containing  twin hydrophobes（8a）,CCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,313K,5ppm,58.10%
+10850,Imidazolines containing  twin hydrophobes（8a）,CCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,313K,10ppm,68.10%
+10851,Imidazolines containing  twin hydrophobes（8a）,CCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,313K,20ppm,74.70%
+10852,Imidazolines containing  twin hydrophobes（8a）,CCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,313K,50ppm,82.60%
+10853,Imidazolines containing  twin hydrophobes（8a）,CCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,313K,100ppm,90.20%
+10854,Imidazolines containing  twin hydrophobes（8b）,CCCCCCCCOc2cc(OCCCCCCCC)cc(/C1=N/CCN1CCNCCNCCN)c2,29.25,313K,1ppm,48.90%
+10855,Imidazolines containing  twin hydrophobes（8b）,CCCCCCCCOc2cc(OCCCCCCCC)cc(/C1=N/CCN1CCNCCNCCN)c2,29.25,313K,5ppm,67.00%
+10856,Imidazolines containing  twin hydrophobes（8b）,CCCCCCCCOc2cc(OCCCCCCCC)cc(/C1=N/CCN1CCNCCNCCN)c2,29.25,313K,10ppm,76.30%
+10857,Imidazolines containing  twin hydrophobes（8b）,CCCCCCCCOc2cc(OCCCCCCCC)cc(/C1=N/CCN1CCNCCNCCN)c2,29.25,313K,20ppm,84.20%
+10858,Imidazolines containing  twin hydrophobes（8b）,CCCCCCCCOc2cc(OCCCCCCCC)cc(/C1=N/CCN1CCNCCNCCN)c2,29.25,313K,50ppm,93.80%
+10859,Imidazolines containing  twin hydrophobes（8c）,CCCCCCCCOc2cc(/C1=N/CCN1CCNCCNCCN)cc(OCCCCCCCC)c2OCCCCCCCC,29.25,313K,100ppm,97.10%
+10860,Imidazolines containing  twin hydrophobes（8c）,CCCCCCCCOc2cc(/C1=N/CCN1CCNCCNCCN)cc(OCCCCCCCC)c2OCCCCCCCC,29.25,313K,1ppm,49.10%
+10861,Imidazolines containing  twin hydrophobes（8c）,CCCCCCCCOc2cc(/C1=N/CCN1CCNCCNCCN)cc(OCCCCCCCC)c2OCCCCCCCC,29.25,313K,5ppm,56.20%
+10862,Imidazolines containing  twin hydrophobes（8c）,CCCCCCCCOc2cc(/C1=N/CCN1CCNCCNCCN)cc(OCCCCCCCC)c2OCCCCCCCC,29.25,313K,10ppm,62.30%
+10863,Imidazolines containing  twin hydrophobes（8c）,CCCCCCCCOc2cc(/C1=N/CCN1CCNCCNCCN)cc(OCCCCCCCC)c2OCCCCCCCC,29.25,313K,20ppm,67.10%
+10864,Imidazolines containing  twin hydrophobes（8c）,CCCCCCCCOc2cc(/C1=N/CCN1CCNCCNCCN)cc(OCCCCCCCC)c2OCCCCCCCC,29.25,313K,50ppm,78.30%
+10865,Imidazolines containing  twin hydrophobes（8c）,CCCCCCCCOc2cc(/C1=N/CCN1CCNCCNCCN)cc(OCCCCCCCC)c2OCCCCCCCC,29.25,313K,100ppm,84.10%
+10866,"1,2,4,7,9,10-Hexaazacyclo-pentadeca-10,15-dien-3,5,6,8-tetraone (HPT)",O=C1N/N=C\CCC/C=N\NNC(=O)NC(=O)C(=O)N1,35,298K,50ppm,66.00%
+10867,"1,2,4,7,9,10-Hexaazacyclo-pentadeca-10,15-dien-3,5,6,8-tetraone (HPT)",O=C1N/N=C\CCC/C=N\NNC(=O)NC(=O)C(=O)N1,35,298K,100ppm,72.00%
+10868,"1,2,4,7,9,10-Hexaazacyclo-pentadeca-10,15-dien-3,5,6,8-tetraone (HPT)",O=C1N/N=C\CCC/C=N\NNC(=O)NC(=O)C(=O)N1,35,298K,200ppm,85.00%
+10869,"1,2,4,7,9,10-Hexaazacyclo-pentadeca-10,15-dien-3,5,6,8-tetraone (HPT)",O=C1N/N=C\CCC/C=N\NNC(=O)NC(=O)C(=O)N1,35,298K,400ppm,92.00%
+10870, synthesized imidazoline-based inhibitor,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,333K,0.4878×10 -5 mol/L,46.87%
+10871, synthesized imidazoline-based inhibitor,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,333K,1.2195×10 -5 mol/L,95.54%
+10872, synthesized imidazoline-based inhibitor,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,333K,1.9512×10 -5 mol/L,95.82%
+10873, synthesized imidazoline-based inhibitor,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,333K,2.4390×10 -5 mol/L,96.58%
+10874, synthesized imidazoline-based inhibitor,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,333K,4.8780×10 -5 mol/L,98.05%
+10875,"4,4,4,4-(porphyrin-5,10,15,20-tetrayl)-tetrakis(benzoic acid (HPTB)     ",O=C(O)c9ccc(c7c1ccc(n1)c(c2ccc(C(=O)O)cc2)c3ccc([nH]3)c(c4ccc(C(=O)O)cc4)c5ccc(n5)c(c6ccc(C(=O)O)cc6)c8ccc7[nH]8)cc9,35,298K,50ppm ,18%
+10876,"4,4,4,4-(porphyrin-5,10,15,20-tetrayl)-tetrakis(benzoic acid (HPTB)     ",O=C(O)c9ccc(c7c1ccc(n1)c(c2ccc(C(=O)O)cc2)c3ccc([nH]3)c(c4ccc(C(=O)O)cc4)c5ccc(n5)c(c6ccc(C(=O)O)cc6)c8ccc7[nH]8)cc9,35,298K,100ppm ,49%
+10877,"4,4,4,4-(porphyrin-5,10,15,20-tetrayl)-tetrakis(benzoic acid (HPTB)     ",O=C(O)c9ccc(c7c1ccc(n1)c(c2ccc(C(=O)O)cc2)c3ccc([nH]3)c(c4ccc(C(=O)O)cc4)c5ccc(n5)c(c6ccc(C(=O)O)cc6)c8ccc7[nH]8)cc9,35,298K,200ppm ,82%
+10878,"5,10,15,20-tetra(4-pyridyl)-21H,23H-porphyrin (T4PP)",c9cc(c7c1ccc(n1)c(c2ccncc2)c3ccc([nH]3)c(c4ccncc4)c5ccc(n5)c(c6ccncc6)c8ccc7[nH]8)ccn9,35,298K,50ppm ,26%
+10879,"5,10,15,20-tetra(4-pyridyl)-21H,23H-porphyrin (T4PP)",c9cc(c7c1ccc(n1)c(c2ccncc2)c3ccc([nH]3)c(c4ccncc4)c5ccc(n5)c(c6ccncc6)c8ccc7[nH]8)ccn9,35,298K,100ppm,46%
+10880,"5,10,15,20-tetra(4-pyridyl)-21H,23H-porphyrin (T4PP)",c9cc(c7c1ccc(n1)c(c2ccncc2)c3ccc([nH]3)c(c4ccncc4)c5ccc(n5)c(c6ccncc6)c8ccc7[nH]8)ccn9,35,298K,200ppm,85%
+10881,"5,10,15,20-tetrakis(4-hydroxyphenyl)-21H,23H-porphyrin (THP) ",Oc9ccc(c7c1ccc(n1)c(c2ccc(O)cc2)c3ccc([nH]3)c(c4ccc(O)cc4)c5ccc(n5)c(c6ccc(O)cc6)c8ccc7[nH]8)cc9,35,298K,50ppm,35%
+10882,"5,10,15,20-tetrakis(4-hydroxyphenyl)-21H,23H-porphyrin (THP) ",Oc9ccc(c7c1ccc(n1)c(c2ccc(O)cc2)c3ccc([nH]3)c(c4ccc(O)cc4)c5ccc(n5)c(c6ccc(O)cc6)c8ccc7[nH]8)cc9,35,298K,100ppm,53%
+10883,"5,10,15,20-tetrakis(4-hydroxyphenyl)-21H,23H-porphyrin (THP) ",Oc9ccc(c7c1ccc(n1)c(c2ccc(O)cc2)c3ccc([nH]3)c(c4ccc(O)cc4)c5ccc(n5)c(c6ccc(O)cc6)c8ccc7[nH]8)cc9,35,298K,200ppm,80%
+10884,"5,10,15,20-tetraphenyl-21H,23H-porphyrin (TPP)",c9ccc(c7c1ccc(n1)c(c2ccccc2)c3ccc([nH]3)c(c4ccccc4)c5ccc(n5)c(c6ccccc6)c8ccc7[nH]8)cc9,35,298K,50ppm,24%
+10885,"5,10,15,20-tetraphenyl-21H,23H-porphyrin (TPP)",c9ccc(c7c1ccc(n1)c(c2ccccc2)c3ccc([nH]3)c(c4ccccc4)c5ccc(n5)c(c6ccccc6)c8ccc7[nH]8)cc9,35,298K,100ppm,37%
+10886,"5,10,15,20-tetraphenyl-21H,23H-porphyrin (TPP)",c9ccc(c7c1ccc(n1)c(c2ccccc2)c3ccc([nH]3)c(c4ccccc4)c5ccc(n5)c(c6ccccc6)c8ccc7[nH]8)cc9,35,298K,200ppm,84%
+10887,DDTI,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCNC(=O)CCN(CCC(=O)NCCN2CC/N=C2/CCCCCCC/C=C/CCCCCCCC)CCN(CCC(=O)NCCN3CC/N=C3/CCCCCCC/C=C/CCCCCCCC)CCC(=O)NCCN4CC/N=C4/CCCCCCC/C=C/CCCCCCCC,30,333K,25 mg/L,64.00%
+10888,DDTI,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCNC(=O)CCN(CCC(=O)NCCN2CC/N=C2/CCCCCCC/C=C/CCCCCCCC)CCN(CCC(=O)NCCN3CC/N=C3/CCCCCCC/C=C/CCCCCCCC)CCC(=O)NCCN4CC/N=C4/CCCCCCC/C=C/CCCCCCCC,30,333K,50mg/L,85.00%
+10889,DDTI,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCNC(=O)CCN(CCC(=O)NCCN2CC/N=C2/CCCCCCC/C=C/CCCCCCCC)CCN(CCC(=O)NCCN3CC/N=C3/CCCCCCC/C=C/CCCCCCCC)CCC(=O)NCCN4CC/N=C4/CCCCCCC/C=C/CCCCCCCC,30,333K,100mg/L,92.00%
+10890,DDTI,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCNC(=O)CCN(CCC(=O)NCCN2CC/N=C2/CCCCCCC/C=C/CCCCCCCC)CCN(CCC(=O)NCCN3CC/N=C3/CCCCCCC/C=C/CCCCCCCC)CCC(=O)NCCN4CC/N=C4/CCCCCCC/C=C/CCCCCCCC,30,333K,200mg/L,93.00%
+10891,DDTI,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCNC(=O)CCN(CCC(=O)NCCN2CC/N=C2/CCCCCCC/C=C/CCCCCCCC)CCN(CCC(=O)NCCN3CC/N=C3/CCCCCCC/C=C/CCCCCCCC)CCC(=O)NCCN4CC/N=C4/CCCCCCC/C=C/CCCCCCCC,30,333K,300mg/L,96.00%
+10892,DDTI,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCNC(=O)CCN(CCC(=O)NCCN2CC/N=C2/CCCCCCC/C=C/CCCCCCCC)CCN(CCC(=O)NCCN3CC/N=C3/CCCCCCC/C=C/CCCCCCCC)CCC(=O)NCCN4CC/N=C4/CCCCCCC/C=C/CCCCCCCC,30,333K,400mg/L,98.00%
+10893,DDTI,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCNC(=O)CCN(CCC(=O)NCCN2CC/N=C2/CCCCCCC/C=C/CCCCCCCC)CCN(CCC(=O)NCCN3CC/N=C3/CCCCCCC/C=C/CCCCCCCC)CCC(=O)NCCN4CC/N=C4/CCCCCCC/C=C/CCCCCCCC,30,298K,100mg/L,91.50%
+10894,DDTI,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCNC(=O)CCN(CCC(=O)NCCN2CC/N=C2/CCCCCCC/C=C/CCCCCCCC)CCN(CCC(=O)NCCN3CC/N=C3/CCCCCCC/C=C/CCCCCCCC)CCC(=O)NCCN4CC/N=C4/CCCCCCC/C=C/CCCCCCCC,30,313K,100mg/L,92.50%
+10895,DDTI,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCNC(=O)CCN(CCC(=O)NCCN2CC/N=C2/CCCCCCC/C=C/CCCCCCCC)CCN(CCC(=O)NCCN3CC/N=C3/CCCCCCC/C=C/CCCCCCCC)CCC(=O)NCCN4CC/N=C4/CCCCCCC/C=C/CCCCCCCC,30,333K,100mg/L,96.70%
+10896,DDTI,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCNC(=O)CCN(CCC(=O)NCCN2CC/N=C2/CCCCCCC/C=C/CCCCCCCC)CCN(CCC(=O)NCCN3CC/N=C3/CCCCCCC/C=C/CCCCCCCC)CCC(=O)NCCN4CC/N=C4/CCCCCCC/C=C/CCCCCCCC,30,353K,100mg/L,97.50%
+10897,Sophorolipids,CC(=O)OC[C@H]3OC2O[C@@H](C)CCCCCC/C=C\CCCCCCCC(=O)OC1[C@H](O)[C@@H](O)C(O[C@@H]1COC(C)=O)OC2[C@@H](O)[C@@H]3O,16.6172,298K,10mg/L,18.41%
+10898,Sophorolipids,CC(=O)OC[C@H]3OC2O[C@@H](C)CCCCCC/C=C\CCCCCCCC(=O)OC1[C@H](O)[C@@H](O)C(O[C@@H]1COC(C)=O)OC2[C@@H](O)[C@@H]3O,16.6172,298K,20mg/L,34.60%
+10899,Sophorolipids,CC(=O)OC[C@H]3OC2O[C@@H](C)CCCCCC/C=C\CCCCCCCC(=O)OC1[C@H](O)[C@@H](O)C(O[C@@H]1COC(C)=O)OC2[C@@H](O)[C@@H]3O,16.6172,298K,30mg/L,53.82%
+10900,Sophorolipids,CC(=O)OC[C@H]3OC2O[C@@H](C)CCCCCC/C=C\CCCCCCCC(=O)OC1[C@H](O)[C@@H](O)C(O[C@@H]1COC(C)=O)OC2[C@@H](O)[C@@H]3O,16.6172,298K,40mg/L,56.60%
+10901,Sophorolipids,CC(=O)OC[C@H]3OC2O[C@@H](C)CCCCCC/C=C\CCCCCCCC(=O)OC1[C@H](O)[C@@H](O)C(O[C@@H]1COC(C)=O)OC2[C@@H](O)[C@@H]3O,16.6172,298K,50mg/L,67.90%
+10902,Sophorolipids,CC(=O)OC[C@H]3OC2O[C@@H](C)CCCCCC/C=C\CCCCCCCC(=O)OC1[C@H](O)[C@@H](O)C(O[C@@H]1COC(C)=O)OC2[C@@H](O)[C@@H]3O,16.6172,298K,60mg/L,86.13%
+10903,Sophorolipids,CC(=O)OC[C@H]3OC2O[C@@H](C)CCCCCC/C=C\CCCCCCCC(=O)OC1[C@H](O)[C@@H](O)C(O[C@@H]1COC(C)=O)OC2[C@@H](O)[C@@H]3O,16.6172,298K,70mg/L,89.05%
+10904,Sophorolipids,CC(=O)OC[C@H]3OC2O[C@@H](C)CCCCCC/C=C\CCCCCCCC(=O)OC1[C@H](O)[C@@H](O)C(O[C@@H]1COC(C)=O)OC2[C@@H](O)[C@@H]3O,16.6172,298K,300mg/L,94.89%
+10905,Monoethylene glycol,C=C(c1ccccc1)C5(c2ccccc2)/C(c3ccccc3)=C(c4ccccc4)\[Si]5(C)C,10,323K,30wt.%,35.70%
+10906,Monoethylene glycol,C=C(c1ccccc1)C5(c2ccccc2)/C(c3ccccc3)=C(c4ccccc4)\[Si]5(C)C,10,323K,50wt.%,56.70%
+10907,Monoethylene glycol,C=C(c1ccccc1)C5(c2ccccc2)/C(c3ccccc3)=C(c4ccccc4)\[Si]5(C)C,10,323K,70wt.%,71.30%
+10908,Monoethylene glycol,C=C(c1ccccc1)C5(c2ccccc2)/C(c3ccccc3)=C(c4ccccc4)\[Si]5(C)C,10,323K,90wt.%,93.10%
+10909,Monoethylene glycol,C=C(c1ccccc1)C5(c2ccccc2)/C(c3ccccc3)=C(c4ccccc4)\[Si]5(C)C,50,323K,50wt.%,71.40%
+10910,Monoethylene glycol,C=C(c1ccccc1)C5(c2ccccc2)/C(c3ccccc3)=C(c4ccccc4)\[Si]5(C)C,50,323K,90wt.%,90.80%
+10911,Monoethylene glycol,C=C(c1ccccc1)C5(c2ccccc2)/C(c3ccccc3)=C(c4ccccc4)\[Si]5(C)C,100,323K,70wt.%,56.30%
+10912,Monoethylene glycol,C=C(c1ccccc1)C5(c2ccccc2)/C(c3ccccc3)=C(c4ccccc4)\[Si]5(C)C,100,323K,90wt.%,82.00%
+10913,Thiourea (TU),NC(N)=S,30,333K,10mg/L,79.80%
+10914,berberine（BB）,COc5ccc4CC3c2cc1OCOc1cc2CCN3Cc4c5OC,30,333K,10mg/L,1.80%
+10915,berberine（BB）,COc5ccc4CC3c2cc1OCOc1cc2CCN3Cc4c5OC,30,333K,50mg/L,7.20%
+10916,berberine（BB）,COc5ccc4CC3c2cc1OCOc1cc2CCN3Cc4c5OC,30,333K,100mg/L,15.90%
+10917,poly(methylmethacrylate-co-N-vinyl-2-pyrrolidone),CC(CCC(=O)O)N1CCCC1=O,35,393K,5 mL/L,94.00%
+10918,poly(methylmethacrylate-co-N-vinyl-2-pyrrolidone),CC(CCC(=O)O)N1CCCC1=O,35,393K,5 mL/L,92.00%
+10919,poly(methylmethacrylate-co-N-vinyl-2-pyrrolidone),CC(CCC(=O)O)N1CCCC1=O,35,393K,5 mL/L,82.00%
+10920,poly(methylmethacrylate-co-N-vinyl-2-pyrrolidone),CC(CCC(=O)O)N1CCCC1=O,35,393K,5 mL/L,77.00%
+10921,ethoxy- (5-methyl-benzotriazol-1-yl) (EMB),Cc1ccc2c(c1)nnn2CCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,12.029,323K,25ppm,65.20%
+10922,ethoxy- (5-methyl-benzotriazol-1-yl) (EMB),Cc1ccc2c(c1)nnn2CCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,12.029,323K,50ppm,79.90%
+10923,ethoxy- (5-methyl-benzotriazol-1-yl) (EMB),Cc1ccc2c(c1)nnn2CCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,12.029,323K,75ppm,86.10%
+10924,ethoxy- (5-methyl-benzotriazol-1-yl) (EMB),Cc1ccc2c(c1)nnn2CCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,12.029,323K,100ppm,89.00%
+10925,ethoxy- (5-methyl-benzotriazol-1-yl) (EMB),Cc1ccc2c(c1)nnn2CCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,12.029,323K,125ppm,92.20%
+10926,ethoxy- (5-methyl-benzotriazol-1-yl) (EMB),Cc1ccc2c(c1)nnn2CCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,12.029,323K,150ppm,93.80%
+10927,"1-benzyl-quinolinium chloride, QB ",C1=CC=C2[N+](CC3C=CC=CC=3)=CC=CC2=C1.[Cl-],2.15,333±1K,100mg/L,95.20%
+10928,"1,3-bis(dodecyldimethylammonium chloride)-2-propanol, 12-3OH-12 for short)",CCCCCCCCCCCC[N+](C)(C)CC(O)C[N+](C)(C)CCCCCCCCCCCC,2.15,333±1K,50mg/L,91.70%
+10929,"a series of amides were synthesized from pure fatty acids C18：(a) stearic amide (18 : 0), (b) oleic amide (18 : 1 n-9), and (c) linoleic amide (18 : 2 n-6)",CCCCCCCCCCCCCCCCCC(=O)NCCNCCO,30,323K,25ppm,98.00%
+10930,"a series of amides were synthesized from pure fatty acids C18：(a) stearic amide (18 : 0), (b) oleic amide (18 : 1 n-9), and (c) linoleic amide (18 : 2 n-6)",CCCCCCCCCCCCCCCCCC(=O)NCCNCCO,30,323K,25ppm,99.00%
+10931,"a series of amides were synthesized from pure fatty acids C18：(a) stearic amide (18 : 0), (b) oleic amide (18 : 1 n-9), and (c) linoleic amide (18 : 2 n-6)",CCCCCCCCCCCCCCCCCC(=O)NCCNCCO,30,323K,25ppm,99.00%
+10932,Imidazoline,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCN,0,298K,50mg/L,76.77%
+10933,Imidazoline,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCN,0,298K,100mg/L,85.63%
+10934,Imidazoline,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCN,0,298K,200mg/L,90.40%
+10935,imidazolines（8a，a，R=C8H17）,CCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,313K,1ppm,51.80%
+10936,imidazolines（8a，a，R=C8H17）,CCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,313K,5ppm,62.80%
+10937,imidazolines（8a，a，R=C8H17）,CCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,313K,10ppm,70.10%
+10938,imidazolines（8a，a，R=C8H17）,CCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,313K,20ppm,76.20%
+10939,imidazolines（8a，a，R=C8H17）,CCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,313K,50ppm,83.30%
+10940,imidazolines（8a，a，R=C8H17）,CCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,313K,100ppm,92.00%
+10941,imidazolines（8b，b，R=C12H25）,CCCCCCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,313K,1ppm,54.40%
+10942,imidazolines（8b，b，R=C12H25）,CCCCCCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,313K,5ppm,68.40%
+10943,imidazolines（8b，b，R=C12H25）,CCCCCCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,313K,10ppm,74.50%
+10944,imidazolines（8b，b，R=C12H25）,CCCCCCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,313K,20ppm,81.20%
+10945,imidazolines（8b，b，R=C12H25）,CCCCCCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,313K,50ppm,86.50%
+10946,imidazolines（8b，b，R=C12H25）,CCCCCCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,313K,100ppm,93.80%
+10947,imidazolines（8c，c，R=C18H37）,CCCCCCCCCCCCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,303K,1ppm,53.80%
+10948,imidazolines（8c，c，R=C18H37）,CCCCCCCCCCCCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,303K,2ppm,58.10%
+10949,imidazolines（8c，c，R=C18H37）,CCCCCCCCCCCCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,303K,3ppm,61.40%
+10950,imidazolines（8c，c，R=C18H37）,CCCCCCCCCCCCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,303K,5ppm,71.40%
+10951,imidazolines（8c，c，R=C18H37）,CCCCCCCCCCCCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,303K,10ppm,76.80%
+10952,imidazolines（8c，c，R=C18H37）,CCCCCCCCCCCCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,303K,20ppm,90.40%
+10953,imidazolines（8c，c，R=C18H37）,CCCCCCCCCCCCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,313K,1ppm,58.40%
+10954,imidazolines（8c，c，R=C18H37）,CCCCCCCCCCCCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,313K,5ppm,72.70%
+10955,imidazolines（8c，c，R=C18H37）,CCCCCCCCCCCCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,313K,10ppm,79.90%
+10956,imidazolines（8c，c，R=C18H37）,CCCCCCCCCCCCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,313K,20ppm,91.60%
+10957,imidazolines（8c，c，R=C18H37）,CCCCCCCCCCCCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,313K,50ppm,95.40%
+10958,imidazolines（8c，c，R=C18H37）,CCCCCCCCCCCCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,313K,100ppm,98.10%
+10959,imidazolines（8c，c，R=C18H37）,CCCCCCCCCCCCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,323K,1ppm,47.50%
+10960,imidazolines（8c，c，R=C18H37）,CCCCCCCCCCCCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,323K,2ppm,50.70%
+10961,imidazolines（8c，c，R=C18H37）,CCCCCCCCCCCCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,323K,3ppm,54.20%
+10962,imidazolines（8c，c，R=C18H37）,CCCCCCCCCCCCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,323K,5ppm,68.30%
+10963,imidazolines（8c，c，R=C18H37）,CCCCCCCCCCCCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,323K,10ppm,74.50%
+10964,imidazolines（8c，c，R=C18H37）,CCCCCCCCCCCCCCCCCCOc2ccc(/C1=N/CCN1CCNCCNCCN)cc2,29.25,323K,20ppm,86.80%
+10965,Berberine extract,COc5ccc4cc3c2cc1OCOc1cc2CC[n+]3cc4c5OC,35,393K,5 mL/L,60.00%
+10966,Berberine extract,COc5ccc4cc3c2cc1OCOc1cc2CC[n+]3cc4c5OC,35,393K,5 mL/L,78.00%
+10967,Berberine extract,COc5ccc4cc3c2cc1OCOc1cc2CC[n+]3cc4c5OC,35,393K,5 mL/L,92.00%
+10968,Berberine extract,COc5ccc4cc3c2cc1OCOc1cc2CC[n+]3cc4c5OC,35,393K,5 mL/L,96.00%
+10969,poly(methylmethacrylate-co-N-vinyl-2-pyrrolidone) polymer P(MMA-co-VP),CC(CCC(=O)O)N1CCCC1=O,35,298K,250ppm,79.00%
+10970,poly(methylmethacrylate-co-N-vinyl-2-pyrrolidone) polymer P(MMA-co-VP),CC(CCC(=O)O)N1CCCC1=O,35,298K,500ppm,86.00%
+10971,poly(methylmethacrylate-co-N-vinyl-2-pyrrolidone) polymer P(MMA-co-VP),CC(CCC(=O)O)N1CCCC1=O,35,298K,1000ppm,96.00%
+10972,,CN2CCC(CCCCCCCCCOc1ccc(C=O)cc1)O2,29.25,313K,200 PPM,90.50%
+10973,,CN2CCC(CCCCCCCCCOc1ccc(/C=C/C=O)cc1)O2,29.25,313K,200 PPM,97.80%
+10974,,C#CC[N+]2(C)CCC(CCCCCCCCCOc1ccc(/C=C/C=O)cc1)O2.[Cl-],29.25,313K,200 PPM,97.60%
+10975,2-undecyl-1-aminoethyl imidazoline (AEI-11)         ,CCCCCCCCCCC/C1=N/CCN1CCN,30,298K,100ppm,90.80%
+10976,      2-undecyl-1-aminoethyl-1-hydroxyethyl quaternary imidazoline (AQI-11) ,CCCCCCCCCCC/C1=N/CC[N+]1(CCN)CCO.[Cl-],30,298K,100ppm,90.80%
+10977,Itraconazole,CCC(C)n7ncn(c6ccc(N5CCN(c4ccc(OC[C@H]3CO[C@](Cn1cncn1)(c2ccc(Cl)cc2Cl)O3)cc4)CC5)cc6)c7=O,35,298K,0.1ppm,20.40%
+10978,Itraconazole,CCC(C)n7ncn(c6ccc(N5CCN(c4ccc(OC[C@H]3CO[C@](Cn1cncn1)(c2ccc(Cl)cc2Cl)O3)cc4)CC5)cc6)c7=O,35,298K,0.5ppm,47.40%
+10979,Itraconazole,CCC(C)n7ncn(c6ccc(N5CCN(c4ccc(OC[C@H]3CO[C@](Cn1cncn1)(c2ccc(Cl)cc2Cl)O3)cc4)CC5)cc6)c7=O,35,298K,1ppm,65.40%
+10980,Itraconazole,CCC(C)n7ncn(c6ccc(N5CCN(c4ccc(OC[C@H]3CO[C@](Cn1cncn1)(c2ccc(Cl)cc2Cl)O3)cc4)CC5)cc6)c7=O,35,298K,5ppm,68.90%
+10981,Itraconazole,CCC(C)n7ncn(c6ccc(N5CCN(c4ccc(OC[C@H]3CO[C@](Cn1cncn1)(c2ccc(Cl)cc2Cl)O3)cc4)CC5)cc6)c7=O,35,298K,10ppm,78.50%
+10982,Itraconazole,CCC(C)n7ncn(c6ccc(N5CCN(c4ccc(OC[C@H]3CO[C@](Cn1cncn1)(c2ccc(Cl)cc2Cl)O3)cc4)CC5)cc6)c7=O,35,298K,15ppm,91.70%
+10983,Fluconazole,OC(Cn1cncn1)(Cn2cncn2)c3ccc(F)cc3F,35,298K,0.1ppm,23.50%
+10984,Fluconazole,OC(Cn1cncn1)(Cn2cncn2)c3ccc(F)cc3F,35,298K,0.5ppm,36.30%
+10985,Fluconazole,OC(Cn1cncn1)(Cn2cncn2)c3ccc(F)cc3F,35,298K,1ppm,50.20%
+10986,Fluconazole,OC(Cn1cncn1)(Cn2cncn2)c3ccc(F)cc3F,35,298K,5ppm,72.00%
+10987,Fluconazole,OC(Cn1cncn1)(Cn2cncn2)c3ccc(F)cc3F,35,298K,10ppm,78.20%
+10988,Fluconazole,OC(Cn1cncn1)(Cn2cncn2)c3ccc(F)cc3F,35,298K,15ppm,84.80%
+10989,Fluconazole,OC(Cn1cncn1)(Cn2cncn2)c3ccc(F)cc3F,35,298K,20ppm,90.30%
+10990,咪唑啉季铵盐(IAS),CCCCCCCC/C=C/CCCCCCC/C1=N/CC[N+]1(CCN)Cc2ccccc2.[Cl-],35,298K,100mg?L-1,83.70%
+10991,十二烷基磺酸钠(SDSH),CCCCCCCCCCCCS(=O)(=O)[O-].[Na+],35,298K,150mg?L-1,87.40%
+10992,praseodymium 4-hydroxycinnamate (Pr(4OHCin)3),O=C(/C=C/c1ccc(O)cc1)O[Pr](OC(=O)/C=C/c2ccc(O)cc2)OC(=O)/C=C/c3ccc(O)cc3,0.585,298K,0.63mM,90%
+10993,1-ethyl-3-methylimidazolium acetate [emim][acetate],CCn1cc[n+](C)c1.CC(=O)[O-],300,298K,30wt.%,88.00%
+10994,talloil diethylenetriamine imidazoline (TOFA/DETA imidazoline), CCCCCCCCC/C=C/CCCCCC/C1=[N+](CNC)/CCN1,30,293K,70ppm,98.40%
+10995,talloil diethylenetriamine imidazoline (TOFA/DETA imidazoline), CCCCCCCCC/C=C/CCCCCC/C1=[N+](CNC)/CCN1,30,343K,70PPM,94.30%
+11005,2-mercaptopyrimidine,Sc1ncccn1,224.09,298K,5mg?L-1,85.60%
+11006,2-mercaptopyrimidine,Sc1ncccn1,224.09,298K,10mg?L-1,89.70%
+11007,2-mercaptopyrimidine,Sc1ncccn1,224.09,298K,25mg?L-1,82.50%
+11008,"4,6-diamine-2-mercaptopyrimidine",Nc1cc(N)nc(S)n1,224.09,298K,5mg?L-1,74.10%
+11009,"4,6-diamine-2-mercaptopyrimidine",Nc1cc(N)nc(S)n1,224.09,298K,10mg?L-1,80.90%
+11010,"4,6-diamine-2-mercaptopyrimidine",Nc1cc(N)nc(S)n1,224.09,298K,25mg?L-1,59.90%
+11011,Sodium sulfonatooxy fatty acid,CCCCCCCCC(CCCCCCCC(=O)[O-])OS(=O)(=O)[O-].[Na+].[Na+],10,323K,100ppm,98.00%
+11012,Potassium sulfonatooxy fatty acid,CCCCCCCCC(CCCCCCCC(=O)[O-])OS(=O)(=O)[O-].[K+].[K+],10,323K,100ppm,97.42%
+11013,Ammonium sulfonatooxy fatty acid,CCCCCCCCC(CCCCCCCC(=O)[O-])OS(=O)(=O)[O-].[NH4+].[NH4+],10,323K,100ppm,98.19%
+11014,Sulfonatooxy fatty acid–monoethanolamine complex,CCCCCCCCC(CCCCCCCC(=O)[O-])OS(=O)(=O)[O-].[NH3+]CCO.[NH3+]CCO,10,323K,100ppm,98.52%
+11015,Sulfonatooxy fatty acid–diethanolamine complex,CCCCCCCCC(CCCCCCCC(=O)[O-])OS(=O)(=O)[O-].OCC[NH2+]CCO.OCC[NH2+]CCO,10,323K,100ppm,98.95%
+11016,4-Carboxyphenylboronic acid ,O=C(O)c1ccc(B(O)O)cc1,0.585,298K,0.12mM,77.13%
+11017,4-Carboxyphenylboronic acid ,O=C(O)c1ccc(B(O)O)cc1,0.585,298K,0.6mM,92.48%
+11018,4-Carboxyphenylboronic acid ,O=C(O)c1ccc(B(O)O)cc1,0.585,298K,2.41mM,95.36%
+11019,imidazoline derivative,CCCCCCCC/C=C/CCCCCCC/C1=N/CC[N+]1(CCNC(N)=S)Cc2ccccc2.[Cl-],50,333K,20mg/L,84.00%
+11020,imidazoline derivative,CCCCCCCC/C=C/CCCCCCC/C1=N/CC[N+]1(CCNC(N)=S)Cc2ccccc2.[Cl-],50,333K,50mg/L,88.70%
+11021,imidazoline derivative,CCCCCCCC/C=C/CCCCCCC/C1=N/CC[N+]1(CCNC(N)=S)Cc2ccccc2.[Cl-],50,333K,100mg/L,90.70%
+11022,imidazoline derivative,CCCCCCCC/C=C/CCCCCCC/C1=N/CC[N+]1(CCNC(N)=S)Cc2ccccc2.[Cl-],50,333K,150mg/L,99.30%
+11023,imidazoline derivative,CCCCCCCC/C=C/CCCCCCC/C1=N/CC[N+]1(CCNC(N)=S)Cc2ccccc2.[Cl-],50,333K,500mg/L,99.60%
+11024,Cetylpyridinium chloride monohydrate ,CCCCCCCCCCCCCCCC[n+]1ccccc1.[Cl-],30,303K,100ppm,78.60%
+11025,Cetylpyridinium chloride monohydrate ,CCCCCCCCCCCC[n+]1ccccc1.[Cl-],30,303K,100ppm,87.30%
+11026,Cetylpyridinium chloride monohydrate ,Sc1ncccn1,30,303K,100ppm,96.90%
+11027,Cetylpyridinium chloride monohydrate ,NC(=S)c1ccccc1,30,303K,100ppm,97.00%
+11028,N-morpholine-3-isatin-thiosemicarbazone,NC(=S)NN=c2c(=O)n(CN1CCOCC1)c3ccccc23,0,298K,4mg/L,63.00%
+11029,N-morpholine-3-isatin-thiosemicarbazone,NC(=S)NN=c2c(=O)n(CN1CCOCC1)c3ccccc23,0,298K,4mg/L,65.00%
+11030,2-mercaptobenzimidazole ,Sc2nc1ccccc1[nH]2,30,333K,10ppm,98.00%
+11031," hydroxyethyl (HEI-12)
+R=C12",CCCCCCCCCCCC/C1=N/CCN1CCO,"30
+",323K,25ppm,21.00%
+11032," hydroxyethyl modified with 
+oleic chain from coconut oil (HEI-M)
+R= oleic chain from coconut oil",CCCCCCCCCCCC/C1=N/CCN1CCO,"30
+",323K,10ppm,26.00%
+11033,thiobenzamide,NC(=S)c1ccccc1,30,303K,200ppm,99.30%
+11034,diethylenetetramine-derived imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCN,30,313K,100ppm,84.00%
+11035,tetraethylenepentamine-derived imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNCCNCCN,30,313K,100ppm,95.00%
+11036,bis-imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNCCN2CC/N=C2/CCCCCCCCCCCCCCCCC,30,313K,100ppm,96.00%
+11037,喹啉季铵盐,c3ccc(C[n+]2cccc1ccccc12)cc3.[Cl-],"30
+",423K,0.15wt.%,97.20%
+11038,吡啶季铵盐,C[N+]2(Cc1ccccc1)/C=C\C=C/C2.[Cl-],30,423K,0.15wt.%,97.00%
+11039,2-phenyl-1-ethylamino imidazoline(CI-1),NCCN1CC/N=C1/c2ccccc2,23.2065,298K,100 mg/L,87.18%
+11040,2-phenyl-1-ethylamino-1-methylbenzyl quaternary imidazoline(CI-12) ,NCC[N+]2(Cc1ccccc1)CC/N=C2/c3ccccc3.[Cl-],23.2065,298K,100 mg/L,96.44%
+11041,2-phenyl-1-benzoyl ethylamino imidazoline(CI-13),O=C(NCCN1CC/N=C1/c2ccccc2)c3ccccc3,23.2065,298K,100 mg/L,92.21%
+11046,咪唑啉类缓蚀剂 ZW-1,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCO,30,333K,400ppm,98.00%
+11047,"thioglycolic acid (TGA),",O=C(O)CS,10,308K,50 mg/L,96.10%
+11048, diethylenetriamine (DETA）,NCCNCCN,10,308K,50 mg/L,-5.20%
+11049,"thioglycolic acid (TGA),",O=C(O)CS,10,308K,50 mg/L,95.00%
+11050, diethylenetriamine (DETA）,NCCNCCN,10,308K,50 mg/L,97.20%
+11051,N-[2-[(2-aminoethyl)amino]ethyl]-9-octadecenamide (AAOA) ,CCCCCCCC/C=C/CCCCCCCC(=O)NCCNCCN,50,298K,1.4μmol dm?3,41.00%
+11052,N-[2-[(2-aminoethyl)amino]ethyl]-9-octadecenamide (AAOA) ,CCCCCCCC/C=C/CCCCCCCC(=O)NCCNCCN,50,308K,1.4μmol dm?3,31.00%
+11053,N-[2-[(2-aminoethyl)amino]ethyl]-9-octadecenamide (AAOA) ,CCCCCCCC/C=C/CCCCCCCC(=O)NCCNCCN,50,318K,1.4μmol dm?3,17.00%
+11054,N-[2-[(2-aminoethyl)amino]ethyl]-9-octadecenamide (AAOA) ,CCCCCCCC/C=C/CCCCCCCC(=O)NCCNCCN,50,298K,2.7μmol dm?3,61.00%
+11055,N-[2-[(2-aminoethyl)amino]ethyl]-9-octadecenamide (AAOA) ,CCCCCCCC/C=C/CCCCCCCC(=O)NCCNCCN,50,308K,2.7μmol dm?3,54.00%
+11056,N-[2-[(2-aminoethyl)amino]ethyl]-9-octadecenamide (AAOA) ,CCCCCCCC/C=C/CCCCCCCC(=O)NCCNCCN,50,318K,2.7μmol dm?3,52.00%
+11057,N-[2-[(2-aminoethyl)amino]ethyl]-9-octadecenamide (AAOA) ,CCCCCCCC/C=C/CCCCCCCC(=O)NCCNCCN,50,298K,8.2μmol dm?3,90.00%
+11058,N-[2-[(2-aminoethyl)amino]ethyl]-9-octadecenamide (AAOA) ,CCCCCCCC/C=C/CCCCCCCC(=O)NCCNCCN,50,308K,8.2μmol dm?3,90.00%
+11059,N-[2-[(2-aminoethyl)amino]ethyl]-9-octadecenamide (AAOA) ,CCCCCCCC/C=C/CCCCCCCC(=O)NCCNCCN,50,318K,8.2μmol dm?3,91.00%
+11060,N-[2-[(2-aminoethyl)amino]ethyl]-9-octadecenamide (AAOA) ,CCCCCCCC/C=C/CCCCCCCC(=O)NCCNCCN,50,298K,13.6μmol dm?3,98.00%
+11061,N-[2-[(2-aminoethyl)amino]ethyl]-9-octadecenamide (AAOA) ,CCCCCCCC/C=C/CCCCCCCC(=O)NCCNCCN,50,308K,13.6μmol dm?3,98.00%
+11062,N-[2-[(2-aminoethyl)amino]ethyl]-9-octadecenamide (AAOA) ,CCCCCCCC/C=C/CCCCCCCC(=O)NCCNCCN,50,318K,13.6μmol dm?3,99.00%
+11063,N-[2-[(2-aminoethyl)amino]ethyl]-9-octadecenamide (AAOA) ,CCCCCCCC/C=C/CCCCCCCC(=O)NCCNCCN,50,298K,27.2μmol dm?3,99.00%
+11064,N-[2-[(2-aminoethyl)amino]ethyl]-9-octadecenamide (AAOA) ,CCCCCCCC/C=C/CCCCCCCC(=O)NCCNCCN,50,308K,27.2μmol dm?3,99.00%
+11065,N-[2-[(2-aminoethyl)amino]ethyl]-9-octadecenamide (AAOA) ,CCCCCCCC/C=C/CCCCCCCC(=O)NCCNCCN,50,318K,27.2μmol dm?3,99.00%
+11066,N-[2-[(2-aminoethyl)amino]ethyl]-9-octadecenamide (AAOA) ,CCCCCCCC/C=C/CCCCCCCC(=O)NCCNCCN,50,298K,54.4μmol dm?3,99.00%
+11067,N-[2-[(2-aminoethyl)amino]ethyl]-9-octadecenamide (AAOA) ,CCCCCCCC/C=C/CCCCCCCC(=O)NCCNCCN,50,308K,54.4μmol dm?3,99.00%
+11068,N-[2-[(2-aminoethyl)amino]ethyl]-9-octadecenamide (AAOA) ,CCCCCCCC/C=C/CCCCCCCC(=O)NCCNCCN,50,318K,54.4μmol dm?3,99.00%
+11069,12-aminododecanoic acid (AA),NCCCCCCCCCCCC(=O)O,0,295K,3mM,89.00%
+11070,carboxyamido imidazoline,CCCCCCCCCCCCCC/C1=N/CCN1C(N)=O,30,323K,1.61?×?10?5 mol l?1,90.00%
+11071,carboxyamido imidazoline,CCCCCCCCCCCCCC/C1=N/CCN1C(N)=O,30,323K,"3.32?×?10?5
+ mol l?1",91.00%
+11072,carboxyamido imidazoline,CCCCCCCCCCCCCC/C1=N/CCN1C(N)=O,30,323K,"8.1?×?10?5
+ mol l?1",96.00%
+11073,carboxyamido imidazoline,CCCCCCCCCCCCCC/C1=N/CCN1C(N)=O,30,323K,"1.61?×?10?4
+ mol l?1",91.00%
+11074,carboxyamido imidazoline,CCCCCCCCCCCCCC/C1=N/CCN1C(N)=O,30,323K,"3.32?×?10?4
+ mol l?1",88.00%
+11075,rosin amide imidazoline ,CC(C)/C4=C/C3=C/CC2C(C)(/C1=N/CCN1CCN)CCCC2(C)C3CC4,129.48,293K,50ppm,92.40%
+11076,rosin amide imidazoline ,CC(C)/C4=C/C3=C/CC2C(C)(/C1=N/CCN1CCN)CCCC2(C)C3CC4,129.48,293K,100ppm,93.10%
+11077,rosin amide imidazoline ,CC(C)/C4=C/C3=C/CC2C(C)(/C1=N/CCN1CCN)CCCC2(C)C3CC4,129.48,293K,200ppm,93.70%
+11078,rosin amide imidazoline ,CC(C)/C4=C/C3=C/CC2C(C)(/C1=N/CCN1CCN)CCCC2(C)C3CC4,129.48,313K,50ppm,96.10%
+11079,rosin amide imidazoline ,CC(C)/C4=C/C3=C/CC2C(C)(/C1=N/CCN1CCN)CCCC2(C)C3CC4,129.48,313K,100ppm,96.60%
+11080,rosin amide imidazoline ,CC(C)/C4=C/C3=C/CC2C(C)(/C1=N/CCN1CCN)CCCC2(C)C3CC4,129.48,313K,200ppm,97.00%
+11081,rosin amide imidazoline ,CC(C)/C4=C/C3=C/CC2C(C)(/C1=N/CCN1CCN)CCCC2(C)C3CC4,129.48,333K,50ppm,93.70%
+11082,rosin amide imidazoline ,CC(C)/C4=C/C3=C/CC2C(C)(/C1=N/CCN1CCN)CCCC2(C)C3CC4,129.48,333K,100ppm,94.80%
+11083,rosin amide imidazoline ,CC(C)/C4=C/C3=C/CC2C(C)(/C1=N/CCN1CCN)CCCC2(C)C3CC4,129.48,333K,200ppm,95.50%
+11084,rosin amide imidazoline ,CC(C)/C4=C/C3=C/CC2C(C)(/C1=N/CCN1CCN)CCCC2(C)C3CC4,129.48,293K,50ppm,76.50%
+11085,rosin amide imidazoline ,CC(C)/C4=C/C3=C/CC2C(C)(/C1=N/CCN1CCN)CCCC2(C)C3CC4,129.48,293K,100ppm,77.80%
+11086,rosin amide imidazoline ,CC(C)/C4=C/C3=C/CC2C(C)(/C1=N/CCN1CCN)CCCC2(C)C3CC4,129.48,293K,200ppm,82.50%
+11087,rosin amide imidazoline ,CC(C)/C4=C/C3=C/CC2C(C)(/C1=N/CCN1CCN)CCCC2(C)C3CC4,129.48,313K,50ppm,91.10%
+11088,rosin amide imidazoline ,CC(C)/C4=C/C3=C/CC2C(C)(/C1=N/CCN1CCN)CCCC2(C)C3CC4,129.48,313K,100ppm,91.50%
+11089,rosin amide imidazoline ,CC(C)/C4=C/C3=C/CC2C(C)(/C1=N/CCN1CCN)CCCC2(C)C3CC4,129.48,313K,200ppm,92.20%
+11090,rosin amide imidazoline ,CC(C)/C4=C/C3=C/CC2C(C)(/C1=N/CCN1CCN)CCCC2(C)C3CC4,129.48,333K,50ppm,92.10%
+11091,rosin amide imidazoline ,CC(C)/C4=C/C3=C/CC2C(C)(/C1=N/CCN1CCN)CCCC2(C)C3CC4,129.48,333K,100ppm,93.90%
+11092,rosin amide imidazoline ,CC(C)/C4=C/C3=C/CC2C(C)(/C1=N/CCN1CCN)CCCC2(C)C3CC4,129.48,333K,200ppm,95.60%
+11093," O,O0-dialkyldithiophosphoric acids
+Ⅰ",CCCCCCCCOP(=S)([S-])OCCCCCCCC.CC[NH+](CC)CC,24.5,313K,1 mgL?1,93.00%
+11094," O,O0-dialkyldithiophosphoric acids
+Ⅰ",CCCCCCCCOP(=S)([S-])OCCCCCCCC.CC[NH+](CC)CC,24.5,313K,0.75  mgL?1,85.30%
+11095," O,O0-dialkyldithiophosphoric acids
+Ⅱ",CCCCCCCCOP(=S)([S-])OCCCCCCCC.CCCCCCCCCC[NH+](C)C,24.5,313K,1 mgL?1,87.70%
+11096," O,O0-dialkyldithiophosphoric acids
+Ⅱ",CCCCCCCCOP(=S)([S-])OCCCCCCCC.CCCCCCCCCC[NH+](C)C,24.5,313K,0.75 mgL?1,70.70%
+11097," O,O0-dialkyldithiophosphoric acids
+Ⅲ",CCCCOP(=S)([S-])OCCCC.CCCCCCCCCCCC[NH3+],24.5,313K,1  mgL?1,88.10%
+11098," O,O0-dialkyldithiophosphoric acids
+Ⅲ",CCCCOP(=S)([S-])OCCCC.CCCCCCCCCCCC[NH3+],24.5,313K,0.75  mgL?1,63.60%
+11099," O,O0-dialkyldithiophosphoric acids
+Ⅳ",CCCCOP(=S)([S-])OCCCC.CCCCCCCCCCCCC[NH+](C)C,24.5,313K,1  mgL?1,93.30%
+11100," O,O0-dialkyldithiophosphoric acids
+Ⅳ",CCCCOP(=S)([S-])OCCCC.CCCCCCCCCCCCC[NH+](C)C,24.5,313K,0.75 mgL?1,80.00%
+11101," O,O0-dialkyldithiophosphoric acids
+Ⅴ",CCCCCCCCCCCCCOP(=S)([S-])OCCCCCCCCCCCCC.CC[NH+](CC)CC,24.5,313K,1  mgL?1,91.90%
+11102," O,O0-dialkyldithiophosphoric acids
+Ⅴ",CCCCCCCCCCCCCOP(=S)([S-])OCCCCCCCCCCCCC.CC[NH+](CC)CC,24.5,313K,0.75 mgL?1,83.80%
+11103,"1-(2-Amido-thioureaethyl)
+2-pentadecyl imidazoline ",CCCCCCCCCCCCCCC/C1=N/CCN1CCNC(=S)NN,30,298K,100 mg/L,88.63%
+11104,"1-(2-Methyl-thioureaethyl)
+2-pentadecyl imidazoline ",CCCCCCCCCCCCCCC/C1=N/CCN1CCNC(=S)NC,30,298K,100 mg/L,87.77%
+11105,"1-(2-Phenyl-thioureaethyl)
+2-pentadecyl imidazoline",CCCCCCCCCCCCCCC/C1=N/CCN1CCNC(=S)Nc2ccccc2,30,298K,100 mg/L,91.24%
+11106,"hydroxyethyl imidazoline, where R is an alkyl chain derivative.",CCCCCCCCCCCCCC/C1=N/CCN1CCO,30,298K,5ppm,25.00%
+11107,"hydroxyethyl imidazoline, where R is an alkyl chain derivative.",CCCCCCCCCCCCCC/C1=N/CCN1CCO,30,298K,10ppm,37.00%
+11108,"hydroxyethyl imidazoline, where R is an alkyl chain derivative.",CCCCCCCCCCCCCC/C1=N/CCN1CCO,30,298K,25ppm,62.00%
+11109,"hydroxyethyl imidazoline, where R is an alkyl chain derivative.",CCCCCCCCCCCCCC/C1=N/CCN1CCO,30,298K,50ppm,56.00%
+11110,"hydroxyethyl imidazoline, where R is an alkyl chain derivative.",CCCCCCCCCCCCCC/C1=N/CCN1CCO,30,298K,100ppm,43.00%
+11111,1-(2-amido-thioureaethyl)- 2-pentadecyl-imidazoline,CCCCCCCCCCCCCCC/C1=N/CCN1CCNC(=S)NN,117, 298K ,0.1×103mol·L-1,54.15%
+11112,1-(2-amido-thioureaethyl)- 2-pentadecyl-imidazoline,CCCCCCCCCCCCCCC/C1=N/CCN1CCNC(=S)NN,117, 298K ,0.4×103mol·L-1,67.41%
+11113,1-(2-amido-thioureaethyl)- 2-pentadecyl-imidazoline,CCCCCCCCCCCCCCC/C1=N/CCN1CCNC(=S)NN,117, 298K ,1.0×103mol·L-1,78.01%
+11114,1-(2-amido-thioureaethyl)- 2-pentadecyl-imidazoline,CCCCCCCCCCCCCCC/C1=N/CCN1CCNC(=S)NN,117, 298K ,2.0×103mol·L-1,85.17%
+11115,1-(2-amido-thioureaethyl)- 2-pentadecyl-imidazoline,CCCCCCCCCCCCCCC/C1=N/CCN1CCNC(=S)NN,117, 298K ,4.0×103mol·L-1,93.90%
+11116,(1-(2-hidroxyethyl)-2(heptadec-8-enyl)-imidazoline,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCO,30,353K,5ppm,91.21%
+11117,(1-(2-hidroxyethyl)-2(heptadec-8-enyl)-imidazoline,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCO,30,353K,10ppm,97.99%
+11118,(1-(2-hidroxyethyl)-2(heptadec-8-enyl)-imidazoline,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCO,30,353K,15ppm,98.72%
+11119,(1-(2-hidroxyethyl)-2(heptadec-8-enyl)-imidazoline,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCO,30,353K,20ppm,98.90%
+11120,1-(2-aminoethyl)-2(heptadec-8 enyl)-bis-imidazoline,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCNCCN2CC/N=C2/CCCCCCC/C=C/CCCCCCCC,30,353K,5ppm,94.51%
+11121,1-(2-aminoethyl)-2(heptadec-8 enyl)-bis-imidazoline,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCNCCN2CC/N=C2/CCCCCCC/C=C/CCCCCCCC,30,353K,10ppm,99.51%
+11122,1-(2-aminoethyl)-2(heptadec-8 enyl)-bis-imidazoline,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCNCCN2CC/N=C2/CCCCCCC/C=C/CCCCCCCC,30,353K,15ppm,94.32%
+11123,1-(2-aminoethyl)-2(heptadec-8 enyl)-bis-imidazoline,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCNCCN2CC/N=C2/CCCCCCC/C=C/CCCCCCCC,30,353K,20ppm,90.66%
+11124,2-undecyl-1-1-ethylamino-1-ethylcarboxyl quaternary imidazoline (CQI),CCCCCCCCCCC/C1=N/CC[N+]1(CCO)CC(=O)O.[Cl-],30,298K,20mg/L,20.90%
+11125,2-undecyl-1-1-ethylamino-1-ethylcarboxyl quaternary imidazoline (CQI),CCCCCCCCCCC/C1=N/CC[N+]1(CCO)CC(=O)O.[Cl-],30,298K,40mg/L,79.20%
+11126,2-undecyl-1-1-ethylamino-1-ethylcarboxyl quaternary imidazoline (CQI),CCCCCCCCCCC/C1=N/CC[N+]1(CCO)CC(=O)O.[Cl-],30,298K,60mg/L,82.20%
+11127,2-undecyl-1-1-ethylamino-1-ethylcarboxyl quaternary imidazoline (CQI),CCCCCCCCCCC/C1=N/CC[N+]1(CCO)CC(=O)O.[Cl-],30,298K,80mg/L,90.00%
+11128,2-undecyl-1-1-ethylamino-1-ethylcarboxyl quaternary imidazoline (CQI),CCCCCCCCCCC/C1=N/CC[N+]1(CCO)CC(=O)O.[Cl-],30,298K,100mg/L,92.60%
+11129,2-undecyl-1-1-ethylamino-1-ethylcarboxyl quaternary imidazoline (CQI),CCCCCCCCCCC/C1=N/CC[N+]1(CCO)CC(=O)O.[Cl-],30,298K,200mg/L,97.00%
+11130,"2-undecyl-1-1-ethylamino-1-ethylcarboxyl quaternary imidazoline (CQI)
++
+NaI",CCCCCCCCCCC/C1=N/CC[N+]1(CCO)CC(=O)O.[Cl-],30,298K,80mg/L,93.80%
+11131,2-undecyl-1-1-ethylamino-1-ethylcarboxyl quaternary imidazoline (CQI),CCCCCCCCCCC/C1=N/CC[N+]1(CCO)CC(=O)O.[Cl-],30,313K,80mg/L,91.30%
+11132,2-undecyl-1-1-ethylamino-1-ethylcarboxyl quaternary imidazoline (CQI),CCCCCCCCCCC/C1=N/CC[N+]1(CCO)CC(=O)O.[Cl-],0,298K,80mg/L,76.90%
+11133,2-undecyl-1-1-ethylamino-1-ethylcarboxyl quaternary imidazoline (CQI),CCCCCCCCCCC/C1=N/CC[N+]1(CCO)CC(=O)O.[Cl-],2.925,298K,80mg/L,81.80%
+11134,"2-undecyl-1-1-ethylamino-1-ethylcarboxyl quaternary imidazoline (CQI)
++
+NaI",CCCCCCCCCCC/C1=N/CC[N+]1(CCO)CC(=O)O.[Cl-],0,298K,80mg/L,89.70%
+11135,1-乙酰胺乙基-2-烷基咪唑啉,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(C)=O,30,298K,100mg／L,94.10%
+11136,1-尿素乙基-2-烷基咪唑啉,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=O,30,298K,100mg／L,97.30%
+11137,1-甲酸铵乙基-2-烷基咪唑啉,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(=O)O,30,298K,100mg／L,95.90%
+11138,1-硫脲基-2-烷基咪唑啉,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,298K,100mg／L,92.50%
+11139,2-undecyl-1-hydroxyethyl imidazoline,CCCCCCCCCCC/C1=N/CCN1CCO,30,298K,100ppm,90.80%
+11140,2-undecyl-1-hydroxyethyl imidazoline,CCCCCCCCCCC/C1=N/CCN1CCO,30,298K,100ppm,47.50%
+11141,2-undecyl-1-hydroxyethyl imidazoline,CCCCCCCCCCC/C1=N/CCN1CCO,30,298K,100ppm,64.50%
+11142,2undecyl-1-hydroxyethyl-1-hydroxyethyl quaternary imidazoline,CCCCCCCCCCC/C1=N/CC[N+]1(CCO)CCO.[Cl-],30,298K,100ppm,99.00%
+11143,2undecyl-1-hydroxyethyl-1-hydroxyethyl quaternary imidazoline,CCCCCCCCCCC/C1=N/CC[N+]1(CCO)CCO.[Cl-],30,298K,100ppm,50.40%
+11144,2undecyl-1-hydroxyethyl-1-hydroxyethyl quaternary imidazoline,CCCCCCCCCCC/C1=N/CC[N+]1(CCO)CCO.[Cl-],30,298K,100ppm,69.90%
+11145,1-胺乙基-2-十一烷基咪唑啉(AEI-11),CCCCCCCCCCC/C1=N/CCN1CCN,30,298K,100mg/L,87.00%
+11146,1-羟乙基-2-十一烷基咪唑啉(HEI-11),CCCCCCCCCCC/C1=N/CCN1CCO,30,298K,100mg/L,91.00%
+11147,2-undecyl-1-aminoethyl imidazoline (AEI-11),CCCCCCCCCCC/C1=N/CCN1CCN,30,298K,100ppm,90.80%
+11148,2-undecyl-1-aminoethyl imidazoline (AEI-11),CCCCCCCCCCC/C1=N/CCN1CCN,30,298K,100ppm,36.40%
+11149,2-undecyl-1-aminoethyl1-hydroxyethyl quaternary imidazoline,CCCCCCCCCCC/C1=N/CC[N+]1(CCN)CCO.[Cl-],30,298K,100ppm,99.20%
+11150,2-undecyl-1-aminoethyl1-hydroxyethyl quaternary imidazoline,CCCCCCCCCCC/C1=N/CC[N+]1(CCN)CCO.[Cl-],30,298K,100ppm,80.90%
+11151,2-undecyl-1-ethylamino imidazoline,CCCCCCCCCCC/C1=N/CCN1C(C)N,30,298K,20mg/L,60.35%
+11152,2-undecyl-1-ethylamino imidazoline,CCCCCCCCCCC/C1=N/CCN1C(C)N,30,298K,40mg/L,61.51%
+11153,2-undecyl-1-ethylamino imidazoline,CCCCCCCCCCC/C1=N/CCN1C(C)N,30,298K,80mg/L,70.23%
+11154,2-undecyl-1-ethylamino imidazoline,CCCCCCCCCCC/C1=N/CCN1C(C)N,30,298K,100mg/L,72.05%
+11155,2-undecyl-1-ethylamino imidazoline,CCCCCCCCCCC/C1=N/CCN1C(C)N,30,313K,80mg/L,76.86%
+11156,2-undecyl-1-ethylamino imidazoline,CCCCCCCCCCC/C1=N/CCN1C(C)N,30,323K,80mg/L,78.42%
+11157,2-undecyl-1-ethylamino imidazoline,CCCCCCCCCCC/C1=N/CCN1C(C)N,30,298K,80mg/L,90.89%
+11158,3-ethylamino-2-undecyl imidazoline (EUI),CCCCCCCCCCC/C1=N/CCN1CCN,0,298K,5mg/L,81.30%
+11159,3-ethylamino-2-undecyl imidazoline (EUI),CCCCCCCCCCC/C1=N/CCN1CCN,0,298K,10mg/L,86.80%
+11160,3-ethylamino-2-undecyl imidazoline (EUI),CCCCCCCCCCC/C1=N/CCN1CCN,0,298K,15mg/L,90.20%
+11161,3-ethylamino-2-undecyl imidazoline (EUI),CCCCCCCCCCC/C1=N/CCN1CCN,0,298K,20mg/L,92.40%
+11162,3-ethylamino-2-undecyl imidazoline (EUI),CCCCCCCCCCC/C1=N/CCN1CCN,0,298K,25mg/L,93.40%
+11163,"chloride-3-ethylamino-3-(2,3-two hydroxyl) propyl-2-undecyl imidazoline sodium phosphate",CCCCCCCCCCC/C1=N/CC[N+]1(CCN)CC(CO)OP(=O)(O)O.[Cl-],0,298K,5mg/L,81.90%
+11164,"chloride-3-ethylamino-3-(2,3-two hydroxyl) propyl-2-undecyl imidazoline sodium phosphate",CCCCCCCCCCC/C1=N/CC[N+]1(CCN)CC(CO)OP(=O)(O)O.[Cl-],0,298K,10mg/L,87.20%
+11165,"chloride-3-ethylamino-3-(2,3-two hydroxyl) propyl-2-undecyl imidazoline sodium phosphate",CCCCCCCCCCC/C1=N/CC[N+]1(CCN)CC(CO)OP(=O)(O)O.[Cl-],0,298K,15mg/L,91.30%
+11166,"chloride-3-ethylamino-3-(2,3-two hydroxyl) propyl-2-undecyl imidazoline sodium phosphate",CCCCCCCCCCC/C1=N/CC[N+]1(CCN)CC(CO)OP(=O)(O)O.[Cl-],0,298K,20mg/L,92.90%
+11167,"chloride-3-ethylamino-3-(2,3-two hydroxyl) propyl-2-undecyl imidazoline sodium phosphate",CCCCCCCCCCC/C1=N/CC[N+]1(CCN)CC(CO)OP(=O)(O)O.[Cl-],0,298K,25mg/L,94.70%
+11168,carboxymertyl imidazoline (CMI-11),CCCCCCCCCCC/C1=N/CCN1CCN,30,298K,100ppm,96.10%
+11169,hydroxyethyl imidazoline (HEI-11),CCCCCCCCCCC/C1=N/CCN1CCO,30,298K,100ppm,96.50%
+11170,aminoethyl imidazoline (AEI-11),CCCCCCCCCCC/C1=N/CCN1CC(=O)O,30,298K,100ppm,97.80%
+11171,imidazoline (IM11),CCCCCCCCCCC/C1=N/CCN1,30,298K,100ppm,88.40%
+11172,Dodecylamine,CCCCCCCCCCCCN,30,323K,0.65mmol/L,51.20%
+11173,Dodecylamine,CCCCCCCCCCCCN,30,323K,0.43mmol/L,97.20%
+11174,2-mercaptopyrimidine,S=c1nccc[nH]1,34,313K,2.5mg/L,98.80%
+11175,2-mercaptopyrimidine,S=c1nccc[nH]1,34,313K,1mg/L,98.40%
+11176,2-mercaptopyrimidine,S=c1nccc[nH]1,34,313K,0.5mg/L,98.30%
+11177,2-mercaptopyrimidine,S=c1nccc[nH]1,34,313K,0.25mg/L,97.70%
+11178,2-mercaptopyrimidine,S=c1nccc[nH]1,34,313K,0.1mg/L,82.10%
+11179,2-mercapto-4-methylpyrimidine hydrochloride,Cc1cc[nH]c(=S)[nH+]1.[Cl-],34,313K,2.5mg/L,99.40%
+11180,2-mercapto-4-methylpyrimidine hydrochloride,Cc1cc[nH]c(=S)[nH+]1.[Cl-],34,313K,1mg/L,98.70%
+11181,2-mercapto-4-methylpyrimidine hydrochloride,Cc1cc[nH]c(=S)[nH+]1.[Cl-],34,313K,0.5mg/L,97.50%
+11182,2-mercapto-4-methylpyrimidine hydrochloride,Cc1cc[nH]c(=S)[nH+]1.[Cl-],34,313K,0.25mg/L,92.90%
+11183,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,34,313K,1mg/L,96.70%
+11184,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,34,313K,0.5mg/L,90.00%
+11185,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,34,313K,0.2mg/L,95.00%
+11186,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,34,313K,0.1mg/L,83.00%
+11187,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],34,313K,2.5mg/L,94.30%
+11188,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],34,313K,1mg/L,95.80%
+11189,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],34,313K,0.5mg/L,93.30%
+11190,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],34,313K,0.2mg/L,87.50%
+11191,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],34,313K,0.1mg/L,75.00%
+11192,2-mercaptopyrimidine,S=c1nccc[nH]1,34,313K,2.5mg/L,99.60%
+11193,2-mercaptopyrimidine,S=c1nccc[nH]1,34,313K,1mg/L,99.10%
+11194,2-mercaptopyrimidine,S=c1nccc[nH]1,34,313K,0.5mg/L,98.90%
+11195,2-mercaptopyrimidine,S=c1nccc[nH]1,34,313K,0.25mg/L,98.20%
+11196,2-mercaptopyrimidine,S=c1nccc[nH]1,34,313K,0.1mg/L,90.10%
+11197,2-mercapto-4-methylpyrimidine hydrochloride,Cc1cc[nH]c(=S)[nH+]1.[Cl-],34,313K,2.5mg/L,99.70%
+11198,2-mercapto-4-methylpyrimidine hydrochloride,Cc1cc[nH]c(=S)[nH+]1.[Cl-],34,313K,1mg/L,99.20%
+11199,2-mercapto-4-methylpyrimidine hydrochloride,Cc1cc[nH]c(=S)[nH+]1.[Cl-],34,313K,0.5mg/L,98.20%
+11200,2-mercapto-4-methylpyrimidine hydrochloride,Cc1cc[nH]c(=S)[nH+]1.[Cl-],34,313K,0.25mg/L,95.50%
+11201,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,34,313K,1mg/L,98.20%
+11202,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,34,313K,0.5mg/L,95.70%
+11203,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,34,313K,0.2mg/L,96.90%
+11204,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,34,313K,0.1mg/L,90.00%
+11205,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],34,313K,2.5mg/L,97.00%
+11206,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],34,313K,1mg/L,98.50%
+11207,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],34,313K,0.5mg/L,97.10%
+11208,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],34,313K,0.2mg/L,90.40%
+11209,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],34,313K,0.1mg/L,88.90%
+11210,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,24.5,313K,25mg/L,99.10%
+11211,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,24.5,313K,10mg/L,98.00%
+11212,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,24.5,313K,2.5mg/L,98.30%
+11213,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,24.5,313K,1mg/L,97.80%
+11214,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,24.5,313K,0.5mg/L,95.90%
+11215,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,24.5,313K,0.2mg/L,93.70%
+11216,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,24.5,313K,0.1mg/L,88.30%
+11217,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,24.5,313K,25mg/L,99.60%
+11218,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,24.5,313K,10mg/L,99.40%
+11219,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,24.5,313K,2.5mg/L,98.80%
+11220,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,24.5,313K,1mg/L,98.60%
+11221,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,24.5,313K,0.5mg/L,97.60%
+11222,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,24.5,313K,0.2mg/L,95.60%
+11223,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,24.5,313K,0.1mg/L,90.40%
+11224,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],24.5,313K,2.5mg/L,96.90%
+11225,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],24.5,313K,1mg/L,96.50%
+11226,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],24.5,313K,0.5mg/L,95.50%
+11227,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],24.5,313K,0.2mg/L,93.80%
+11228,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],24.5,313K,0.1mg/L,81.40%
+11229,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],24.5,313K,0.05mg/L,54.50%
+11230,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],24.5,313K,2.5mg/L,98.30%
+11231,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],24.5,313K,1mg/L,97.60%
+11232,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],24.5,313K,0.5mg/L,97.10%
+11233,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],24.5,313K,0.2mg/L,96.00%
+11234,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],24.5,313K,0.1mg/L,84.90%
+11235,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],24.5,313K,0.05mg/L,63.00%
+11236,2-mercaptopyrimidine,S=c1nccc[nH]1,24.5,353K,2.5mg/L,98.20%
+11237,2-mercaptopyrimidine,S=c1nccc[nH]1,24.5,353K,1mg/L,97.90%
+11238,2-mercaptopyrimidine,S=c1nccc[nH]1,24.5,353K,0.5mg/L,93.70%
+11239,2-mercaptopyrimidine,S=c1nccc[nH]1,24.5,353K,0.25mg/L,93.50%
+11240,2-mercaptopyrimidine,S=c1nccc[nH]1,24.5,353K,0.1mg/L,81.20%
+11241,2-mercapto-4-methylpyrimidine hydrochloride,Cc1cc[nH]c(=S)[nH+]1.[Cl-],24.5,353K,2.5mg/L,86.00%
+11242,2-mercapto-4-methylpyrimidine hydrochloride,Cc1cc[nH]c(=S)[nH+]1.[Cl-],24.5,353K,1mg/L,89.70%
+11243,2-mercapto-4-methylpyrimidine hydrochloride,Cc1cc[nH]c(=S)[nH+]1.[Cl-],24.5,353K,0.5mg/L,88.10%
+11244,2-mercapto-4-methylpyrimidine hydrochloride,Cc1cc[nH]c(=S)[nH+]1.[Cl-],24.5,353K,0.25mg/L,87.20%
+11245,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,24.5,353K,5mg/L,94.50%
+11246,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,24.5,353K,1mg/L,92.80%
+11247,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,24.5,353K,0.5mg/L,89.30%
+11248,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,24.5,353K,0.25mg/L,82.80%
+11249,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,24.5,353K,0.1mg/L,67.80%
+11250,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],24.5,353K,25mg/L,95.10%
+11251,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],24.5,353K,2.5mg/L,91.40%
+11252,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],24.5,353K,0.25mg/L,68.90%
+11253,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],24.5,363K,5mg/L,86.10%
+11254,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],24.5,363K,2.5mg/L,85.00%
+11255,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],24.5,363K,1mg/L,75.70%
+11256,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],24.5,363K,0.5mg/L,76.50%
+11257,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],24.5,363K,0.25mg/L,83.00%
+11258,2-mercaptopyrimidine,S=c1nccc[nH]1,24.5,353K,2.5mg/L,98.60%
+11259,2-mercaptopyrimidine,S=c1nccc[nH]1,24.5,353K,1mg/L,98.20%
+11260,2-mercaptopyrimidine,S=c1nccc[nH]1,24.5,353K,0.5mg/L,96.50%
+11261,2-mercaptopyrimidine,S=c1nccc[nH]1,24.5,353K,0.25mg/L,95.10%
+11262,2-mercaptopyrimidine,S=c1nccc[nH]1,24.5,353K,0.1mg/L,78.30%
+11263,2-mercapto-4-methylpyrimidine hydrochloride,Cc1cc[nH]c(=S)[nH+]1.[Cl-],24.5,353K,2.5mg/L,96.50%
+11264,2-mercapto-4-methylpyrimidine hydrochloride,Cc1cc[nH]c(=S)[nH+]1.[Cl-],24.5,353K,1mg/L,96.50%
+11265,2-mercapto-4-methylpyrimidine hydrochloride,Cc1cc[nH]c(=S)[nH+]1.[Cl-],24.5,353K,0.5mg/L,96.50%
+11266,2-mercapto-4-methylpyrimidine hydrochloride,Cc1cc[nH]c(=S)[nH+]1.[Cl-],24.5,353K,0.25mg/L,96.50%
+11267,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,24.5,353K,5mg/L,97.30%
+11268,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,24.5,353K,1mg/L,95.00%
+11269,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,24.5,353K,0.5mg/L,91.60%
+11270,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,24.5,353K,0.25mg/L,88.30%
+11271,"2-mercapto-4,6-dimethylpyrimidine",Cc1cc(C)[nH]c(=S)n1,24.5,353K,0.1mg/L,89.30%
+11272,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],24.5,353K,25mg/L,96.20%
+11273,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],24.5,353K,2.5mg/L,94.10%
+11274,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],24.5,353K,0.25mg/L,71.30%
+11275,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],24.5,363K,5mg/L,90.50%
+11276,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],24.5,363K,2.5mg/L,89.90%
+11277,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],24.5,363K,1mg/L,83.00%
+11278,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],24.5,363K,0.5mg/L,80.70%
+11279,"2-mercapto-4,6-dimethylpyrimidine hydrochloride",Cc1cc(C)[nH+]c(=S)[nH]1.[Cl-],24.5,363K,0.25mg/L,88.70%
+11280,"hydroxyethyl imidazoline (1H-imidazoleethanol,4,5-dihydro,-2-C15-17 unsaturated alkyl derivatives, HEI-18I",CCCCCCC/C=C/CCCCCCCC/C1=N/CCN1CCO,30,323K,20ppm,62.20%
+11281,"hydroxyethyl imidazoline (1H-imidazoleethanol,4,5-dihydro,-2-nor coco alkyl derivatives, HEI-12",CCCCCCCCCCCC/C1=N/CCN1CCO,30,323K,20ppm,63.90%
+11282,"hydroxyethyl imidazoline (1H-imidazole-ethanol,2-Heptadecyl-4,5-Dihydro, HEI-18",CCCCCCCCCCCCCCCCC/C1=N/CCN1CCO,30,323K,20ppm,54.90%
+11286,imidazoline derivative inhibitor,CCCCCCCCCCCC/C1=N/CC[N+]1(CCN)CC(O)COP(=O)(O)[O-].[Na+],0,298K,5mg/L,81.90%
+11287,imidazoline derivative inhibitor,CCCCCCCCCCCC/C1=N/CC[N+]1(CCN)CC(O)COP(=O)(O)[O-].[Na+],0,298K,10mg/L,87.20%
+11288,imidazoline derivative inhibitor,CCCCCCCCCCCC/C1=N/CC[N+]1(CCN)CC(O)COP(=O)(O)[O-].[Na+],0,298K,15mg/L,91.30%
+11289,imidazoline derivative inhibitor,CCCCCCCCCCCC/C1=N/CC[N+]1(CCN)CC(O)COP(=O)(O)[O-].[Na+],0,298K,20mg/L,92.90%
+11290,imidazoline derivative inhibitor,CCCCCCCCCCCC/C1=N/CC[N+]1(CCN)CC(O)COP(=O)(O)[O-].[Na+],0,298K,25mg/L,94.70%
+11291,imidazoline derivative inhibitor,CCCCCCCCCCCC/C1=N/CC[N+]1(CCN)CC(O)COP(=O)(O)[O-].[Na+],0,308K,5mg/L,82.20%
+11292,imidazoline derivative inhibitor,CCCCCCCCCCCC/C1=N/CC[N+]1(CCN)CC(O)COP(=O)(O)[O-].[Na+],0,308K,10mg/L,88.10%
+11293,imidazoline derivative inhibitor,CCCCCCCCCCCC/C1=N/CC[N+]1(CCN)CC(O)COP(=O)(O)[O-].[Na+],0,308K,15mg/L,91.70%
+11294,imidazoline derivative inhibitor,CCCCCCCCCCCC/C1=N/CC[N+]1(CCN)CC(O)COP(=O)(O)[O-].[Na+],0,308K,20mg/L,93.30%
+11295,imidazoline derivative inhibitor,CCCCCCCCCCCC/C1=N/CC[N+]1(CCN)CC(O)COP(=O)(O)[O-].[Na+],0,308K,25mg/L,95.10%
+11296,imidazoline derivative inhibitor,CCCCCCCCCCCC/C1=N/CC[N+]1(CCN)CC(O)COP(=O)(O)[O-].[Na+],0,318K,5mg/L,83.90%
+11297,imidazoline derivative inhibitor,CCCCCCCCCCCC/C1=N/CC[N+]1(CCN)CC(O)COP(=O)(O)[O-].[Na+],0,318K,10mg/L,88.80%
+11298,imidazoline derivative inhibitor,CCCCCCCCCCCC/C1=N/CC[N+]1(CCN)CC(O)COP(=O)(O)[O-].[Na+],0,318K,15mg/L,92.30%
+11299,imidazoline derivative inhibitor,CCCCCCCCCCCC/C1=N/CC[N+]1(CCN)CC(O)COP(=O)(O)[O-].[Na+],0,318K,20mg/L,94.10%
+11300,imidazoline derivative inhibitor,CCCCCCCCCCCC/C1=N/CC[N+]1(CCN)CC(O)COP(=O)(O)[O-].[Na+],0,318K,25mg/L,95.40%
+11301,imidazoline derivative inhibitor,CCCCCCCCCCCC/C1=N/CC[N+]1(CCN)CC(O)COP(=O)(O)[O-].[Na+],0,328K,5mg/L,83.10%
+11302,imidazoline derivative inhibitor,CCCCCCCCCCCC/C1=N/CC[N+]1(CCN)CC(O)COP(=O)(O)[O-].[Na+],0,328K,10mg/L,86.60%
+11303,imidazoline derivative inhibitor,CCCCCCCCCCCC/C1=N/CC[N+]1(CCN)CC(O)COP(=O)(O)[O-].[Na+],0,328K,15mg/L,89.00%
+11304,imidazoline derivative inhibitor,CCCCCCCCCCCC/C1=N/CC[N+]1(CCN)CC(O)COP(=O)(O)[O-].[Na+],0,328K,20mg/L,90.90%
+11305,imidazoline derivative inhibitor,CCCCCCCCCCCC/C1=N/CC[N+]1(CCN)CC(O)COP(=O)(O)[O-].[Na+],0,328K,25mg/L,92.80%
+11306,imidazoline derivative,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,50,298K,10ppm,93.06%
+11307,imidazoline derivative,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,50,298K,50ppm,98.33%
+11308,imidazoline derivative,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,50,298K,100ppm,98.88%
+11309,imidazoline derivative,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,50,298K,200ppm,98.95%
+11310,imidazoline derivative,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,50,318K,50ppm,98.35%
+11311,imidazoline derivative,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,50,333K,50ppm,97.36%
+11312,imidazoline derivative,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,50,348K,50ppm,95.04%
+11313,"N,N0-bis-(2-thionobenzothiazolin-3-yl-methyl)-n-dodecylamine (BTBMDA)",CCCCCCCCCCCCN(n2c(=S)sc1ccccc12)n4c(=S)sc3ccccc34,0,363K,10ppm,80.20%
+11314,"N,N0-bis-(2-thionobenzothiazolin-3-yl-methyl)-n-dodecylamine (BTBMDA)",CCCCCCCCCCCCN(n2c(=S)sc1ccccc12)n4c(=S)sc3ccccc34,0,363K,20ppm,87.00%
+11315,"N,N0-bis-(2-thionobenzothiazolin-3-yl-methyl)-n-dodecylamine (BTBMDA)",CCCCCCCCCCCCN(n2c(=S)sc1ccccc12)n4c(=S)sc3ccccc34,0,363K,30ppm,89.80%
+11316,"N,N0-bis-(2-thionobenzothiazolin3-yl-methyl)-n-octadecylamine",CCCCCCCCCCCCCCCCCCN(n2c(=S)sc1ccccc12)n4c(=S)sc3ccccc34,0,363K,20ppm,83.60%
+11317,"N,N0-bis-(2-thionobenzothiazolin3-yl-methyl)-n-octadecylamine",CCCCCCCCCCCCCCCCCCN(n2c(=S)sc1ccccc12)n4c(=S)sc3ccccc34,0,363K,30ppm,91.90%
+11318,quaternary amine (QA),CCCCCCCCCCCCCC[N+](C)(C)Cc1ccccc1.[Cl-],30,298K,30ppm,86.63%
+11319,quaternary amine (QA),CCCCCCCCCCCCCC[N+](C)(C)Cc1ccccc1.[Cl-],30,298K,30ppm,96.86%
+11320,quaternary amine (QA),CCCCCCCCCCCCCC[N+](C)(C)Cc1ccccc1.[Cl-],30,298K,30ppm,97.08%
+11321,quaternary amine (QA),CCCCCCCCCCCCCC[N+](C)(C)Cc1ccccc1.[Cl-],30,298K,30ppm,93.64%
+11322,quaternary amine (QA),CCCCCCCCCCCCCC[N+](C)(C)Cc1ccccc1.[Cl-],30,298K,30ppm,91.77%
+11323,quaternary amine (QA),CCCCCCCCCCCCCC[N+](C)(C)Cc1ccccc1.[Cl-],30,298K,30ppm,92.39%
+11324,oleic imidazoline (OI),CCCCCCCC/C=C/CCCCCCCc1nccn1CCN,30,298K,30ppm,77.96%
+11325,oleic imidazoline (OI),CCCCCCCC/C=C/CCCCCCCc1nccn1CCN,30,298K,30ppm,96.41%
+11326,oleic imidazoline (OI),CCCCCCCC/C=C/CCCCCCCc1nccn1CCN,30,298K,30ppm,96.16%
+11327,oleic imidazoline (OI),CCCCCCCC/C=C/CCCCCCCc1nccn1CCN,30,298K,30ppm,94.05%
+11328,oleic imidazoline (OI),CCCCCCCC/C=C/CCCCCCCc1nccn1CCN,30,298K,30ppm,91.93%
+11329,oleic imidazoline (OI),CCCCCCCC/C=C/CCCCCCCc1nccn1CCN,30,298K,30ppm,91.51%
+11330,amino coco propionic acid (ACP),CCCCCCCCCCCCCCNCCC(=O)O,30,298K,30ppm,93.64%
+11331,amino coco propionic acid (ACP),CCCCCCCCCCCCCCNCCC(=O)O,30,298K,30ppm,95.09%
+11332,amino coco propionic acid (ACP),CCCCCCCCCCCCCCNCCC(=O)O,30,298K,30ppm,95.11%
+11333,amino coco propionic acid (ACP),CCCCCCCCCCCCCCNCCC(=O)O,30,298K,30ppm,93.68%
+11334,amino coco propionic acid (ACP),CCCCCCCCCCCCCCNCCC(=O)O,30,298K,30ppm,92.42%
+11335,amino coco propionic acid (ACP),CCCCCCCCCCCCCCNCCC(=O)O,30,298K,30ppm,91.95%
+11336,hydroxyethyl (HEI-18b),CCCCCCCCCCCCCCCCC/C1=N/CCN1CCO,30,323K,20ppm,54.80%
+11337,aminoethyl (AEI-18),CCCCCCCCCCCCCCCCC/C1=N/CCN1CCN,30,323K,20ppm,60.20%
+11338,amidoethyl (AMEI-18) imidazolines,CCCCCCCCCCCCCCCCCC(=O)NCCN1CC/N=C1/CCCCCCCCCCCCCCCCC,30,323K,20ppm,35.70%
+11342,dodecylamine,CCCCCCCCCCCCN,30,323K,4ppm,3.00%
+11343,dodecylamine,CCCCCCCCCCCCN,30,323K,80ppm,39.00%
+11344,dodecylamine,CCCCCCCCCCCCN,30,323K,120ppm,52.00%
+11345,dodecylamine,CCCCCCCCCCCCN,30,323K,10ppm,98.50%
+11346,dodecylamine,CCCCCCCCCCCCN,30,323K,40ppm,99.10%
+11347,dodecylamine,CCCCCCCCCCCCN,30,323K,80ppm,99.50%
+11348,Hydroxyethyl (IA)imidazolines. R: Alkyl chain of C17,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCO,30,323K,20ppm,88.84%
+11349,aminoethyl (IB) imidazolines. R: Alkyl chain of C17,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCN,30,323K,20ppm,96.12%
+11350,amidoethyl (IC) imidazolines. R: Alkyl chain of C17,CCCCCCCCCCCCCCCCCC(=O)NCCN1CC/N=C1/CCCCCCCCCCCCCCCCC,30,323K,20ppm,97.88%
+11351,Hydroxyethyl (HEI-18I) imidazolines. R: Alkyl chain of C17,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCO,30,323K,20ppm,99.99%
+11352,aminoethyl (AEI-18) imidazolines. R: Alkyl chain of C17,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCN,30,323K,20ppm,99.96%
+11353,amidoethyl (AMEI-18) imidazolines. R: Alkyl chain of C17,CCCCCCCCCCCCCCCCCC(=O)NCCN1CC/N=C1/CCCCCCCCCCCCCCCCC,30,323K,20ppm,99.99%
+11357,quaternary alkynoxymethyl amine (IMC-80Q),C#CCOC[N+](CCCCCC)(COCC#C)Cc1ccccc1.[Cl-],30,298K,25mg/L,1.90%
+11358,quaternary alkynoxymethyl amine (IMC-80Q),C#CCOC[N+](CCCCCC)(COCC#C)Cc1ccccc1.[Cl-],30,298K,50mg/L,64.00%
+11359,quaternary alkynoxymethyl amine (IMC-80Q),C#CCOC[N+](CCCCCC)(COCC#C)Cc1ccccc1.[Cl-],30,298K,100mg/L,71.00%
+11360,quaternary alkynoxymethyl amine (IMC-80Q),C#CCOC[N+](CCCCCC)(COCC#C)Cc1ccccc1.[Cl-],30,298K,150mg/L,78.20%
+11361,quaternary alkynoxymethyl amine (IMC-80Q),C#CCOC[N+](CCCCCC)(COCC#C)Cc1ccccc1.[Cl-],30,298K,200mg/L,29.10%
+11362,quaternary alkynoxymethyl amine (IMC-80Q),C#CCOC[N+](CCCCCC)(COCC#C)Cc1ccccc1.[Cl-],30,298K,250mg/L,47.60%
+11363,quaternary alkynoxymethyl amine (IMC-80Q),C#CCOC[N+](CCCCCC)(COCC#C)Cc1ccccc1.[Cl-],30,298K,300mg/L,38.80%
+11364,imidazoline,CCCC/C1=N/CCN1CCNCCN,30,298K,25mg/L,49.00%
+11365,imidazoline,CCCC/C1=N/CCN1CCNCCN,30,298K,75mg/L,68.70%
+11366,imidazoline,CCCC/C1=N/CCN1CCNCCN,30,298K,100mg/L,84.20%
+11367,imidazoline,CCCC/C1=N/CCN1CCNCCN,30,298K,125mg/L,60.20%
+11368,1-羟乙基硫酸酯-2-十七烯基咪唑啉,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCOS(=O)(=O)[O-].[Na+],30,303K,5mg/L,68.79%
+11369,1-羟乙基硫酸酯-2-十七烯基咪唑啉,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCOS(=O)(=O)[O-].[Na+],30,303K,10mg/L,69.02%
+11370,1-羟乙基硫酸酯-2-十七烯基咪唑啉,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCOS(=O)(=O)[O-].[Na+],30,303K,30mg/L,78.74%
+11371,1-羟乙基硫酸酯-2-十七烯基咪唑啉,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCOS(=O)(=O)[O-].[Na+],30,303K,50mg/L,82.70%
+11372,1-羟乙基硫酸酯-2-十七烯基咪唑啉,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCOS(=O)(=O)[O-].[Na+],30,303K,100mg/L,85.75%
+11373,1-氨乙基-1-羧甲基-2-十七烯基氯化咪唑啉,CCCCCCCC/C=C/CCCCCCC/C1=N/CC[N+]1(CCN)CC(=O)O.[Cl-],30,303K,5mg/L,68.45%
+11374,1-氨乙基-1-羧甲基-2-十七烯基氯化咪唑啉,CCCCCCCC/C=C/CCCCCCC/C1=N/CC[N+]1(CCN)CC(=O)O.[Cl-],30,303K,10mg/L,71.51%
+11375,1-氨乙基-1-羧甲基-2-十七烯基氯化咪唑啉,CCCCCCCC/C=C/CCCCCCC/C1=N/CC[N+]1(CCN)CC(=O)O.[Cl-],30,303K,20mg/L,91.07%
+11376,1-氨乙基-1-羧甲基-2-十七烯基氯化咪唑啉,CCCCCCCC/C=C/CCCCCCC/C1=N/CC[N+]1(CCN)CC(=O)O.[Cl-],30,303K,30mg/L,91.14%
+11377,1-氨乙基-1-羧甲基-2-十七烯基氯化咪唑啉,CCCCCCCC/C=C/CCCCCCC/C1=N/CC[N+]1(CCN)CC(=O)O.[Cl-],30,303K,50mg/L,91.35%
+11378,1-氨乙基-1-羧甲基-2-十七烯基氯化咪唑啉,CCCCCCCC/C=C/CCCCCCC/C1=N/CC[N+]1(CCN)CC(=O)O.[Cl-],30,303K,100mg/L,93.08%
+11379,1-羟乙基-2-十七烯基咪唑啉乙酸盐,CCCCCCCC/C=C/CCCCCCC/C1=N/CC[NH+]1CCO.CC(=O)[O-],30,303K,5mg/L,55.46%
+11380,1-羟乙基-2-十七烯基咪唑啉乙酸盐,CCCCCCCC/C=C/CCCCCCC/C1=N/CC[NH+]1CCO.CC(=O)[O-],30,303K,10mg/L,40.98
+11381,1-羟乙基-2-十七烯基咪唑啉乙酸盐,CCCCCCCC/C=C/CCCCCCC/C1=N/CC[NH+]1CCO.CC(=O)[O-],30,303K,30mg/L,84.48%
+11382,1-羟乙基-2-十七烯基咪唑啉乙酸盐,CCCCCCCC/C=C/CCCCCCC/C1=N/CC[NH+]1CCO.CC(=O)[O-],30,303K,50mg/L,86.21%
+11383,1-羟乙基-2-十七烯基咪唑啉乙酸盐,CCCCCCCC/C=C/CCCCCCC/C1=N/CC[NH+]1CCO.CC(=O)[O-],30,303K,100mg/L,92.64%
+11384,1-氨乙基2-十七烯基咪唑啉乙酸盐,CCCCCCCC/C=C/CCCCCCC/C1=N/CC[NH+]1CCN.CC(=O)[O-],30,303K,5mg/L,57.16%
+11385,1-氨乙基2-十七烯基咪唑啉乙酸盐,CCCCCCCC/C=C/CCCCCCC/C1=N/CC[NH+]1CCN.CC(=O)[O-],30,303K,10mg/L,75.23%
+11386,1-氨乙基2-十七烯基咪唑啉乙酸盐,CCCCCCCC/C=C/CCCCCCC/C1=N/CC[NH+]1CCN.CC(=O)[O-],30,303K,30mg/L,89.35%
+11387,1-氨乙基2-十七烯基咪唑啉乙酸盐,CCCCCCCC/C=C/CCCCCCC/C1=N/CC[NH+]1CCN.CC(=O)[O-],30,303K,50mg/L,88.53%
+11388,1-氨乙基2-十七烯基咪唑啉乙酸盐,CCCCCCCC/C=C/CCCCCCC/C1=N/CC[NH+]1CCN.CC(=O)[O-],30,303K,100mg/L,90.13%
+11389,"3-amino-1,2,4-triazole (ATA)",Nc1nc[nH]n1,25,363K,1×10-3 M,50.00%
+11390,"3-amino-1,2,4-triazole (ATA)",Nc1nc[nH]n1,25,363K,5×10-3 M,69.00%
+11391,"3-amino-1,2,4-triazole (ATA)",Nc1nc[nH]n1,25,363K,1×10-2 M,76.00%
+11392,"3-amino-1,2,4-triazole (ATA)",Nc1nc[nH]n1,25,363K,1.5×10-2 M,84.00%
+11393,"3-amino-1,2,4-triazole (ATA)",Nc1nc[nH]n1,25,363K,2×10-2 M,85.00%
+11394,"2-amino-1,3,4 thiadiazole (ATDA)",Nc1nncs1,25,363K,1×10-3 M,34.00%
+11395,"2-amino-1,3,4 thiadiazole (ATDA)",Nc1nncs1,25,363K,5×10-3 M,50.00%
+11396,"2-amino-1,3,4 thiadiazole (ATDA)",Nc1nncs1,25,363K,1×10-2 M,61.00%
+11397,"2-amino-1,3,4 thiadiazole (ATDA)",Nc1nncs1,25,363K,1.5×10-2 M,70.00%
+11398,"2-amino-1,3,4 thiadiazole (ATDA)",Nc1nncs1,25,363K,2×10-2 M,77.00%
+11399,"5-tolyl 1,3,4 triazole (TTA)",Cc2ccc(c1nnc[nH]1)cc2,25,363K,1×10-3 M,37.00%
+11400,"5-tolyl 1,3,4 triazole (TTA)",Cc2ccc(c1nnc[nH]1)cc2,25,363K,5×10-3 M,49.00%
+11401,"5-tolyl 1,3,4 triazole (TTA)",Cc2ccc(c1nnc[nH]1)cc2,25,363K,1×10-2 M,63.00%
+11402,"5-tolyl 1,3,4 triazole (TTA)",Cc2ccc(c1nnc[nH]1)cc2,25,363K,1.5×10-2 M,66.00%
+11403,"5-tolyl 1,3,4 triazole (TTA)",Cc2ccc(c1nnc[nH]1)cc2,25,363K,2×10-2 M,73.00%
+11404,"3-amino-5-metil merkapto-1,2,4triazole (AMTA)",CSc1nc(N)n[nH]1,25,363K,1×10-3 M,51.00%
+11405,"3-amino-5-metil merkapto-1,2,4triazole (AMTA)",CSc1nc(N)n[nH]1,25,363K,5×10-3 M,68.00%
+11406,"3-amino-5-metil merkapto-1,2,4triazole (AMTA)",CSc1nc(N)n[nH]1,25,363K,1×10-2 M,72.00%
+11407,"3-amino-5-metil merkapto-1,2,4triazole (AMTA)",CSc1nc(N)n[nH]1,25,363K,1.5×10-2 M,75.00%
+11408,"3-amino-5-metil merkapto-1,2,4triazole (AMTA)",CSc1nc(N)n[nH]1,25,363K,2×10-2 M,80.00%
+11409,2-aminobenziotriazole (ABA),N[n+]2nc1ccccc1[nH]2,25,363K,1×10-3 M,69.00%
+11410,2-aminobenziotriazole (ABA),N[n+]2nc1ccccc1[nH]2,25,363K,5×10-3 M,77.00%
+11411,2-aminobenziotriazole (ABA),N[n+]2nc1ccccc1[nH]2,25,363K,1×10-2 M,83.00%
+11412,2-aminobenziotriazole (ABA),N[n+]2nc1ccccc1[nH]2,25,363K,1.5×10-2 M,88.00%
+11413,2-aminobenziotriazole (ABA),N[n+]2nc1ccccc1[nH]2,25,363K,2×10-2 M,93.00%
+11414,"3-amino-1,2,4-triazole (ATA)",Nc1nc[nH]n1,35,363K,1×10-3 M,51.00%
+11415,"3-amino-1,2,4-triazole (ATA)",Nc1nc[nH]n1,35,363K,5×10-3 M,64.00%
+11416,"3-amino-1,2,4-triazole (ATA)",Nc1nc[nH]n1,35,363K,1×10-2 M,77.00%
+11417,"3-amino-1,2,4-triazole (ATA)",Nc1nc[nH]n1,35,363K,1.5×10-2 M,83.00%
+11418,"3-amino-1,2,4-triazole (ATA)",Nc1nc[nH]n1,35,363K,2×10-2 M,86.00%
+11419,"2-amino-1,3,4 thiadiazole (ATDA)",Nc1nncs1,35,363K,1×10-3 M,35.00%
+11420,"2-amino-1,3,4 thiadiazole (ATDA)",Nc1nncs1,35,363K,5×10-3 M,53.00%
+11421,"2-amino-1,3,4 thiadiazole (ATDA)",Nc1nncs1,35,363K,1×10-2 M,61.00%
+11422,"2-amino-1,3,4 thiadiazole (ATDA)",Nc1nncs1,35,363K,1.5×10-2 M,71.00%
+11423,"2-amino-1,3,4 thiadiazole (ATDA)",Nc1nncs1,35,363K,2×10-2 M,78.00%
+11424,"5-tolyl 1,3,4 triazole (TTA)",Cc2ccc(c1nnc[nH]1)cc2,35,363K,1×10-3 M,37.00%
+11425,"5-tolyl 1,3,4 triazole (TTA)",Cc2ccc(c1nnc[nH]1)cc2,35,363K,5×10-3 M,49.00%
+11426,"5-tolyl 1,3,4 triazole (TTA)",Cc2ccc(c1nnc[nH]1)cc2,35,363K,1×10-2 M,64.00%
+11427,"5-tolyl 1,3,4 triazole (TTA)",Cc2ccc(c1nnc[nH]1)cc2,35,363K,1.5×10-2 M,67.00%
+11428,"5-tolyl 1,3,4 triazole (TTA)",Cc2ccc(c1nnc[nH]1)cc2,35,363K,2×10-2 M,73.00%
+11429,"3-amino-5-metil merkapto-1,2,4triazole (AMTA)",CSc1nc(N)n[nH]1,35,363K,1×10-3 M,54.00%
+11430,"3-amino-5-metil merkapto-1,2,4triazole (AMTA)",CSc1nc(N)n[nH]1,35,363K,5×10-3 M,70.00%
+11431,"3-amino-5-metil merkapto-1,2,4triazole (AMTA)",CSc1nc(N)n[nH]1,35,363K,1×10-2 M,74.00%
+11432,"3-amino-5-metil merkapto-1,2,4triazole (AMTA)",CSc1nc(N)n[nH]1,35,363K,1.5×10-2 M,77.00%
+11433,"3-amino-5-metil merkapto-1,2,4triazole (AMTA)",CSc1nc(N)n[nH]1,35,363K,2×10-2 M,83.00%
+11434,2-aminobenziotriazole (ABA),N[n+]2nc1ccccc1[nH]2,35,363K,1×10-3 M,58.00%
+11435,2-aminobenziotriazole (ABA),N[n+]2nc1ccccc1[nH]2,35,363K,5×10-3 M,79.00%
+11436,2-aminobenziotriazole (ABA),N[n+]2nc1ccccc1[nH]2,35,363K,1×10-2 M,83.00%
+11437,2-aminobenziotriazole (ABA),N[n+]2nc1ccccc1[nH]2,35,363K,1.5×10-2 M,89.00%
+11438,2-aminobenziotriazole (ABA),N[n+]2nc1ccccc1[nH]2,35,363K,2×10-2 M,94.00%
+11439,tannic acid,O=C(OC[C@H]7O[C@@H](OC(=O)c2cc(O)c(O)c(OC(=O)c1cc(O)c(O)c(O)c1)c2)[C@H](OC(=O)c4cc(O)c(O)c(OC(=O)c3cc(O)c(O)c(O)c3)c4)[C@@H](OC(=O)c6cc(O)c(O)c(OC(=O)c5cc(O)c(O)c(O)c5)c6)[C@@H]7OC(=O)c9cc(O)c(O)c(OC(=O)c8cc(O)c(O)c(O)c8)c9)c%11cc(O)c(O)c(OC(=O)c%10cc(O)c(O)c(O)c%10)c%11,35,298K,100ppm,24.90%
+11440,tannic acid,O=C(OC[C@H]7O[C@@H](OC(=O)c2cc(O)c(O)c(OC(=O)c1cc(O)c(O)c(O)c1)c2)[C@H](OC(=O)c4cc(O)c(O)c(OC(=O)c3cc(O)c(O)c(O)c3)c4)[C@@H](OC(=O)c6cc(O)c(O)c(OC(=O)c5cc(O)c(O)c(O)c5)c6)[C@@H]7OC(=O)c9cc(O)c(O)c(OC(=O)c8cc(O)c(O)c(O)c8)c9)c%11cc(O)c(O)c(OC(=O)c%10cc(O)c(O)c(O)c%10)c%11,35,298K,250ppm,43.40%
+11441,tannic acid,O=C(OC[C@H]7O[C@@H](OC(=O)c2cc(O)c(O)c(OC(=O)c1cc(O)c(O)c(O)c1)c2)[C@H](OC(=O)c4cc(O)c(O)c(OC(=O)c3cc(O)c(O)c(O)c3)c4)[C@@H](OC(=O)c6cc(O)c(O)c(OC(=O)c5cc(O)c(O)c(O)c5)c6)[C@@H]7OC(=O)c9cc(O)c(O)c(OC(=O)c8cc(O)c(O)c(O)c8)c9)c%11cc(O)c(O)c(OC(=O)c%10cc(O)c(O)c(O)c%10)c%11,35,298K,500ppm,51.70%
+11442,tannic acid,O=C(OC[C@H]7O[C@@H](OC(=O)c2cc(O)c(O)c(OC(=O)c1cc(O)c(O)c(O)c1)c2)[C@H](OC(=O)c4cc(O)c(O)c(OC(=O)c3cc(O)c(O)c(O)c3)c4)[C@@H](OC(=O)c6cc(O)c(O)c(OC(=O)c5cc(O)c(O)c(O)c5)c6)[C@@H]7OC(=O)c9cc(O)c(O)c(OC(=O)c8cc(O)c(O)c(O)c8)c9)c%11cc(O)c(O)c(OC(=O)c%10cc(O)c(O)c(O)c%10)c%11,35,298K,1000ppm,46.90%
+11443,2-Mercaptobenzimidazole,Sc2nc1ccccc1[nH]2,35,323K,5ppm,70%
+11444,2-Mercaptobenzimidazole,Sc2nc1ccccc1[nH]2,35,323K,10ppm,80%
+11445,2-Mercaptobenzimidazole,Sc2nc1ccccc1[nH]2,35,323K,25ppm,70%
+11446,2-Mercaptobenzimidazole,Sc2nc1ccccc1[nH]2,35,323K,50ppm,60%
+11447,2-Mercaptobenzimidazole,Sc2nc1ccccc1[nH]2,35,323K,100ppm,50%
+11448,2-Mercaptobenzimidazole,Sc2nc1ccccc1[nH]2,35,323K,5ppm,80%
+11449,2-Mercaptobenzimidazole,Sc2nc1ccccc1[nH]2,35,323K,10ppm,40%
+11450,2-Mercaptobenzimidazole,Sc2nc1ccccc1[nH]2,35,323K,25ppm,40%
+11451,2-Mercaptobenzimidazole,Sc2nc1ccccc1[nH]2,35,323K,50ppm,20%
+11452,2-Mercaptobenzimidazole,Sc2nc1ccccc1[nH]2,35,323K,100ppm,20%
+11453,2–(chloromethyl)benzimidazole,ClCc2nc1ccccc1[nH]2,35,297K,1ppm,91.71%
+11454,2–(chloromethyl)benzimidazole,ClCc2nc1ccccc1[nH]2,35,297K,5ppm,93.31%
+11455,2–(chloromethyl)benzimidazole,ClCc2nc1ccccc1[nH]2,35,297K,10ppm,94.79%
+11456,2–(chloromethyl)benzimidazole,ClCc2nc1ccccc1[nH]2,35,297K,50ppm,95.21%
+11457,2–(chloromethyl)benzimidazole,ClCc2nc1ccccc1[nH]2,50,297K,10ppm,88.39%
+11458,2–(chloromethyl)benzimidazole,ClCc2nc1ccccc1[nH]2,70,297K,10ppm,84.29%
+11459,2–(chloromethyl)benzimidazole,ClCc2nc1ccccc1[nH]2,35,313K,10ppm,97.86%
+11460,2–(chloromethyl)benzimidazole,ClCc2nc1ccccc1[nH]2,35,333K,10ppm,97.15%
+11461,long-chain fatty acid amide (LFA),CCCCCCCCCCCC(=O)NCCN(CCN)CC(O)COP(=O)(O)[O-],20,293K,100ppm,25.20%
+11462,long-chain fatty acid amide (LFA),CCCCCCCCCCCC(=O)NCCN(CCN)CC(O)COP(=O)(O)[O-],20,293K,400ppm,60.20%
+11463,long-chain fatty acid amide (LFA),CCCCCCCCCCCC(=O)NCCN(CCN)CC(O)COP(=O)(O)[O-],20,293K,700ppm,84.70%
+11464,long-chain fatty acid amide (LFA),CCCCCCCCCCCC(=O)NCCN(CCN)CC(O)COP(=O)(O)[O-],20,293K,1000ppm,93.80%
+11465,long-chain fatty acid amide (LFA),CCCCCCCCCCCC(=O)NCCN(CCN)CC(O)COP(=O)(O)[O-],20,333K,100ppm,21.70%
+11466,long-chain fatty acid amide (LFA),CCCCCCCCCCCC(=O)NCCN(CCN)CC(O)COP(=O)(O)[O-],20,333K,400ppm,48.50%
+11467,long-chain fatty acid amide (LFA),CCCCCCCCCCCC(=O)NCCN(CCN)CC(O)COP(=O)(O)[O-],20,333K,700ppm,74.00%
+11468,long-chain fatty acid amide (LFA),CCCCCCCCCCCC(=O)NCCN(CCN)CC(O)COP(=O)(O)[O-],20,333K,1000ppm,84.50%
+11469,imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,333K,0.488×10-5mol/L,89.30%
+11470,imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,333K,1.22×10-5mol/L,94.30%
+11471,imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,333K,2.44×10-5mol/L,96.10%
+11472,imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,333K,4.88×10-5mol/L,97.40%
+11473,imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,333K,0.488×10-5mol/L,93.20%
+11474,imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,333K,1.22×10-5mol/L,95.50%
+11475,imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,333K,2.44×10-5mol/L,97.40%
+11476,imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,333K,4.88×10-5mol/L,97.60%
+11477,imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,313K,0.4878×10-5mol/L,91.90%
+11478,imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,313K,1.2195×10-5mol/L,94.90%
+11479,imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,313K,2.4390×10-5mol/L,96.00%
+11480,imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,313K,4.878×10-5mol/L,97.00%
+11481,imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,333K,0.4878×10-5mol/L,93.20%
+11482,imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,333K,1.2195×10-5mol/L,95.50%
+11483,imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,333K,2.4390×10-5mol/L,97.40%
+11484,imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,333K,4.878×10-5mol/L,97.60%
+11485,imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,313K,0.4878×10-5mol/L,57.80%
+11486,imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,313K,1.2195×10-5mol/L,92.20%
+11487,imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,313K,2.4390×10-5mol/L,94.70%
+11488,imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,313K,4.878×10-5mol/L,97.40%
+11489,imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,333K,0.4878×10-5mol/L,60.90%
+11490,imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,333K,1.2195×10-5mol/L,92.50%
+11491,imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,333K,2.4390×10-5mol/L,96.30%
+11492,imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNC(N)=S,30,333K,4.878×10-5mol/L,97.80%
+11493,sodium benzoate,O=C(O[Na])c1ccccc1,23.2,303K,10ppm,0.14%
+11494,oleic-base imidazoline,CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCN,23.2,303K,10ppm,78.62%
+11495,natural olive leaf extract,[H][C@@]/3(O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)O/C=C(C(=O)OC)\[C@@H](CC(=O)OCCc2ccc(O)c(O)c2)C3=C/C,35,338K,100 PPM,69.74%
+11496,natural olive leaf extract,[H][C@@]/3(O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)O/C=C(C(=O)OC)\[C@@H](CC(=O)OCCc2ccc(O)c(O)c2)C3=C/C,35,338K,100 PPM,75.35%
+11497,natural olive leaf extract,[H][C@@]/3(O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)O/C=C(C(=O)OC)\[C@@H](CC(=O)OCCc2ccc(O)c(O)c2)C3=C/C,35,338K,100 PPM,78.36%
+11498,natural olive leaf extract,[H][C@@]/3(O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)O/C=C(C(=O)OC)\[C@@H](CC(=O)OCCc2ccc(O)c(O)c2)C3=C/C,35,338K,100 PPM,79.03%
+11499,natural olive leaf extract,[H][C@@]/3(O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)O/C=C(C(=O)OC)\[C@@H](CC(=O)OCCc2ccc(O)c(O)c2)C3=C/C,35,338K,100 PPM,84.53%
+11501,,c3ccc(c2nc1ccccc1[nH]2)nc3,35,298K,7.68 mM,68%
+11502,"2-(4-methoxyphenyl)-
+4,5-diphenylimidazole",COc4ccc(c3nc(c1ccccc1)c(c2ccccc2)[nH]3)cc4,35,308K,400 PPM,90%
+11503,"2-(4-methoxyphenyl)-
+4,5-diphenylimidazole",Cc4ccc(c3nc(c1ccccc1)c(c2ccccc2)[nH]3)cc4,35,308K,400 PPM,84%
+11504,"2-(4-methoxyphenyl)-
+4,5-diphenylimidazole",O=N(=O)c4ccc(c3nc(c1ccccc1)c(c2ccccc2)[nH]3)cc4,35,308K,400 PPM,77%
+11505,dissymmetric bis-quaternary ammonium salt with an imidazoline ring and an ester group,CCCCCCCCCCCCC(=O)OCC[N+](C)(C)CC(O)C[N+]1(CCN)CC/N=C1/CCCCCCCCCCC,20,298K,50 mg/L ,56.00%
+11506,dissymmetric bis-quaternary ammonium salt with an imidazoline ring and an ester group,CCCCCCCCCCCCC(=O)OCC[N+](C)(C)CC(O)C[N+]1(CCN)CC/N=C1/CCCCCCCCCCC,20,298K,75 mg/L ,68.90%
+11507,dissymmetric bis-quaternary ammonium salt with an imidazoline ring and an ester group,CCCCCCCCCCCCC(=O)OCC[N+](C)(C)CC(O)C[N+]1(CCN)CC/N=C1/CCCCCCCCCCC,20,298K,100 mg/L ,85.30%
+11508,dissymmetric bis-quaternary ammonium salt with an imidazoline ring and an ester group,CCCCCCCCCCCCC(=O)OCC[N+](C)(C)CC(O)C[N+]1(CCN)CC/N=C1/CCCCCCCCCCC,20,298K,125 mg/L ,87.90%
+11509,dissymmetric bis-quaternary ammonium salt with an imidazoline ring and an ester group,CCCCCCCCCCCCC(=O)OCC[N+](C)(C)CC(O)C[N+]1(CCN)CC/N=C1/CCCCCCCCCCC,20,298K,150 mg/L ,91.40%
+11510,dissymmetric bis-quaternary ammonium salt with an imidazoline ring and an ester group,CCCCCCCCCCCCC(=O)OCC[N+](C)(C)CC(O)C[N+]1(CCN)CC/N=C1/CCCCCCCCCCC,20,298K,175 mg/L ,91.60%
+11511,dissymmetric bis-quaternary ammonium salt with an imidazoline ring and an ester group,CCCCCCCCCCCCC(=O)OCC[N+](C)(C)CC(O)C[N+]1(CCN)CC/N=C1/CCCCCCCCCCC,20,298K,200 mg/L ,92.20%
+11512,dissymmetric bis-quaternary ammonium salt with an imidazoline ring and an ester group,CCCCCCCCCCCCC(=O)OCC[N+](C)(C)CC(O)C[N+]1(CCN)CC/N=C1/CCCCCCCCCCC,20,298K,150 mg/L ,30.00%
+11513,dissymmetric bis-quaternary ammonium salt with an imidazoline ring and an ester group,CCCCCCCCCCCCC(=O)OCC[N+](C)(C)CC(O)C[N+]1(CCN)CC/N=C1/CCCCCCCCCCC,20,298K,150 mg/L ,86.40%
+11514,dissymmetric bis-quaternary ammonium salt with an imidazoline ring and an ester group,CCCCCCCCCCCCC(=O)OCC[N+](C)(C)CC(O)C[N+]1(CCN)CC/N=C1/CCCCCCCCCCC,20,298K,150 mg/L ,80.20%
+11515,dissymmetric bis-quaternary ammonium salt with an imidazoline ring and an ester group,CCCCCCCCCCCCC(=O)OCC[N+](C)(C)CC(O)C[N+]1(CCN)CC/N=C1/CCCCCCCCCCC,20,298K,150 mg/L ,80.20%
+11516,dissymmetric bis-quaternary ammonium salt with an imidazoline ring and an ester group,CCCCCCCCCCCCC(=O)OCC[N+](C)(C)CC(O)C[N+]1(CCN)CC/N=C1/CCCCCCCCCCC,20,298K,150 mg/L ,80.40%
+11517,dissymmetric bis-quaternary ammonium salt with an imidazoline ring and an ester group,CCCCCCCCCCCCC(=O)OCC[N+](C)(C)CC(O)C[N+]1(CCN)CC/N=C1/CCCCCCCCCCC,20,298K,150 mg/L ,84.30%
+11518,dissymmetric bis-quaternary ammonium salt with an imidazoline ring and an ester group,CCCCCCCCCCCCC(=O)OCC[N+](C)(C)CC(O)C[N+]1(CCN)CC/N=C1/CCCCCCCCCCC,20,298K,150 mg/L ,86.10%
+11519,dissymmetric bis-quaternary ammonium salt with an imidazoline ring and an ester group,CCCCCCCCCCCCC(=O)OCC[N+](C)(C)CC(O)C[N+]1(CCN)CC/N=C1/CCCCCCCCCCC,20,298K,150 mg/L ,83.70%
+11520,dissymmetric bis-quaternary ammonium salt with an imidazoline ring and an ester group,CCCCCCCCCCCCC(=O)OCC[N+](C)(C)CC(O)C[N+]1(CCN)CC/N=C1/CCCCCCCCCCC,20,298K,150 mg/L ,83.50%
+11521,dissymmetric bis-quaternary ammonium salt with an imidazoline ring and an ester group,CCCCCCCCCCCCC(=O)OCC[N+](C)(C)CC(O)C[N+]1(CCN)CC/N=C1/CCCCCCCCCCC,20,298K,150 mg/L ,82.10%
+11522,dissymmetric bis-quaternary ammonium salt with an imidazoline ring and an ester group,CCCCCCCCCCCCC(=O)OCC[N+](C)(C)CC(O)C[N+]1(CCN)CC/N=C1/CCCCCCCCCCC,20,298K,150 mg/L ,82.00%
+11523,1-(2-aminoethyl)-2-heptadecyl-2-imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCN,20,313K,2 PPM,49.70%
+11524,1-(2-aminoethyl)-2-heptadecyl-2-imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCN,20,313K,3 PPM,60.70%
+11525,1-(2-aminoethyl)-2-heptadecyl-2-imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCN,20,313K,5 PPM,70.30%
+11526,1-(2-aminoethyl)-2-heptadecyl-2-imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCN,20,313K,7 PPM,79.40%
+11527,1-(2-aminoethyl)-2-heptadecyl-2-imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCN,20,313K,9 PPM,82.10%
+11528,1-[2-{2-(2-aminoethylamino)-ethylamino}ethyl]-2-heptadecyl-2-imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNCCNCCN,20,313K,2 PPM,23.10%
+11529,1-[2-{2-(2-aminoethylamino)-ethylamino}ethyl]-2-heptadecyl-2-imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNCCNCCN,20,313K,3 PPM,58.70%
+11530,1-[2-{2-(2-aminoethylamino)-ethylamino}ethyl]-2-heptadecyl-2-imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNCCNCCN,20,313K,5 PPM,75.30%
+11531,1-[2-{2-(2-aminoethylamino)-ethylamino}ethyl]-2-heptadecyl-2-imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNCCNCCN,20,313K,7 PPM,86.00%
+11532,1-(2-aminoethyl)-2-(heptadecyl)-bis-2-imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNCCN2CC/N=C2/CCCCCCCCCCCCCCCCC,20,313K,1PPM,11.10%
+11533,1-(2-aminoethyl)-2-(heptadecyl)-bis-2-imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNCCN2CC/N=C2/CCCCCCCCCCCCCCCCC,20,313K,3 PPM,35.70%
+11534,1-(2-aminoethyl)-2-(heptadecyl)-bis-2-imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNCCN2CC/N=C2/CCCCCCCCCCCCCCCCC,20,313K,5 PPM,62.50%
+11535,1-(2-aminoethyl)-2-(heptadecyl)-bis-2-imidazoline,CCCCCCCCCCCCCCCCC/C1=N/CCN1CCNCCN2CC/N=C2/CCCCCCCCCCCCCCCCC,20,313K,78PPM,83.10%
+11536,Poly(urethane-semicarbazides) (SR-16),NNc2nnc(NNC(=O)NC1CCC(NC(=O)O)CC1)s2,5.9,323K,10 PPM,62.80%
+11537,Poly(urethane-semicarbazides) (SR-16),NNc2nnc(NNC(=O)NC1CCC(NC(=O)O)CC1)s2,5.9,323K,25 PPM,68.26%
+11538,Poly(urethane-semicarbazides) (SR-16),NNc2nnc(NNC(=O)NC1CCC(NC(=O)O)CC1)s2,5.9,323K,50  PPM ,81.29%
+11539,Poly(urethane-semicarbazides) (SR-16),NNc2nnc(NNC(=O)NC1CCC(NC(=O)O)CC1)s2,5.9,323K,100 PPM,88.07%
+11540,Poly(urethane-semicarbazides) (SR-16),NNc2nnc(NNC(=O)NC1CCC(NC(=O)O)CC1)s2,5.9,323K,150 PPM,92.12%
+11541,Poly(urethane-semicarbazides) (SR-17),NNc2nnc(NNC(=O)Nc1ccc(NC(=O)O)cc1)s2,5.9,323K,10 PPM,65.17%
+11542,Poly(urethane-semicarbazides) (SR-17),NNc2nnc(NNC(=O)Nc1ccc(NC(=O)O)cc1)s2,5.9,323K,25 PPM,71.53%
+11543,Poly(urethane-semicarbazides) (SR-17),NNc2nnc(NNC(=O)Nc1ccc(NC(=O)O)cc1)s2,5.9,323K,50  PPM ,85.16%
+11544,Poly(urethane-semicarbazides) (SR-17),NNc2nnc(NNC(=O)Nc1ccc(NC(=O)O)cc1)s2,5.9,323K,100 PPM,92.27%
+11545,Poly(urethane-semicarbazides) (SR-17),NNc2nnc(NNC(=O)Nc1ccc(NC(=O)O)cc1)s2,5.9,323K,150 PPM,96.52%
+11546,poly(methyl methacrylate-co-N-vinyl-2-pyrrolidone) polymer,CC(CCC(=O)O)N1CCCC1=O,30,298K,250 mg /L,79%
+11547,poly(methyl methacrylate-co-N-vinyl-2-pyrrolidone) polymer,CC(CCC(=O)O)N1CCCC1=O,30,298K,500  mg /L,86%
+11548,poly(methyl methacrylate-co-N-vinyl-2-pyrrolidone) polymer,CC(CCC(=O)O)N1CCCC1=O,30,298K,1000 mg /L,96%
+11549,1-[(2-hydroxyethyl) amino]-2-(salicylideneamino)ethane,OCCNCC/N=C/c1ccccc1O,30,298K,200 mg /L,65.10%
+11550,1-[(2-hydroxyethyl) amino]-2-(salicylideneamino)ethane,OCCNCC/N=C/c1ccccc1O,30,298K,300 mg /L,75.30%
+11551,1-[(2-hydroxyethyl) amino]-2-(salicylideneamino)ethane,OCCNCC/N=C/c1ccccc1O,30,298K,400 mg /L,85.40%
+11552,1-[(2-hydroxyethyl) amino]-2-(salicylideneamino)ethane,OCCNCC/N=C/c1ccccc1O,30,298K,500 mg /L,86.20%
+11553,Kopsia terengganensis’ alkaloids,CCC25CCCN1CCc3c(C12)n(c4ccccc34)C(O)C5,30,298K,50 PPM,39.73%
+11554,Kopsia terengganensis’ alkaloids,CCC25CCCN1CCc3c(C12)n(c4ccccc34)C(O)C5,30,298K,70 PPM,51%
+11555,Kopsia terengganensis’ alkaloids,CCC25CCCN1CCc3c(C12)n(c4ccccc34)C(O)C5,30,298K,100 PPM,73.07%
+11556,Kopsia terengganensis’ alkaloids,CCC25CCCN1CCc3c(C12)n(c4ccccc34)C(O)C5,30,298K,200 PPM,76.03%
+11557,Kopsia terengganensis’ alkaloids,CCC25CCCN1CCc3c(C12)n(c4ccccc34)C(O)C5,30,298K,500 PPM,81.38%
+11558,N-[2-[(2-aminoethyl) amino] ethyl]-9-octadecenamide,CCCCCCCC/C=C/CCCCCCCC(=O)NCCNCCN,50,298K,0.07×10-5mol/m3,22%
+11559,N-[2-[(2-aminoethyl) amino] ethyl]-9-octadecenamide,CCCCCCCC/C=C/CCCCCCCC(=O)NCCNCCN,50,298K,0.14×10-5mol/m3,41%
+11560,N-[2-[(2-aminoethyl) amino] ethyl]-9-octadecenamide,CCCCCCCC/C=C/CCCCCCCC(=O)NCCNCCN,50,298K,0.27×10-5mol/m3,61%
+11561,N-[2-[(2-aminoethyl) amino] ethyl]-9-octadecenamide,CCCCCCCC/C=C/CCCCCCCC(=O)NCCNCCN,50,298K,0.82×10-5mol/m3,90%
+11562,N-[2-[(2-aminoethyl) amino] ethyl]-9-octadecenamide,CCCCCCCC/C=C/CCCCCCCC(=O)NCCNCCN,50,298K,1.36×10-5mol/m3,98%
+11563,N-[2-[(2-aminoethyl) amino] ethyl]-9-octadecenamide,CCCCCCCC/C=C/CCCCCCCC(=O)NCCNCCN,50,298K,2.72×10-5mol/m3,99%
+11564,N-[2-[(2-aminoethyl) amino] ethyl]-9-octadecenamide,CCCCCCCC/C=C/CCCCCCCC(=O)NCCNCCN,50,298K,4.08×10-5mol/m3,99%
+11565,N-[2-[(2-aminoethyl) amino] ethyl]-9-octadecenamide,CCCCCCCC/C=C/CCCCCCCC(=O)NCCNCCN,50,298K,5.44×10-5mol/m3,99%
+11566,"sodium 
+benzoate 
+(SB) 
+and 
+oleic-base 
+imidazoline 
+(OIM).",CCCCCCCC/C=C/CCCCCCC/C1=N/CCN1CCN,23.2065,303K,10 mg/L,78.62%
+11567,5,CN2CCC(CCCCCCCCCOc1ccc(C=O)cc1)O2,58.5,333K,10 PPM,86.50%
+11568,5,CN2CCC(CCCCCCCCCOc1ccc(C=O)cc1)O2,29.25,313K,1.5 PPM,54.10%
+11569,5,CN2CCC(CCCCCCCCCOc1ccc(C=O)cc1)O2,29.25,313K,2.5 PPM,62.70%
+11570,5,CN2CCC(CCCCCCCCCOc1ccc(C=O)cc1)O2,29.25,313K,5 PPM,66.60%
+11571,5,CN2CCC(CCCCCCCCCOc1ccc(C=O)cc1)O2,29.25,313K,10 PPM,73.90%
+11572,5,CN2CCC(CCCCCCCCCOc1ccc(C=O)cc1)O2,29.25,313K,25 PPM,84.80%
+11573,5,CN2CCC(CCCCCCCCCOc1ccc(C=O)cc1)O2,29.25,313K,100 PPM,94.60%
+11574,5,CN2CCC(CCCCCCCCCOc1ccc(C=O)cc1)O2,29.25,313K,200 PPM,95.50%
+11575,8,CN2CCC(CCCCCCCCCOc1ccc(/C=C/C=O)cc1)O2,58.5,333K,10 PPM,90.20%
+11576,8,CN2CCC(CCCCCCCCCOc1ccc(/C=C/C=O)cc1)O2,29.25,313K,0.5 PPM,44.00%
+11577,8,CN2CCC(CCCCCCCCCOc1ccc(/C=C/C=O)cc1)O2,29.25,313K,1 PPM,67.40%
+11578,8,CN2CCC(CCCCCCCCCOc1ccc(/C=C/C=O)cc1)O2,29.25,313K,1.5 PPM,77.20%
+11579,8,CN2CCC(CCCCCCCCCOc1ccc(/C=C/C=O)cc1)O2,29.25,313K,2.5 PPM,88.10%
+11580,8,CN2CCC(CCCCCCCCCOc1ccc(/C=C/C=O)cc1)O2,29.25,313K,5 PPM,88.90%
+11581,8,CN2CCC(CCCCCCCCCOc1ccc(/C=C/C=O)cc1)O2,29.25,313K,10 PPM,90.40%
+11582,8,CN2CCC(CCCCCCCCCOc1ccc(/C=C/C=O)cc1)O2,29.25,313K,25 PPM,93.10%
+11583,8,CN2CCC(CCCCCCCCCOc1ccc(/C=C/C=O)cc1)O2,29.25,313K,100 PPM,94.40%
+11584,8,CN2CCC(CCCCCCCCCOc1ccc(/C=C/C=O)cc1)O2,29.25,313K,200 PPM,95.60%
+11585,10,C#CC[N+]2(C)CCC(CCCCCCCCCOc1ccc(/C=C/C=O)cc1)O2,58.5,333K,10 PPM,90.30%
+11586,10,C#CC[N+]2(C)CCC(CCCCCCCCCOc1ccc(/C=C/C=O)cc1)O2,29.25,313K,0.5 PPM,32.00%
+11587,10,C#CC[N+]2(C)CCC(CCCCCCCCCOc1ccc(/C=C/C=O)cc1)O2,29.25,313K,1 PPM,52.00%
+11588,10,C#CC[N+]2(C)CCC(CCCCCCCCCOc1ccc(/C=C/C=O)cc1)O2,29.25,313K,1.5 PPM,69.00%
+11589,10,C#CC[N+]2(C)CCC(CCCCCCCCCOc1ccc(/C=C/C=O)cc1)O2,29.25,313K,2.5 PPM,87.90%
+11590,10,C#CC[N+]2(C)CCC(CCCCCCCCCOc1ccc(/C=C/C=O)cc1)O2,29.25,313K,5 PPM,89.90%
+11591,10,C#CC[N+]2(C)CCC(CCCCCCCCCOc1ccc(/C=C/C=O)cc1)O2,29.25,313K,10 PPM,91.80%
+11592,10,C#CC[N+]2(C)CCC(CCCCCCCCCOc1ccc(/C=C/C=O)cc1)O2,29.25,313K,15 PPM,92.90%
+11593,10,C#CC[N+]2(C)CCC(CCCCCCCCCOc1ccc(/C=C/C=O)cc1)O2,29.25,313K,25 PPM,94.60%
+11594,10,C#CC[N+]2(C)CCC(CCCCCCCCCOc1ccc(/C=C/C=O)cc1)O2,29.25,313K,50 PPM,95.50%
+11595,10,C#CC[N+]2(C)CCC(CCCCCCCCCOc1ccc(/C=C/C=O)cc1)O2,29.25,313K,100 PPM,98.00%
+11596,10,C#CC[N+]2(C)CCC(CCCCCCCCCOc1ccc(/C=C/C=O)cc1)O2,29.25,313K,200 PPM,98.50%
+11597,"N,N'-(pyridine-2,6-diyl)bis(1-(4-methoxyphenyl) methanimine) (PM)",COc3ccc(/C=N/c2cccc(N=Cc1ccc(OC)cc1)n2)cc3,35,313K,50 mg/L,40.00%
+11598,"N,N'-(pyridine-2,6-diyl)bis(1-(4-methoxyphenyl) methanimine) (PM)",COc3ccc(/C=N/c2cccc(N=Cc1ccc(OC)cc1)n2)cc3,35,313K,100 mg/L,62.00%
+11599,"N,N'-(pyridine-2,6-diyl)bis(1-(4-methoxyphenyl) methanimine) (PM)",COc3ccc(/C=N/c2cccc(N=Cc1ccc(OC)cc1)n2)cc3,35,313K,200 mg/L,84.00%
+11600,"N,N'-(pyridine-2,6-diyl)bis(1-(4-methoxyphenyl) methanimine) (PM)",COc3ccc(/C=N/c2cccc(N=Cc1ccc(OC)cc1)n2)cc3,35,313K,400 mg/L,91.00%
+11601,"N,N'-(pyridine-2,6-diyl)bis(1-(4-methoxyphenyl) methanimine) (PM)",COc3ccc(/C=N/c2cccc(N=Cc1ccc(OC)cc1)n2)cc3,35,313K,50 mg/L,53.00%
+11602,"N,N'-(pyridine-2,6-diyl)bis(1-(4-methoxyphenyl) methanimine) (PM)",COc3ccc(/C=N/c2cccc(N=Cc1ccc(OC)cc1)n2)cc3,35,313K,100 mg/L,68.00%
+11603,"N,N'-(pyridine-2,6-diyl)bis(1-(4-methoxyphenyl) methanimine) (PM)",COc3ccc(/C=N/c2cccc(N=Cc1ccc(OC)cc1)n2)cc3,35,313K,200 mg/L,80.00%
+11604,"N,N'-(pyridine-2,6-diyl)bis(1-(4-methoxyphenyl) methanimine) (PM)",COc3ccc(/C=N/c2cccc(N=Cc1ccc(OC)cc1)n2)cc3,35,313K,400 mg/L,90.00%
+11605,"1,2,4,7,9,10-Hexaazacyclo-pentadeca-10,15-dien-3,5,6,8-tetraone (HPT)",O=C1N/N=C/CCC/C=N/NC(=O)NC(=O)C(=O)N1,35,298K,50 PPM,66.00%
+11606,"1,2,4,7,9,10-Hexaazacyclo-pentadeca-10,15-dien-3,5,6,8-tetraone (HPT)",O=C1N/N=C/CCC/C=N/NC(=O)NC(=O)C(=O)N1,35,298K,100 PPM,72.00%
+11607,"1,2,4,7,9,10-Hexaazacyclo-pentadeca-10,15-dien-3,5,6,8-tetraone (HPT)",O=C1N/N=C/CCC/C=N/NC(=O)NC(=O)C(=O)N1,35,298K,200 PPM,85.00%
+11608,"1,2,4,7,9,10-Hexaazacyclo-pentadeca-10,15-dien-3,5,6,8-tetraone (HPT)",O=C1N/N=C/CCC/C=N/NC(=O)NC(=O)C(=O)N1,35,298K,400 PPM,92.00%
+11609,2-(2-Bromophenyl)-1-methyl-1H-benzimidazole (BPMB),Cn3c(c1ccccc1Br)nc2ccccc23,35,298K,0.17 mM,85.30%
+11610,2-(2-Bromophenyl)-1-methyl-1H-benzimidazole (BPMB),Cn3c(c1ccccc1Br)nc2ccccc23,35,298K,0.34 mM,94.70%
+11611,2-(2-Bromophenyl)-1-methyl-1H-benzimidazole (BPMB),Cn3c(c1ccccc1Br)nc2ccccc23,35,298K,0.17 mM,78.40%
+11612,2-(2-Bromophenyl)-1-methyl-1H-benzimidazole (BPMB),Cn3c(c1ccccc1Br)nc2ccccc23,35,298K,0.34 mM,89.40%
+11613,2-(2-Bromophenyl)-1-methyl-1H-benzimidazole (BPMB),Cn3c(c1ccccc1Br)nc2ccccc23,35,298K,0.17 mM,71.00%
+11614,2-(2-Bromophenyl)-1-methyl-1H-benzimidazole (BPMB),Cn3c(c1ccccc1Br)nc2ccccc23,35,298K,0.34 mM,79.50%
+11615,2-(2-Bromophenyl)-1-methyl-1H-benzimidazole (BPMB),Cn3c(c1ccccc1Br)nc2ccccc23,35,298K,0.17 mM,9.20%
+11616,2-(2-Bromophenyl)-1-methyl-1H-benzimidazole (BPMB),Cn3c(c1ccccc1Br)nc2ccccc23,35,298K,0.34 mM,51.20%
+11617,2-(2-Bromophenyl)-1-methyl-1H-benzimidazole (BPMB),Cn3c(c1ccccc1Br)nc2ccccc23,35,298K,0.34 mM,51.20%
+11618,2-(2-Bromophenyl)-1-methyl-1H-benzimidazole (BPMB),Cn3c(c1ccccc1Br)nc2ccccc23,35,298K,0.34 mM,93.70%
+11619,mercaptoethanol (ME),OCCS,35,298K,0.34 mM,88.40%
+11620,2-(2-pyridyl)benzimidazole (2PB),c3ccc(c2nc1ccccc1[nH]2)nc3,35,298K,2.56 mM,44.20%
+11621,2-(2-pyridyl)benzimidazole (2PB),c3ccc(c2nc1ccccc1[nH]2)nc3,35,298K,7.68 mM,64.40%
+11622,2-(2-pyridyl)benzimidazole (2PB),c3ccc(c2nc1ccccc1[nH]2)nc3,35,298K,2.56 mM,90.00%
+11623,2-(2-pyridyl)benzimidazole (2PB),c3ccc(c2nc1ccccc1[nH]2)nc3,35,298K,7.68 mM,97.00%
+11624,2-(2-pyridyl)benzimidazole (2PB),c3ccc(c2nc1ccccc1[nH]2)nc3,35,298K,2.56 mM,91.00%
+11625,2-(2-pyridyl)benzimidazole (2PB),c3ccc(c2nc1ccccc1[nH]2)nc3,35,298K,7.68 mM,97.00%
+11626,2-(2-pyridyl)benzimidazole (2PB),c3ccc(c2nc1ccccc1[nH]2)nc3,35,298K,2.56 mM,86.00%
+11627,2-(2-pyridyl)benzimidazole (2PB),c3ccc(c2nc1ccccc1[nH]2)nc3,35,298K,7.68 mM,94.00%
+11628,2-(2-pyridyl) benzimidazole (2PB),c3ccc(c2nc1ccccc1[nH]2)nc3,17.31,298K,1.28 mM,35.00%
+11629,2-(2-pyridyl) benzimidazole (2PB),c3ccc(c2nc1ccccc1[nH]2)nc3,17.31,298K,2.56 mM,63.40%
+11630,2-(2-pyridyl) benzimidazole (2PB),c3ccc(c2nc1ccccc1[nH]2)nc3,17.31,298K,1.28 mM,73.10%
+11631,2-(2-pyridyl) benzimidazole (2PB),c3ccc(c2nc1ccccc1[nH]2)nc3,17.31,298K,2.56 mM,87.20%
+11632,2-(2-pyridyl) benzimidazole (2PB),c3ccc(c2nc1ccccc1[nH]2)nc3,17.31,298K,1.28 mM,44.80%
+11633,2-(2-pyridyl) benzimidazole (2PB),c3ccc(c2nc1ccccc1[nH]2)nc3,17.31,298K,2.56 mM,83.90%
+11634,2-(2-pyridyl) benzimidazole (2PB),c3ccc(c2nc1ccccc1[nH]2)nc3,17.31,298K,1.28 mM,67.20%
+11635,2-(2-pyridyl) benzimidazole (2PB),c3ccc(c2nc1ccccc1[nH]2)nc3,17.31,298K,2.56 mM,84.40%
+11636,thiobarbituric acid (TBA),O=C1CC(=O)NC(=S)N1,17.31,298K,0.035 mM,83.70%
+11637,thiobarbituric acid (TBA),O=C1CC(=O)NC(=S)N1,17.31,298K,0.070 mM,92.20%
+11638,thiobarbituric acid (TBA),O=C1CC(=O)NC(=S)N1,17.31,298K,0.140 mM,92.00%
+11639,"1-phenyl-1,2-dihydronaphtho[1,2-e][1,3]oxazin-3-one (PNO)",O=C4NC(c1ccccc1)c2c(ccc3ccccc23)O4,0,308K,100 mg/L,67.40%
+11640,"1-phenyl-1,2-dihydronaphtho[1,2-e][1,3]oxazin-3-one (PNO)",O=C4NC(c1ccccc1)c2c(ccc3ccccc23)O4,35,308K,200 mg/L,79.80%
+11641,"1-phenyl-1,2-dihydronaphtho[1,2-e][1,3]oxazin-3-one (PNO)",O=C4NC(c1ccccc1)c2c(ccc3ccccc23)O4,35,308K,300 mg/L,82.70%
+11642,"1-phenyl-1,2-dihydronaphtho[1,2-e][1,3]oxazin-3-one (PNO)",O=C4NC(c1ccccc1)c2c(ccc3ccccc23)O4,35,308K,400 mg/L,86.50%
+11643,"1-phenyl-1,2-dihydronaphtho[1,2-e][1,3]oxazin-3-one (PNO)",O=C4NC(c1ccccc1)c2c(ccc3ccccc23)O4,35,308K,500 mg/L,90.40%
+11644,Pomelo peel extract (PPE) ,C[C@@H]5O[C@@H](O[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]1Oc4cc(O)c3C(=O)CC(c2ccc(O)cc2)Oc3c4)[C@H](O)[C@H](O)[C@H]5O,35,298K,0.1g/L,77.30%
+11645,Pomelo peel extract (PPE) ,C[C@@H]5O[C@@H](O[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]1Oc4cc(O)c3C(=O)CC(c2ccc(O)cc2)Oc3c4)[C@H](O)[C@H](O)[C@H]5O,35,298K,0.2g/L,86.70%
+11646,Pomelo peel extract (PPE) ,C[C@@H]5O[C@@H](O[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]1Oc4cc(O)c3C(=O)CC(c2ccc(O)cc2)Oc3c4)[C@H](O)[C@H](O)[C@H]5O,35,298K,0.3g/L,92.90%
+11647,Pomelo peel extract (PPE) ,C[C@@H]5O[C@@H](O[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]1Oc4cc(O)c3C(=O)CC(c2ccc(O)cc2)Oc3c4)[C@H](O)[C@H](O)[C@H]5O,35,298K,0.4g/L,93.30%
+11648,Sodium salt of sulfated fatty acid (SSFA),CCCCCCCC(CCCCCCCC(=O)O[Na])OS(=O)(=O)O[Na],10,323K,10 PPM,80.30%
+11649,Sodium salt of sulfated fatty acid (SSFA),CCCCCCCC(CCCCCCCC(=O)O[Na])OS(=O)(=O)O[Na],10,323K,25 PPM,85.80%
+11650,Sodium salt of sulfated fatty acid (SSFA),CCCCCCCC(CCCCCCCC(=O)O[Na])OS(=O)(=O)O[Na],10,323K,50 PPM,90.20%
+11651,Sodium salt of sulfated fatty acid (SSFA),CCCCCCCC(CCCCCCCC(=O)O[Na])OS(=O)(=O)O[Na],10,323K,75 PPM,95.40%
+11652,Sodium salt of sulfated fatty acid (SSFA),CCCCCCCC(CCCCCCCC(=O)O[Na])OS(=O)(=O)O[Na],10,323K,100 PPM,98.70%
+11653,Potassium salt of sulfated fatty acid (PSFA),CCCCCCCC(CCCCCCCC(=O)O[K])OS(=O)(=O)O[K],10,323K,10 PPM,80.20%
+11654,Potassium salt of sulfated fatty acid (PSFA),CCCCCCCC(CCCCCCCC(=O)O[K])OS(=O)(=O)O[K],10,323K,25 PPM,84.30%
+11655,Potassium salt of sulfated fatty acid (PSFA),CCCCCCCC(CCCCCCCC(=O)O[K])OS(=O)(=O)O[K],10,323K,50 PPM,88.40%
+11656,Potassium salt of sulfated fatty acid (PSFA),CCCCCCCC(CCCCCCCC(=O)O[K])OS(=O)(=O)O[K],10,323K,75 PPM,94.70%
+11657,Potassium salt of sulfated fatty acid (PSFA),CCCCCCCC(CCCCCCCC(=O)O[K])OS(=O)(=O)O[K],10,323K,100 PPM,97.50%
+11658,Ammonium salt of sulfated fatty acid (ASFA),CCCCCCCC(CCCCCCCC(=O)[O-])OS(=O)(=O)[O-].[NH4+].[NH4+],10,323K,10 PPM,83.70%
+11659,Ammonium salt of sulfated fatty acid (ASFA),CCCCCCCC(CCCCCCCC(=O)[O-])OS(=O)(=O)[O-].[NH4+].[NH4+],10,323K,25 PPM,87.20%
+11660,Ammonium salt of sulfated fatty acid (ASFA),CCCCCCCC(CCCCCCCC(=O)[O-])OS(=O)(=O)[O-].[NH4+].[NH4+],10,323K,50 PPM,93.10%
+11661,Ammonium salt of sulfated fatty acid (ASFA),CCCCCCCC(CCCCCCCC(=O)[O-])OS(=O)(=O)[O-].[NH4+].[NH4+],10,323K,75 PPM,95.90%
+11662,Ammonium salt of sulfated fatty acid (ASFA),CCCCCCCC(CCCCCCCC(=O)[O-])OS(=O)(=O)[O-].[NH4+].[NH4+],10,323K,100 PPM,98.80%
+11663,Monoethanolamine sulfated fatty acid(MSFA),CCCCCCCC(CCCCCCCC(=O)NCCO)OS(=O)(=O)NCCO,10,323K,10 PPM,89.10%
+11664,Monoethanolamine sulfated fatty acid(MSFA),CCCCCCCC(CCCCCCCC(=O)NCCO)OS(=O)(=O)NCCO,10,323K,25 PPM,91.60%
+11665,Monoethanolamine sulfated fatty acid(MSFA),CCCCCCCC(CCCCCCCC(=O)NCCO)OS(=O)(=O)NCCO,10,323K,50 PPM,94.20%
+11666,Monoethanolamine sulfated fatty acid(MSFA),CCCCCCCC(CCCCCCCC(=O)NCCO)OS(=O)(=O)NCCO,10,323K,75 PPM,97.20%
+11667,Monoethanolamine sulfated fatty acid(MSFA),CCCCCCCC(CCCCCCCC(=O)NCCO)OS(=O)(=O)NCCO,10,323K,100 PPM,98.90%
+11668,Diethanolamine sulfated fatty acid (DSFA),CCCCCCCC(CCCCCCCC(=O)N(CCO)CCO)OS(=O)(=O)N(CCO)CCO,10,323K,10 PPM,90.50%
+11669,Diethanolamine sulfated fatty acid (DSFA),CCCCCCCC(CCCCCCCC(=O)N(CCO)CCO)OS(=O)(=O)N(CCO)CCO,10,323K,25 PPM,92.70%
+11670,Diethanolamine sulfated fatty acid (DSFA),CCCCCCCC(CCCCCCCC(=O)N(CCO)CCO)OS(=O)(=O)N(CCO)CCO,10,323K,50 PPM,95.10%
+11671,Diethanolamine sulfated fatty acid (DSFA),CCCCCCCC(CCCCCCCC(=O)N(CCO)CCO)OS(=O)(=O)N(CCO)CCO,10,323K,75 PPM,97.80%
+11672,Diethanolamine sulfated fatty acid (DSFA),CCCCCCCC(CCCCCCCC(=O)N(CCO)CCO)OS(=O)(=O)N(CCO)CCO,10,323K,100 PPM,98.90%
+11673,"Sodium sulfonatooxy fatty acid, (SFA)",CCCCCCCCC(CCCCCCCC(=O)O[Na])OS(=O)(=O)O[Na],10,323K,10 PPM,85.70%
+11674,"Sodium sulfonatooxy fatty acid, (SFA)",CCCCCCCCC(CCCCCCCC(=O)O[Na])OS(=O)(=O)O[Na],10,323K,25 PPM,88.10%
+11675,"Sodium sulfonatooxy fatty acid, (SFA)",CCCCCCCCC(CCCCCCCC(=O)O[Na])OS(=O)(=O)O[Na],10,323K,50 PPM,94.60%
+11676,"Sodium sulfonatooxy fatty acid, (SFA)",CCCCCCCCC(CCCCCCCC(=O)O[Na])OS(=O)(=O)O[Na],10,323K,75 PPM,96.90%
+11677,"Sodium sulfonatooxy fatty acid, (SFA)",CCCCCCCCC(CCCCCCCC(=O)O[Na])OS(=O)(=O)O[Na],10,323K,100 PPM,98.00%
+11678,"Potassium sulfonatooxy fatty acid, (PFA)",CCCCCCCCC(CCCCCCCC(=O)O[K])OS(=O)(=O)O[K],10,323K,10 PPM,81.50%
+11679,"Potassium sulfonatooxy fatty acid, (PFA)",CCCCCCCCC(CCCCCCCC(=O)O[K])OS(=O)(=O)O[K],10,323K,25 PPM,84.60%
+11680,"Potassium sulfonatooxy fatty acid, (PFA)",CCCCCCCCC(CCCCCCCC(=O)O[K])OS(=O)(=O)O[K],10,323K,50 PPM,93.00%
+11681,"Potassium sulfonatooxy fatty acid, (PFA)",CCCCCCCCC(CCCCCCCC(=O)O[K])OS(=O)(=O)O[K],10,323K,75 PPM,96.00%
+11682,"Potassium sulfonatooxy fatty acid, (PFA)",CCCCCCCCC(CCCCCCCC(=O)O[K])OS(=O)(=O)O[K],10,323K,100 PPM,97.40%
+11683,"Ammonium sulfonatooxy fatty acid, (AFA)",CCCCCCCCC(CCCCCCCC(=O)[O-])OS(=O)(=O)[O-].[NH4+].[NH4+],10,323K,10 PPM,87.00%
+11684,"Ammonium sulfonatooxy fatty acid, (AFA)",CCCCCCCCC(CCCCCCCC(=O)[O-])OS(=O)(=O)[O-].[NH4+].[NH4+],10,323K,25 PPM,89.20%
+11685,"Ammonium sulfonatooxy fatty acid, (AFA)",CCCCCCCCC(CCCCCCCC(=O)[O-])OS(=O)(=O)[O-].[NH4+].[NH4+],10,323K,50 PPM,95.10%
+11686,"Ammonium sulfonatooxy fatty acid, (AFA)",CCCCCCCCC(CCCCCCCC(=O)[O-])OS(=O)(=O)[O-].[NH4+].[NH4+],10,323K,75 PPM,97.10%
+11687,"Ammonium sulfonatooxy fatty acid, (AFA)",CCCCCCCCC(CCCCCCCC(=O)[O-])OS(=O)(=O)[O-].[NH4+].[NH4+],10,323K,100 PPM,98.10%
+11688,"Sulfonatooxy fatty acid–monoethanolamine complex, (SFM)",CCCCCCCCC(CCCCCCCC(=O)[O-])OS(=O)(=O)[O-].[NH3+]CCO.[NH3+]CCO,10,323K,10 PPM,89.30%
+11689,"Sulfonatooxy fatty acid–monoethanolamine complex, (SFM)",CCCCCCCCC(CCCCCCCC(=O)[O-])OS(=O)(=O)[O-].[NH3+]CCO.[NH3+]CCO,10,323K,25 PPM,91.10%
+11690,"Sulfonatooxy fatty acid–monoethanolamine complex, (SFM)",CCCCCCCCC(CCCCCCCC(=O)[O-])OS(=O)(=O)[O-].[NH3+]CCO.[NH3+]CCO,10,323K,50 PPM,96.00%
+11691,"Sulfonatooxy fatty acid–monoethanolamine complex, (SFM)",CCCCCCCCC(CCCCCCCC(=O)[O-])OS(=O)(=O)[O-].[NH3+]CCO.[NH3+]CCO,10,323K,75 PPM,97.70%
+11692,"Sulfonatooxy fatty acid–monoethanolamine complex, (SFM)",CCCCCCCCC(CCCCCCCC(=O)[O-])OS(=O)(=O)[O-].[NH3+]CCO.[NH3+]CCO,10,323K,100 PPM,98.50%
+11693,"Sulfonatooxy fatty acid–diethanolamine complex, (SFD)",CCCCCCCCC(CCCCCCCC(=O)[O-])OS(=O)(=O)[O-].OCC[NH2+]CCO.OCCC[NH2+]CCO,10,323K,10 PPM,92.20%
+11694,"Sulfonatooxy fatty acid–diethanolamine complex, (SFD)",CCCCCCCCC(CCCCCCCC(=O)[O-])OS(=O)(=O)[O-].OCC[NH2+]CCO.OCCC[NH2+]CCO,10,323K,25 PPM,93.50%
+11695,"Sulfonatooxy fatty acid–diethanolamine complex, (SFD)",CCCCCCCCC(CCCCCCCC(=O)[O-])OS(=O)(=O)[O-].OCC[NH2+]CCO.OCCC[NH2+]CCO,10,323K,50 PPM,97.00%
+11696,"Sulfonatooxy fatty acid–diethanolamine complex, (SFD)",CCCCCCCCC(CCCCCCCC(=O)[O-])OS(=O)(=O)[O-].OCC[NH2+]CCO.OCCC[NH2+]CCO,10,323K,75 PPM,98.30%
+11697,"Sulfonatooxy fatty acid–diethanolamine complex, (SFD)",CCCCCCCCC(CCCCCCCC(=O)[O-])OS(=O)(=O)[O-].OCC[NH2+]CCO.OCCC[NH2+]CCO,10,323K,100 PPM,98.90%
+11698,"5,10,15,20-tetrakis(pentafluorophenyl)-21H,23H-porphyrin palladium(II) (PF-1) ",Fc%12c(F)c(F)c(c4c6ccc7c(c1c(F)c(F)c(F)c(F)c1F)c%10ccc%11c(c2c(F)c(F)c(F)c(F)c2F)c9ccc8c(c3c(F)c(F)c(F)c(F)c3F)c5ccc4[n+]5[Pd](n67)(n89)[n+]%10%11)c(F)c%12F,35,298K,400 PPM,86.00%
+11699,"4,4′,4″,4‴-(porphyrin-5,10,15,20-tetrayl)tetrakis(benzoic acid) (PF-2)",O=C(O)c9ccc(c7c1ccc(n1)c(c2ccc(C(=O)O)cc2)c3ccc([nH]3)c(c4ccc(C(=O)O)cc4)c5ccc(n5)c(c6ccc(C(=O)O)cc6)c8ccc7[nH]8)cc9,35,298K,400 PPM,93.00%
+11700,N-benzyl chitosan oligosaccharide quaternary ammonium salt (BHC),C[N+](C)(C)CC(O)CNC1C(O)CC(CO)OC1OC4OC(CO)C(OC3C(O)C(N=Cc2ccccc2)C(O)OC3CO)C(O)C4N.[Cl-],35,353K,30 mg/L,36.83%
+11701,N-benzyl chitosan oligosaccharide quaternary ammonium salt (BHC),C[N+](C)(C)CC(O)CNC1C(O)CC(CO)OC1OC4OC(CO)C(OC3C(O)C(N=Cc2ccccc2)C(O)OC3CO)C(O)C4N.[Cl-],35,353K,50 mg/L,56.86%
+11702,N-benzyl chitosan oligosaccharide quaternary ammonium salt (BHC),C[N+](C)(C)CC(O)CNC1C(O)CC(CO)OC1OC4OC(CO)C(OC3C(O)C(N=Cc2ccccc2)C(O)OC3CO)C(O)C4N.[Cl-],35,353K,80 mg/L,88.78%
+11703,N-benzyl chitosan oligosaccharide quaternary ammonium salt (BHC),C[N+](C)(C)CC(O)CNC1C(O)CC(CO)OC1OC4OC(CO)C(OC3C(O)C(N=Cc2ccccc2)C(O)OC3CO)C(O)C4N.[Cl-],35,353K,100 mg/L,88.06%
+11704, N-propyl chitosan oligosaccharide quaternary ammonium salt (PHC) ,CCC=NC3C(O)OC(CO)C(OC2C(O)C(N)C(OC1OC(CO)CC(O)C1NCC(O)C[N+](C)(C)C)OC2CO)C3O.[Cl-],35,353K,30 mg/L,71.52%
+11705, N-propyl chitosan oligosaccharide quaternary ammonium salt (PHC) ,CCC=NC3C(O)OC(CO)C(OC2C(O)C(N)C(OC1OC(CO)CC(O)C1NCC(O)C[N+](C)(C)C)OC2CO)C3O.[Cl-],35,353K,50 mg/L,87.73%
+11706, N-propyl chitosan oligosaccharide quaternary ammonium salt (PHC) ,CCC=NC3C(O)OC(CO)C(OC2C(O)C(N)C(OC1OC(CO)CC(O)C1NCC(O)C[N+](C)(C)C)OC2CO)C3O.[Cl-],35,353K,80 mg/L,83.43%
+11707, N-propyl chitosan oligosaccharide quaternary ammonium salt (PHC) ,CCC=NC3C(O)OC(CO)C(OC2C(O)C(N)C(OC1OC(CO)CC(O)C1NCC(O)C[N+](C)(C)C)OC2CO)C3O.[Cl-],35,353K,100 mg/L,91.90%
+11708,4-Carboxyphenylboronic acid (CPBA),O=C(O)c1ccc(B(O)O)cc1,0.0585,298K,0.12 mM,77.13%
+11709,4-Carboxyphenylboronic acid (CPBA),O=C(O)c1ccc(B(O)O)cc1,0.0585,298K,0.60 mM,92.67%
+11710,4-Carboxyphenylboronic acid (CPBA),O=C(O)c1ccc(B(O)O)cc1,0.0585,298K,2.41 mM,95.36%
+11711,β-amino acids（GZC-8）,CCCCCCCC[NH2+]CCC(=O)[O-],0.0585,343K,25 PPM,61.47%
+11712,β-amino acids（GZC-18）,CCCCCCCCCCCCCCCCCC[NH2+]CCC(=O)[O-],0.0585,343K,25 PPM,90.14%
+11713,β-amino acids（GZC-12）,CCCCCCCCCCCC[NH2+]CCC(=O)[O-],0.0585,343K,50 PPM,87.28%
+11714,β-amino acids（GZC-12）,CCCCCCCCCCCC[NH2+]CCC(=O)[O-],0.0585,343K,75 PPM,98.57%
+11715,β-amino acids（GZC-12）,CCCCCCCCCCCC[NH2+]CCC(=O)[O-],0.0585,343K,25 PPM,98.93%
+11716,2-undecyl-1-ethylamino imidazoline (2UEI),CCCCCCCCCCC/C1=N/CCN1CCN,35,298K,20 mg/L,63.20%
+11717,2-undecyl-1-ethylamino imidazoline (2UEI),CCCCCCCCCCC/C1=N/CCN1CCN,35,298K,40 mg/L,67.07%
+11718,2-undecyl-1-ethylamino imidazoline (2UEI),CCCCCCCCCCC/C1=N/CCN1CCN,35,298K,80 mg/L,75.23%
+11719,2-undecyl-1-ethylamino imidazoline (2UEI),CCCCCCCCCCC/C1=N/CCN1CCN,35,298K,100 mg/L,87.67%
+11720,2-undecyl-1-ethylamino imidazoline (2UEI),CCCCCCCCCCC/C1=N/CCN1CCN,35,313K,80 mg/L,83.54%
+11721,2-undecyl-1-ethylamino imidazoline (2UEI),CCCCCCCCCCC/C1=N/CCN1CCN,35,323K,80 mg/L,84.61%
+11722,2-undecyl-1-ethylamino imidazoline (2UEI),CCCCCCCCCCC/C1=N/CCN1CCN,35,323K,80 mg/L,95.04%
